@@ -3,27 +3,156 @@
 <head>
   <meta charset="UTF-8">
   <title>Research Trends Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      background-color: #f7f7f7;
+      color: #222;
+    }
+
+    header {
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      margin-bottom: 5px;
+    }
+
+    .subtitle {
+      color: #555;
+      margin-top: 0;
+    }
+
+    .summary {
+      background: white;
+      border: 1px solid #ddd;
+      padding: 15px 20px;
+      border-radius: 8px;
+      margin-bottom: 25px;
+    }
+
+    .paper-card {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 18px 20px;
+      margin-bottom: 18px;
+    }
+
+    .paper-card h2 {
+      font-size: 20px;
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+
+    .meta {
+      color: #555;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .abstract {
+      margin-top: 10px;
+      margin-bottom: 12px;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #e9eef7;
+      border: 1px solid #c8d4e8;
+      border-radius: 12px;
+      padding: 3px 9px;
+      margin: 3px 4px 3px 0;
+      font-size: 13px;
+    }
+
+    .grade {
+      font-weight: bold;
+    }
+
+    a {
+      color: #0645ad;
+    }
+
+    footer {
+      margin-top: 40px;
+      color: #666;
+      font-size: 14px;
+    }
+  </style>
 </head>
+
 <body>
-  <h1>Research Trends Dashboard</h1>
-  <p>A personal dashboard for tracking recent journal articles in science communication, STS, and environmental studies.</p>
+  <header>
+    <h1>Research Trends Dashboard</h1>
+    <p class="subtitle">
+      A personal research dashboard for tracking recent journal articles in science communication, STS, and environmental studies.
+    </p>
+  </header>
 
-  <h2>Status</h2>
-  <p>The dashboard is under construction.</p>
+  <section class="summary">
+    <h2>Dashboard Status</h2>
+    <p id="summary-text">Loading paper data...</p>
+  </section>
 
-  <h2>Planned Data Fields</h2>
-  <ul>
-    <li>Journal name</li>
-    <li>Article title</li>
-    <li>Authors</li>
-    <li>Publication year</li>
-    <li>Publication date</li>
-    <li>Abstract</li>
-    <li>DOI</li>
-    <li>Article link</li>
-    <li>Collection date</li>
-    <li>Journal grade</li>
-    <li>Keyword match</li>
-  </ul>
+  <main id="paper-list">
+    <!-- Paper cards will be inserted here by JavaScript. -->
+  </main>
+
+  <footer>
+    <p>Data source: <code>data/papers.json</code></p>
+  </footer>
+
+  <script>
+    async function loadPapers() {
+      const response = await fetch("data/papers.json");
+      const papers = await response.json();
+
+      const summaryText = document.getElementById("summary-text");
+      const paperList = document.getElementById("paper-list");
+
+      summaryText.textContent = `${papers.length} articles loaded.`;
+
+      papers.forEach(function(paper) {
+        const card = document.createElement("article");
+        card.className = "paper-card";
+
+        const authors = paper.authors.join(", ");
+        const keywords = paper.keyword_matches.map(function(keyword) {
+          return `<span class="tag">${keyword}</span>`;
+        }).join("");
+
+        card.innerHTML = `
+          <h2>${paper.title}</h2>
+          <div class="meta">
+            <span class="grade">Grade ${paper.grade}</span> |
+            ${paper.journal_name} |
+            ${paper.publication_year} |
+            Published: ${paper.publication_date} |
+            Collected: ${paper.collection_date}
+          </div>
+          <div class="meta">
+            Authors: ${authors}
+          </div>
+          <p class="abstract">${paper.abstract}</p>
+          <div>
+            ${keywords}
+          </div>
+          <p>
+            DOI: ${paper.doi}<br>
+            <a href="${paper.url}" target="_blank">Open article page</a>
+          </p>
+        `;
+
+        paperList.appendChild(card);
+      });
+    }
+
+    loadPapers();
+  </script>
 </body>
 </html>
