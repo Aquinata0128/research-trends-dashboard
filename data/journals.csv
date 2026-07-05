@@ -1,20 +1,20 @@
-grade,journal_name,field,region,first_implementation,collection_method,status
-A,Public Understanding of Science,science communication / STS,international,yes,to be checked,pending
-A,Science Communication,science communication,international,yes,to be checked,pending
-A,Environmental Communication,environmental communication,international,yes,to be checked,pending
-A,Social Studies of Science,STS,international,yes,to be checked,pending
-A,"Science, Technology, & Human Values",STS,international,yes,to be checked,pending
-A,과학기술학연구,STS,Korea,yes,to be checked,pending
-A,한국언론학보,communication,Korea,yes,to be checked,pending
-B,Science as Culture,STS / critical science studies,international,yes,to be checked,pending
-B,Science & Technology Studies,STS,international,no,to be checked,pending
-B,Environmental Humanities,environmental humanities,international,no,to be checked,pending
-B,Global Environmental Change,environmental social science / climate change,international,yes,to be checked,pending
-B,Energy Research & Social Science,energy / society / STS,international,yes,to be checked,pending
-B,환경사회학연구 ECO,environmental sociology,Korea,no,to be checked,pending
-C,Environmental Politics,environmental politics,international,no,to be checked,pending
-C,Ecological Economics,ecological economics,international,no,to be checked,pending
-C,Environmental Innovation and Societal Transitions,sustainability transitions,international,no,to be checked,pending
-C,Research Policy,science / technology / innovation policy,international,no,to be checked,pending
-C,Science and Public Policy,science and technology policy,international,no,to be checked,pending
-C,환경정책,environmental policy,Korea,no,to be checked,pending
+grade,journal_name,field,region,first_implementation,collection_method,status,indexing_or_rank,publisher_or_institution,frequency,automation_difficulty,notes
+A,Public Understanding of Science,science communication / STS,international,yes,rss_plus_crossref,pending,"SSCI/AHCI; SAGE metrics vary by page; top-tier science communication journal",SAGE,to be checked,low,"Use SAGE RSS first; Crossref as backup"
+A,Science Communication,science communication,international,yes,rss_plus_crossref,pending,"SSCI; IF 4.2; Q1",SAGE,to be checked,low,"Use SAGE RSS first; Crossref as backup"
+A,Environmental Communication,environmental communication,international,yes,rss_plus_crossref,pending,"SSCI/Scopus; IF 4.1; Q1",Taylor & Francis,8 per year reported in older sources,low_to_medium,"Use Taylor & Francis RSS first; Crossref as backup"
+A,Social Studies of Science,STS,international,yes,rss_plus_crossref,pending,"SSCI; IF 3.2; Q1; core STS journal",SAGE,bimonthly reported in older sources,low,"Use SAGE RSS first; Crossref as backup"
+A,"Science, Technology, & Human Values",STS,international,yes,rss_plus_crossref,pending,"SSCI; IF 2.6; core STS journal",SAGE,bimonthly reported in older sources,low,"Use SAGE RSS first; Crossref as backup"
+A,과학기술학연구,STS,Korea,yes,kci_link,pending,"KCI 등재",한국과학기술학회,연3회,medium_to_high,"Start with KCI/latest-issue link management; automate later if stable source is found"
+A,한국언론학보,communication,Korea,yes,kci_link,pending,"KCI 우수등재; KCI IF 2.71 reported on KOAJ page",한국언론학회,연6회,medium_to_high,"Start with KCI/latest-issue link management; important domestic communication journal"
+B,Science as Culture,STS / critical science studies,international,yes,rss_or_crossref,pending,"SSCI/AHCI likely; IF 2.4; Q1",Taylor & Francis,to be checked,medium,"Check Taylor & Francis RSS; Crossref as backup"
+B,Science & Technology Studies,STS,international,no,rss_or_crossref,pending,"Scopus/SJR; STS specialist journal",Journal.fi,to be checked,medium,"Check Journal.fi RSS or Crossref coverage"
+B,Environmental Humanities,environmental humanities,international,no,rss_or_publisher_page,pending,"Scopus/ESCI/DOAJ; IF around 2.2 in external metrics",Duke University Press,to be checked,medium,"Open access journal; check publisher RSS or latest issue page"
+B,Global Environmental Change,environmental social science / climate change,international,yes,sciencedirect_rss_plus_crossref,pending,"IF 9.1-9.3; Q1; top environmental social science journal",Elsevier,to be checked,low_to_medium,"Use ScienceDirect RSS first; Crossref as backup"
+B,Energy Research & Social Science,energy / society / STS,international,yes,sciencedirect_rss_plus_crossref,pending,"IF 7.2; Q1; strong energy social science journal",Elsevier,monthly-like volumes,low_to_medium,"Use ScienceDirect RSS first; Crossref as backup"
+B,환경사회학연구 ECO,environmental sociology,Korea,no,kci_link,pending,"KCI 등재",한국환경사회학회,연2회 reported,medium_to_high,"Use KCI/latest-issue link management first"
+C,Environmental Politics,environmental politics,international,no,rss_or_crossref,pending,"SSCI; IF 4.6; Q1",Taylor & Francis,7 per year reported in older sources,medium,"Check Taylor & Francis RSS; Crossref as backup"
+C,Ecological Economics,ecological economics,international,no,sciencedirect_rss_plus_crossref,pending,"Q1; core ecological economics journal",Elsevier,to be checked,low_to_medium,"Important for valuation, carbon markets, biodiversity, and market-based environmental policy"
+C,Environmental Innovation and Societal Transitions,sustainability transitions,international,no,sciencedirect_rss_plus_crossref,pending,"Q1-like transition studies journal; IF varies by source",Elsevier,to be checked,low_to_medium,"Useful later for sustainability transition and socio-technical transition topics"
+C,Research Policy,science / technology / innovation policy,international,no,sciencedirect_rss_plus_crossref,pending,"IF around 8.0; leading innovation studies journal",Elsevier,monthly,low_to_medium,"Useful later for innovation policy and science-policy systems"
+C,Science and Public Policy,science and technology policy,international,no,crossref_first,pending,"OUP; IF varies by page; science and technology policy journal",Oxford University Press,to be checked,medium,"Use Crossref first; check OUP RSS/alerts later"
+C,환경정책,environmental policy,Korea,no,kci_link,pending,"KCI 등재",한국환경정책학회 / 한국환경연구원,연4회,medium_to_high,"Use KCI/latest-issue link management first"
