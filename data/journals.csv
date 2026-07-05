@@ -1,1 +1,20 @@
-
+grade,journal_name,field,region,first_implementation,collection_method,status
+A,Public Understanding of Science,science communication / STS,international,yes,to be checked,pending
+A,Science Communication,science communication,international,yes,to be checked,pending
+A,Environmental Communication,environmental communication,international,yes,to be checked,pending
+A,Social Studies of Science,STS,international,yes,to be checked,pending
+A,"Science, Technology, & Human Values",STS,international,yes,to be checked,pending
+A,과학기술학연구,STS,Korea,yes,to be checked,pending
+A,한국언론학보,communication,Korea,yes,to be checked,pending
+B,Science as Culture,STS / critical science studies,international,yes,to be checked,pending
+B,Science & Technology Studies,STS,international,no,to be checked,pending
+B,Environmental Humanities,environmental humanities,international,no,to be checked,pending
+B,Global Environmental Change,environmental social science / climate change,international,yes,to be checked,pending
+B,Energy Research & Social Science,energy / society / STS,international,yes,to be checked,pending
+B,환경사회학연구 ECO,environmental sociology,Korea,no,to be checked,pending
+C,Environmental Politics,environmental politics,international,no,to be checked,pending
+C,Ecological Economics,ecological economics,international,no,to be checked,pending
+C,Environmental Innovation and Societal Transitions,sustainability transitions,international,no,to be checked,pending
+C,Research Policy,science / technology / innovation policy,international,no,to be checked,pending
+C,Science and Public Policy,science and technology policy,international,no,to be checked,pending
+C,환경정책,environmental policy,Korea,no,to be checked,pending
