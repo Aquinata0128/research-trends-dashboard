@@ -1,67 +1,3437 @@
 [
   {
-    "journal_name": "Public Understanding of Science",
-    "title": "How publics make sense of scientific uncertainty in climate communication",
+    "journal_name": "Science Communication",
+    "title": "Holding Science to Account: A Qualitative Study of Practices and Challenges of Watchdog Science Journalism",
     "authors": [
-      "Sample Author A",
-      "Sample Author B"
+      "Alice Fleerackers, An Nguyen, Alfred Hermida, Ivan Oransky"
     ],
     "publication_year": 2026,
-    "publication_date": "2026-07-01",
-    "abstract": "This sample article examines how publics interpret scientific uncertainty in climate communication and how trust in expertise shapes policy support.",
-    "doi": "10.0000/sample-1",
-    "url": "https://example.com",
+    "publication_date": "2026-07-02T09:27:39Z",
+    "abstract": "Science Communication, Ahead of Print. This study examines how journalists act as “watchdogs” of science through 21 semi-structured interviews with journalists who have reported on research integrity issues. It illuminates the time- and labor-intensive nature of this form of journalism, which ...",
+    "doi": "10.1177/10755470261459855?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261459855?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Science communication as a wicked problem: Revisiting the paradigms of deficits",
+    "authors": [
+      "Simone Rödder, Peter Weingart"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-02T08:15:56Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. This article explores the persistent troubles in the relation of science and its publics through a sociological lens. It conceptualises science communication as a wicked problem, a systemic challenge involving boundary negotiations across differentiated ...",
+    "doi": "10.1177/09636625261458663?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261458663?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "When Stories Are Not Enough: Narrative Trust as a Theoretical Perspective for Science Communication",
+    "authors": [
+      "Inti Josue Cachipuendo-Contero"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-01T02:55:40Z",
+    "abstract": "Science Communication, Ahead of Print. Storytelling is often presented as a solution to problems of trust in science communication. Yet stories can attract attention without making science credible, meaningful, or legitimate. This commentary proposes narrative trust as a theoretical ...",
+    "doi": "10.1177/10755470261461572?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261461572?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "The Evidence Against the Deficit Model May Not Be What You Think It Is",
+    "authors": [
+      "John C. Besley, Sara K. Yeo"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-01T02:49:33Z",
+    "abstract": "Science Communication, Ahead of Print. This commentary argues that blanket exhortations against the “deficit model” limit the ability to have nuanced discussions about the potential impact of seeking and sharing different types of information. It specifically seeks to remind the science ...",
+    "doi": "10.1177/10755470261459865?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261459865?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Apprehensive or Motivational Threat? Examining the Effects of Inoculation, Threat Generation, Counterarguing, and Information Processing on Disinformation Belief",
+    "authors": [
+      "Michelle A. Amazeen, Arunima Krishna, Chris Chao Su"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-01T02:47:09Z",
+    "abstract": "Science Communication, Ahead of Print. Using a nationally representative U.S. adult sample (n=1,150), this study compares technique-based and primarily fact-based forewarning messages on threat perceptions, counterarguing, and belief in COVID-19 and genetically modified organism (GMO) ...",
+    "doi": "10.1177/10755470261459850?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261459850?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Making Microplastics Matter: Classification, Politics and the Lives of Microplastics as Environmental Objects",
+    "authors": [
+      "Noah Münster, Ulrike Felt"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-26T03:05:08Z",
+    "abstract": "Social Studies of Science, Ahead of Print. How do emerging environmental phenomena become actionable amid scientific uncertainty and public urgency? This article argues that to understand how microplastics become governable, we must study classification as a central site where matters of fact, ...",
+    "doi": "10.1177/03063127261459465?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261459465?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "scientific uncertainty"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "One and Done? Testing a One-Item Measure to Distinguish Audiences of Science Communication",
+    "authors": [
+      "Mike S. Schäfer, Tobias Füchslin, Niels G. Mede, Daria Dvorzhitskaia"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-24T05:53:17Z",
+    "abstract": "Science Communication, Ahead of Print. This preregistered study tests whether a one-item self-categorization question can reproduce Schäfer et al.’s four-segment typology of science communication audiences: “Sciencephiles,” “Critically Interested,” “Passive Supporters,” and “Disengaged.” Using ...",
+    "doi": "10.1177/10755470261457074?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261457074?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Reframing Trust in Citizen Science: Comparative Insights From Two German Initiatives",
+    "authors": [
+      "Jakob Meyer, Konstantin S. Kiprijanov, Silke Voigt-Heucke, Susanne Hecker"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-23T06:43:36Z",
+    "abstract": "Social Studies of Science, Ahead of Print. Citizen science (CS) is met with a range of expectations regarding trust-building that originate in policy frameworks and academic studies. These tend to understand trust as an outcome of participatory research. Adopting a different approach, our ...",
+    "doi": "10.1177/03063127261461548?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261461548?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Willingness to participate in medical research: Unraveling the roles of scientific literacy and beliefs about medical researchers",
+    "authors": [
+      "Martin Sedlár, Matúš Grežo"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-23T03:40:01Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. This study examines how scientific literacy dimensions—nature of science understanding, scientific reasoning, positive beliefs about science, and interest in science—are related to willingness to participate in medical research, mediated by conspiracy ...",
+    "doi": "10.1177/09636625261452154?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261452154?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Striving for Presence on a Hospital Ward: Phenomenology and Re-Embodiment for a Nurse-Operated Telepresence Robot",
+    "authors": [
+      "Luna Dolezal, Karl Atkin, Nik Brown, Sanna Metsäketo, Sarah Nettleton, Daniel Robins"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-19T12:03:12Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article examines the phenomenology of nursing care delivered through Välkky, a full-body teleoperated humanoid robot trialed in a Finnish hospital ward in 2023. Bringing science and technology studies into dialogue with phenomenology, we analyze ...",
+    "doi": "10.1177/01622439261457245?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261457245?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Navigating Indeterminacy in Wildfire Risk Map Production in the United States",
+    "authors": [
+      "Miranda Simes1Department of Sociology, 3270Northwestern University, Evanston, IL, USA"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-18T06:36:12Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Wildfire risk maps have emerged as a prevalent yet contested scientific object in the United States and internationally. These maps, often a patchwork of bright reds and oranges, depict relative risk scores for different locations. Dozens of these maps ...",
+    "doi": "10.1177/01622439261460111?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261460111?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Does medium matter? Political orientation and variability in scientific self-perceptions",
+    "authors": [
+      "Marcus Mann, Cyrus Schleifer"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-15T03:39:45Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Trust in scientists has declined among US conservatives, while belief in science itself remains high among nearly everyone. This indicates a political differentiation of scientific authority where political ideologues are increasingly getting their ...",
+    "doi": "10.1177/09636625261449987?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261449987?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science",
+      "STS",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Making Soils into Carbon Sinks: A Sociology of Soil Carbon Quantification Through a French Model",
+    "authors": [
+      "Céline Granjou, Hélène Guillemot, Laure Manach, Robin Leclerc, Antoine Doré, Léo Magnin, Stéphanie Barral"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-12T10:29:10Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Since COP21 in 2015, carbon neutrality targets have emphasized the enhancement of various carbon sinks, including soils, to help sequester carbon away from the atmosphere. What does it take to make soils into carbon sinks? This article focuses on a French ...",
+    "doi": "10.1177/01622439261454869?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261454869?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Ask the Dust: The Rise of Popular Expology in Pesticide Activism in France",
+    "authors": [
+      "Jean-Noël Jouzel, Giovanni Prete, Bastien Soutjis, David Demortain"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-11T09:26:35Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article focuses on social movements’ engagement in the field of environmental health through a particular form of knowledge production: “popular expology.” This concept reflects the growing development of initiatives aimed at producing data on human ...",
+    "doi": "10.1177/01622439261447071?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261447071?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "The Nine Lives of Trap-Neuter-Return in the Canary Islands",
+    "authors": [
+      "Ferran Pons-Raga, Pablo Alonso González"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-10T10:53:32Z",
+    "abstract": "Social Studies of Science, Ahead of Print. Trap–Neuter–Return (TNR) is widely promoted as a humane technique for managing free-roaming cats. Yet its legitimacy remains fiercely disputed. Drawing on four months of participant observation and two years of follow-up fieldwork in Tenerife (Canary ...",
+    "doi": "10.1177/03063127261449128?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261449128?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Decommissioning as Residual Care: Transforming Nuclear Reactors into Waste",
+    "authors": [
+      "Ange Pottin, Ulrike Felt"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-09T05:52:27Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This paper takes nuclear decommissioning as an entry point in the way we understand and value innovations from what they leave behind. Nuclear decommissioning allows one to capture transformations through which an infrastructure that has lost its initial ...",
+    "doi": "10.1177/01622439261453137?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261453137?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Atmospheric Analytics: Situated Encounters in the Age of Generative AI",
+    "authors": [
+      "Mathias Decuypere, Carlo Perrotta"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-04T12:43:27Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article challenges the view of technologies, and more particularly generative artificial intelligence (AI), as augmenting experience through binary human–computer interactions and offloading tasks. Instead, it argues that such technologies exhibit ...",
+    "doi": "10.1177/01622439261444400?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261444400?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Public backlash against science communicators: Conceptualization and qualitative analysis of perceptions, effects, responses, and contextual factors",
+    "authors": [
+      "Niels G. Mede, Sophia C. Volk"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-04T05:10:18Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Public backlash against scientists is drawing growing concern. It can come from citizens, politicians, or journalists and ranges from legitimate criticism to harassment and physical attacks. Backlash also affects science communication professionals, yet ...",
+    "doi": "10.1177/09636625261452891?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261452891?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Experts’ boundary work on social media: Doctors on Instagram",
+    "authors": [
+      "Elina Uutela, Essi Pöyry, Salla-Maaria Laaksonen, Mikko Jauho"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-03T07:44:19Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Science-based experts have started to utilize social media to seek direct contact with audiences and social recognition for their expertise. Experts need to balance professional principles and the expectations arising from the changing media landscape. To ...",
+    "doi": "10.1177/09636625261450028?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261450028?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science",
+      "expertise"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Too sure or not sure enough? Trust may hinge on scientists’ uncertainty matching knowledgeable audiences’ tolerance for it",
+    "authors": [
+      "Natasha Strydhorst, Asheley R. Landrum"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-02T12:09:33Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Uncertainty, though integral to scientific practice and advancement, is routinely omitted from science communication. While extensive study has uncovered the effect of this in politicized scientific fields, its influence in unpoliticized sciences is ...",
+    "doi": "10.1177/09636625261448739?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261448739?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science",
+      "STS",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Eating Dust: Toxic Air and Parasitic Relations of Gold Mining in DR Congo",
+    "authors": [
+      "Simon Marijsse198751TransVIHMI (Université de Montpellier, TransVIHMI IRD, INSERM), Montpellier, France"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-06-02T03:47:23Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Since the late 2000s, artisanal and small-scale gold miners in the Democratic Republic of the Congo have incorporated mechanized ball mills in their workflow. With finely ground rock dust escaping from the hinges of these mills, these same miners are ...",
+    "doi": "10.1177/01622439261448242?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261448242?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Politicizing Expertise for Dutch Broad Wellbeing: Knowledge Accountability for Transformative Change",
+    "authors": [
+      "Timo Y. Maas, Annet Pauwelussen, Esther Turnhout"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-30T03:45:54Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Despite lamentations to the contrary, expertise continues to play an important role in contemporary societies. In the context of pressing sustainability challenges, calls for so-called transformative change are emerging, with concomitant expectations that ...",
+    "doi": "10.1177/01622439261450248?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261450248?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "sustainability",
+      "expertise"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Intermedia Agenda-Setting of a Scientific Controversy in the Hybrid Media System: A Cross-Media and Cross-Platform Analysis of Hydroxychloroquine During COVID-19",
+    "authors": [
+      "Rui Wang, Dobin Yim, Elliot King"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-29T07:32:05Z",
+    "abstract": "Science Communication, Ahead of Print. Existing research on intermedia agenda-setting within the hybrid media system has primarily focused on political communication. This study extends prior work by examining how a scientific controversy circulated across legacy and social media platforms. ...",
+    "doi": "10.1177/10755470261450584?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261450584?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Treasure Hunting in Tanzania as a Chronopolitical Practice",
+    "authors": [
+      "Jia Hui Lee1Social and Cultural Anthropology, 26523University of Bayreuth, Bayreuth, Germany"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-26T12:50:10Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. In Morogoro, Tanzania, people regularly embark on treasure hunting expeditions, usually near places or buildings associated with German colonialism. In recounting their attempts to find buried wealth, treasure seekers describe their practice as ...",
+    "doi": "10.1177/01622439261449844?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261449844?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "colonialism"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Money-Work: Science Funding as Relational Socioeconomics",
+    "authors": [
+      "Janet Vertesi, David Reinecke"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-25T09:09:59Z",
+    "abstract": "Social Studies of Science, Ahead of Print. Accounts of scientific work at the lab bench largely overlook or sideline the considerable time and effort that scientists devote to the acquisition, management, and dispersal of funding. While multiple studies explore the subject of scientific funding ...",
+    "doi": "10.1177/03063127261442991?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261442991?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Consensus Messaging Shifts Beliefs About Climate Change in a Field Experiment",
+    "authors": [
+      "Jacob B. Rode, Christopher Clarke, Sander van der Linden"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-20T05:27:50Z",
+    "abstract": "Science Communication, Ahead of Print. Previous research on climate change consensus messaging has mostly taken place in controlled lab settings. In this field experiment, we engaged U.S. residents (N= 158) in brief doorstep conversations on climate change. Research assistants read a script ...",
+    "doi": "10.1177/10755470261442409?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261442409?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "The Evolution of #OpenScience Discourse on Twitter",
+    "authors": [
+      "Brian C. Britt, Matthew S. VanDyke"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-19T12:01:54Z",
+    "abstract": "Science Communication, Ahead of Print. The current research observed historical public discourse surrounding the issue of open science given its contemporary salience across scientific disciplines. The Twitter API was used to collect the population of 1,723,169 open science-related tweets ...",
+    "doi": "10.1177/10755470261441500?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261441500?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Threatened by science: Can affirmations alleviate motivated science rejection?",
+    "authors": [
+      "Luzia Heusler, Marlene Sophie Altenmüller"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-19T11:53:13Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. People often reject scientific evidence that is at odds with their previous beliefs. Here, we examine the role of threat in such motivated science rejection and whether affirmations in science communication can effectively reduce threat, thereby ...",
+    "doi": "10.1177/09636625261445597?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261445597?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Book review: Pamela Pietrucci and Leah Ceccarelli, Scientists, Politics, and the Rhetoric of Public Controversy",
+    "authors": [
+      "Cristina Hanganu-Bresch"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-19T08:39:24Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 649-650, July 2026.",
+    "doi": "10.1177/09636625261448386?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261448386?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Managing the Boundaries of Citizen Science: Reordering Science–Society Relations",
+    "authors": [
+      "Claudia Göbel, Kevin Altmann, Sascha Dickel, Michael Kitzing, Andreas Wenninger"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-12T12:38:28Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Today, science is expected to open up to publics and be more responsible. At the same time, the legitimacy and autonomy of academic work are increasingly challenged. Public participation in science constitutes a critical site of these ambivalent dynamics, ...",
+    "doi": "10.1177/01622439261443075?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261443075?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Scalable Observed Correction With Generative AI: How Motivationally Relevant Message Features and Design Choices Boost Communicative Engagement",
+    "authors": [
+      "Yibing Sun, Ji Soo Choi, Xiaohui Cao, Liwei Shen, Porismita Borah, Michael W. Wagner, Dhavan V. Shah, Sijia Yang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-11T11:06:52Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 402-437, June 2026. To address the challenge of scalability in fact-checking, we report two parallel experiments examining which message features may boost communicative engagement with AI-facilitated observed correction of misinformation related to human papillomavirus (HPV)...",
+    "doi": "10.1177/10755470261438828?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261438828?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Emotion and Virality as Drivers of Environmental Issues on Social Media: Scoping Review",
+    "authors": [
+      "Miyeon Kim, Nancy Rhodes"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-07T12:54:03Z",
+    "abstract": "Science Communication, Ahead of Print. As social media becomes central to environmental communication, understanding what drives widespread sharing is essential. This scoping review analyzes 82 peer-reviewed studies examining whether emotional environmental content on social media contributes ...",
+    "doi": "10.1177/10755470261439021?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261439021?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "environmental communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Synthetic Participation: How Zoom Shaped the Experience of Participation in the Danish Climate Assembly",
+    "authors": [
+      "Irina Papazu, Rose Marie Højbjerg Henrichsen1IT University of Copenhagen, Copenhagen, Denmark"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-07T01:39:38Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. As part of the Danish Climate Act of 2019, the government established a Climate Citizens’ Assembly to secure public participation in the formulation of climate policy. Due to COVID-19, the Assembly was moved online to the virtual meeting platform Zoom. ...",
+    "doi": "10.1177/01622439261444799?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261444799?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Public engagement professionals: Exploring ethical tensions in communication, engagement and co-creation",
+    "authors": [
+      "Clare Wilkinson, Aleksandra Stelmach, Michael Parker, Milly Farrell"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-06T03:44:20Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Recent decades have seen the rising establishment of public engagement professionals supporting communication and engagement in the contexts of science and health research. This article explores how public engagement professionals consider the ethical ...",
+    "doi": "10.1177/09636625261440854?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261440854?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science",
+      "public engagement"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Promises/Manual Labor Paradox: The Accountability Style of On-Site Validation in Microbiology Laboratory Automation",
+    "authors": [
+      "Joaquín Yrivarren, Alessandra C. Jacomuzzi, Miquel Domènech"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-04T12:00:20Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This study investigates the role of validation reports in legitimizing laboratory automation through artificial intelligence and robotic systems in clinical microbiology. Based on a qualitative analysis of thirty reports authored by expert microbiologists ...",
+    "doi": "10.1177/01622439261442678?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261442678?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "When ignorance induces reliance: The role of epistemic knowledge about generative AI in changing health-related decision-making",
+    "authors": [
+      "Inbal Klein-Avraham, Ayelet Baram-Tsabari"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-04T07:37:59Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Today’s increasing and indiscriminate use of generative artificial intelligence to access science-related information is a serious cause for concern. Here, we investigated the role of knowledge about generative AI in individuals’ engagement with AI-...",
+    "doi": "10.1177/09636625261442388?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261442388?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Eighteenth-century science communication? Exploring the case of Julien Offray de La Mettrie",
+    "authors": [
+      "Felix Eichbaum"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-04T07:35:37Z",
+    "abstract": "Public Understanding of Science, Ahead of Print.",
+    "doi": "10.1177/09636625261441408?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261441408?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "How the public evaluates various sources of scientific information: A descriptive examination",
+    "authors": [
+      "Austin Y. Hubner, Blue Lerner, Hillary C. Shulman"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-04T07:31:57Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. This study examines six types of science, health, and medical sources, focusing on public perceptions of each source’s gender, credibility, benevolence, and political affiliation. Results reveal that medical doctors were rated highest in credibility and ...",
+    "doi": "10.1177/09636625261437376?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261437376?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science",
+      "public perception"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Developmental new space in South Korea: Militarized developmentalism and the privatization of outer space",
+    "authors": [
+      "Hae-Seo Kim18788Department of Anthropology, University of California, Irvine, CA, USA"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-05-02T03:15:26Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. “Developmental New Space” might, at first glance, seem to be an oxymoron since New Space is often conceptualized as being free from centralized government support or state programming. However, a historical and discursive analysis of contemporary South ...",
+    "doi": "10.1177/01622439261421126?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261421126?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Noise Underground: Transduction and Infrastructural Interference in German Deep-Shaft Coal Mines",
+    "authors": [
+      "Cynthia Browne128263Knowledge Systems and Collective Life, Max Planck Institute for History of Science, Berlin, Germany"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-30T01:27:33Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Infrastructures built to move goods, people, and information across distance support the functioning of everyday tasks, logistical networks, and industrial lifeworlds across both the Global South and the Global North. What work does noise perform in their ...",
+    "doi": "10.1177/01622439261439646?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261439646?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "Global South"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Their AI Versus Our AI: Is There a Hostile AI Perception in Correcting Geopolitically Framed Climate Misinformation in China?",
+    "authors": [
+      "Yuan Wang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-29T09:34:08Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 338-366, June 2026. This study investigates whether hostile media perception extends to AI chatbots when correcting geopolitically framed climate misinformation. A 2 (correction source: foreign vs. domestic AI) × 2 (evidence disclosure: present vs. absent) + 1 (control) ...",
+    "doi": "10.1177/10755470261441605?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261441605?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Attending to ‘Computational Universalism’: Practices, Frictions, Events",
+    "authors": [
+      "Sarah R. Davies, Miller Díaz-Valderrama"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-29T03:15:36Z",
+    "abstract": "Social Studies of Science, Volume 56, Issue 3, Page 340-352, June 2026. This research note reflects on, and responds to, Lee and Ribes discussion of ‘computational universalism’, setting this in dialogue with Suchman’s account of ‘The uncontroversial “thingness” of AI’ and with wider STS literature. In discussing the ...",
+    "doi": "10.1177/03063127261445803?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261445803?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Terrarium as Geo-Fetish: On the Vectorialist Re-Commoning of the Earth",
+    "authors": [
+      "Sungyong Ahn1School of Communication and Arts, 1974The University of Queensland, Saint Lucia, QLD, Australia"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-28T02:33:48Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article examines the transformation of terrarium building from a colonial-era hobbyist practice into a contemporary YouTube-based citizen science movement, analyzing how this shift reflects changing conceptualizations of nature's relationship to ...",
+    "doi": "10.1177/01622439261442633?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261442633?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Enacting Protected Areas Through Monitoring: Knowledge Practices as Multispecies Spatiotemporal Achievements in Neusiedler See–Seewinkel National Park",
+    "authors": [
+      "Erik Aarden"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-21T07:49:31Z",
+    "abstract": "Social Studies of Science, Ahead of Print. Protected areas are seen as one of the primary instruments to halt biodiversity loss, but it is not always clear if a protected status designation contributes to the preservation of endangered species and ecosystems. One way to address the issue is ...",
+    "doi": "10.1177/03063127261442140?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261442140?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "ecosystem",
+      "biodiversity"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Science Communication in the Age of AI: Agency, Authority, and a Field in Motion",
+    "authors": [
+      "Shupei Yuan, Haoran Chu"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-20T09:46:29Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 295-304, June 2026. This guest editorial commentary introduces a special issue ofScience Communicationon artificial intelligence’s (AI) dual role as both a tool for and a topic of science communication. It argues that this dual role redistributes communicative and ...",
+    "doi": "10.1177/10755470261442110?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261442110?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Generics in science communication: Misaligned interpretations across laypeople, scientists, and large language models",
+    "authors": [
+      "Uwe Peters, Andrea Bertazzoli, Jasmine M. DeJesus, Gisela J. van der Velden, Benjamin Chin-Yee"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-20T08:51:19Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Scientists often usegenerics, that is, unquantified statements about whole categories of people or phenomena, when communicating research findings (e.g. “statins reduce cardiovascular events”). Large language models, such as ChatGPT, frequently adopt the ...",
+    "doi": "10.1177/09636625261425891?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261425891?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Pausing for Reflection: How Design Friction Shapes Environmentally Responsible Artificial Intelligence Use and Trust",
+    "authors": [
+      "Cheng Chen, Cassandra Troy, Maggie Mengqing Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-16T01:58:13Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 465-506, June 2026. The rapid growth of artificial intelligence (AI) has significant environmental impacts that are rarely communicated. This study leverages the concept of design friction to communicate AI’s environmental costs during user interaction with a system, and ...",
+    "doi": "10.1177/10755470261434438?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261434438?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "When Leaders Are Hard to Find: Reimagining Opinion Leaders in Sparse Communication Networks",
+    "authors": [
+      "Marissa W. Kopp, Shannon M. Cruz, Ryan Olson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-14T09:07:10Z",
+    "abstract": "Science Communication, Ahead of Print. Diffusion of innovations theory proposes that opinion leaders can enhance the success of science communication campaigns. Such strategies hinge on an assumption that target communities include well-connected and trusted members who need only be identified ...",
+    "doi": "10.1177/10755470261435541?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261435541?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Beyond Informing and Entertaining: Developing and Validating a Scale for Perceived Effects of Watching Science Videos on Social Media",
+    "authors": [
+      "Luye Bao, Shupei Yuan"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-14T09:05:22Z",
+    "abstract": "Science Communication, Ahead of Print. In algorithmically curated environments where science videos reach audiences primarily through incidental exposure rather than active seeking, understanding viewers’ perceived effects provides insights for communicating science effectively. We developed ...",
+    "doi": "10.1177/10755470261434537?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261434537?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Video Production Attributes as Tactics for Communicating Science on Social Media",
+    "authors": [
+      "Michael A. Cacciatore, Sara K. Yeo"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-14T09:03:21Z",
+    "abstract": "Science Communication, Ahead of Print. The present study empirically tests video production tactics for TikTok- and Instagram-like videos that can be employed to achieve specific, short-term communication objectives. Using the Strategic (Science) Communication as Planned Behavior (SCPB) model ...",
+    "doi": "10.1177/10755470261421149?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261421149?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Generative AI So White: Racial Biases in AI Imagery Across the United States and China",
+    "authors": [
+      "Zituo Wang, Jiayi Zhu, Zhuoyu Wang, Vivian Jiaying Zhai, Jianyu Wu"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-08T09:12:53Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 305-337, June 2026. This study investigates racial biases in AI-generated occupational images across models developed in the United States and China. Situated at the intersection of human–AI communication and postcolonial theory, we conceptualize generative AI as an active ...",
+    "doi": "10.1177/10755470261428542?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261428542?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "postcolonial"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "“Go to Another State”: Rust Belts, Microchip Futures, and Innovation's Others in Upstate New York",
+    "authors": [
+      "Marlise Horvath Schneider, Sebastian M. Pfotenhauer1Department of Science, Technology and Society, Technical University of Munich9184, Munich, Germany"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-08T02:23:01Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Innovation is regularly depicted as the answer to regional socioeconomic decline and deindustrialization. Yet, the results of regional innovation strategies are frequently underwhelming and contested, leading citizens to question the promises of ...",
+    "doi": "10.1177/01622439261435245?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261435245?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Otherwising or Attaching? Play, Care, and Critique in Interdisciplinary Public Engagement",
+    "authors": [
+      "Catherine M. Montgomery, Santini Basra, Corrienne McCulloch, Annemarie B. Docherty"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-08T02:22:42Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article builds on the affective turn in Science and Technology Studies (STS) analyses of public engagement with science to explore the tension between epistemological interrogation and social and political transformation. The empirical basis for this ...",
+    "doi": "10.1177/01622439261428766?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261428766?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies",
+      "STS",
+      "public engagement"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "From Truth-Oriented to False-Oriented Judgments: How Consecutive False or True Information Exposure Shapes Veracity Judgments on Social Media",
+    "authors": [
+      "Jiyoung Lee, Leeju Jung, JiWon Hwang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-07T07:23:46Z",
+    "abstract": "Science Communication, Ahead of Print. Despite the pervasiveness of misinformation, it remains unclear how repeated exposure to falsity shapes veracity judgments. We conducted an online experiment (N= 499) in which participants were exposed to false and true health and science information ...",
+    "doi": "10.1177/10755470261430253?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261430253?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Temporary Infrastructure: Temporal Boundary Work, Form Investments, and Delayed Endings",
+    "authors": [
+      "Philipp Knopp, Tilo Grenz"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-06T12:06:10Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Temporality has become a prominent theme in research on infrastructure in science and technology studies. Infrastructure is often conceptualized as permanent and enduring, except when it breaks down. This focus limits the scope of phenomena to which the ...",
+    "doi": "10.1177/01622439261437666?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261437666?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "China Time Machines: The Temporal–Spatial Dynamics of China's Global Digital Platforms and Technocapitalist Expansions",
+    "authors": [
+      "Yichen Rao1Department of Cultural Anthropology, 8125Utrecht University, Utrecht, The Netherlands"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-06T12:03:39Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This paper examines how Chinese digital platforms expand their predatory lending models globally. Drawing on ethnographic research in training programs for risk analysts, I introduce the concept of “China time machines” to describe the temporal–spatial ...",
+    "doi": "10.1177/01622439261434049?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261434049?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Barriers to science communication about research involving animal experimentation: A systematic literature review",
+    "authors": [
+      "Sebastian Löser, Emma Weitkamp, Lena M. Schiefelbein, Claudia N. Haertel, Susanne Bögeholz"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-06T04:55:32Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 518-538, July 2026. Research involving animal experimentation is a contentious issue at the intersection of science and society, making science communication about it especially challenging. Yet, we lack a systematic account of the barriers researchers and communicators face ...",
+    "doi": "10.1177/09636625261424852?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261424852?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "More Instrument than Data",
+    "authors": [
+      "David Ribes, Eric Monteiro"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-01T10:46:45Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. We call for renewed attention to the “upstream” of data, to the means and challenges of their generation, that is, to the techniques and apparatuses of instrumentation. Our aim is to inspect how reference—what data are “of,” “for” or “about”—gets worked ...",
+    "doi": "10.1177/01622439261430784?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261430784?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Mapping the Hospital: Epidemiology, Infection, and Antibiotic Governance at the Clínica Puerta de Hierro, Madrid, Spain",
+    "authors": [
+      "Cristina Moreno Lozano1Science, Technology and Innovation Studies, 151027The University of Edinburgh School of Social and Political Science, Edinburgh, UK of Great Britain and Northern Ireland"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-04-01T10:46:20Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article examines how a group of microbiologists organized their practices for the governance of hospital infections, positioning the clinical microbiology laboratory as an obligatory passage point for such interventions and for a new, modern vision ...",
+    "doi": "10.1177/01622439261423525?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261423525?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "The communication of science within the framework of European Union-funded research projects: Exploring practitioners’ experiences and perceptions",
+    "authors": [
+      "Luis Arboledas-Lérida"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-30T06:49:29Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. This article aims to advance our understanding of the communication of science conducted within the framework of externally funded research projects, also known as project-based science communication. It deploys semi-structured interviews to explore the ...",
+    "doi": "10.1177/09636625261433895?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261433895?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "The Dramaturgy of Science and Expertise at the World Anti-Doping Agency: Civic Epistemologies for Anti-Doping?",
+    "authors": [
+      "Marjolaine Viret, Fabien Ohl"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-30T05:48:02Z",
+    "abstract": "Social Studies of Science, Ahead of Print. Anti-doping policy is a key component of integrity in sports, and one for which science and technology are central resources. It represents a genuinely transnational sector of policy-making that so far has received little attention in science and ...",
+    "doi": "10.1177/03063127261419157?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261419157?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "expertise"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Why is it so hard to do co-created citizen social science? Reflecting on challenges and potential solutions",
+    "authors": [
+      "Jörg Matthes, Isabelle Freiling"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-27T07:16:19Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. Citizen science (CS), which integrates the public into research processes, has been shown to enhance public understanding of science. Consequently, CS is increasingly employed across various disciplines, including the social sciences. In citizen social ...",
+    "doi": "10.1177/09636625261426841?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261426841?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "From Access to Sovereign Science: COVID-19 Vaccines and Peripheral Technoscientific Promises in Argentina",
+    "authors": [
+      "Gabriela Bortz, María Cecilia Sanmartín"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-26T12:46:28Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article examines the political economy of technoscientific promises in peripheral contexts, focusing on the often-overlooked question of promise fulfilment. Drawing on Argentina's COVID-19 vaccine shortage, it explores how futures imagined through ...",
+    "doi": "10.1177/01622439251413218?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251413218?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "The Pharmaceutical Industry and Its Subalterns: Venom Procurement, Ethnic Identities and Labor Exploitation in Indian Capitalism",
+    "authors": [
+      "Mathieu Quet, Ariane Zelisko, Kishore Kumar"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-24T09:08:34Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Pharmaceutical capitalism is often framed as a financially sophisticated and technology-intensive value-creation domain. This approach, as relevant as it can be, neglects essential features of pharmaceutical operations. The paper insists upon one of them, ...",
+    "doi": "10.1177/01622439261432237?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261432237?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Recognising the Scholar-Creator: Social Media Science Communication as Scholarly Labour",
+    "authors": [
+      "Sanjukta Choudhury"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-24T01:28:39Z",
+    "abstract": "Science Communication, Ahead of Print. Social media platforms have become important sites of science communication, with individual scholars increasingly creating content to engage public audiences with scientific knowledge. However, academic institutions have largely neglected to regard such ...",
+    "doi": "10.1177/10755470261431785?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261431785?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "The Epistemic Shift in Science Communication: Strategic Foresight for the Future of Peer Review",
+    "authors": [
+      "Cezary Biele, Jarosław Kowalski"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-24T01:27:17Z",
+    "abstract": "Science Communication, Ahead of Print. Peer review serves as the primary “gatekeeping” mechanism in science communication, filtering validated knowledge from noise before it reaches the public sphere. This commentary argues that integrating Generative AI into this process acts as a structural ...",
+    "doi": "10.1177/10755470261426817?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261426817?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "A Tool, Connector, or Data Processor: On the Multiplicity of an Algorithm and Its Worlds",
+    "authors": [
+      "Ida Schrøder, Helene Friis Ratner, Laura Kocksch"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-23T10:47:40Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This paper explores the development of an algorithm for child welfare administration in Denmark. Based on an ethnographic study of the development process, we argue that scientists and IT developers enacted not one but multiple versions of “the” algorithm,...",
+    "doi": "10.1177/01622439261431347?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261431347?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Expertise as contingency-reduction: Evidence from interviews concerning Russia’s 2022 invasion of Ukraine on German TV news",
+    "authors": [
+      "Monika Krause, Jan Gilles"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-23T06:49:12Z",
+    "abstract": "Public Understanding of Science, Ahead of Print. This article analyses interviews with experts on German television news concerning the 2022 Russian invasion of Ukraine in the context of debates about the public contribution of the social sciences and humanities. Considering the first 13 months of the ...",
+    "doi": "10.1177/09636625261425575?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261425575?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science",
+      "expertise"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Nuclear Decommissioning and the Political Economy of Waste: Exploring Nuclear Attachments in Italy",
+    "authors": [
+      "Davide Orsini"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-23T04:37:55Z",
+    "abstract": "Social Studies of Science, Ahead of Print. Overshadowed by expert and public debates over reactor safety and waste disposal solutions, nuclear decommissioning is a variably long transitional phase during which host communities face numerous uncertainties regarding their future and nuclear sites’ ...",
+    "doi": "10.1177/03063127261422445?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261422445?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Re-Formalizing owl:sameas: Iterating Meaning-Making in a Computer Ontology Language",
+    "authors": [
+      "Lindsay Poirier"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-21T06:12:40Z",
+    "abstract": "Social Studies of Science, Volume 56, Issue 3, Page 353-377, June 2026. Computer ontology languages aggregate a number of properties that can be used to model knowledge for machine consumption. These languages are increasingly playing a role in gatekeeping the conveyance and dissemination of knowledge. This article presents a ...",
+    "doi": "10.1177/03063127261424496?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261424496?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "‘Nano Scale [is] Magic Scale’: On EPR, Unicorns, and Enchantment in Nanomedicine",
+    "authors": [
+      "Nicolas Rasmussen, Declan Kuch"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-21T06:09:23Z",
+    "abstract": "Social Studies of Science, Ahead of Print. Nanotechnology is a scientific field where STS scholars have observed the influence of magical thinking. Here we contribute to that literature by describing a phenomenon in the field of drug delivery called the EPR (Enhanced Permeability and Retention) ...",
+    "doi": "10.1177/03063127261424493?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261424493?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Corrigendum to “Mythologies of Wealth in Platform Economies: The Case of the Ride-Hailing Platform Didi in China”",
+    "authors": [],
+    "publication_year": 2026,
+    "publication_date": "2026-03-14T08:33:38Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print.",
+    "doi": "10.1177/01622439261431908?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261431908?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Socio-Epistemic Bubbles and Tacit Confidence in Randomized Controlled Trials",
+    "authors": [
+      "Donghyun Kang, James Evans"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-13T05:30:15Z",
+    "abstract": "Social Studies of Science, Ahead of Print. The paradigm of scientific medicine is among the most influential epistemic shifts in the past century, wherein randomized controlled trials (RCTs) represent the impartial arbiter of medical claims. Nevertheless, not all RCTs agree, and systematic reviews ...",
+    "doi": "10.1177/03063127251410234?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251410234?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "What Happens in Vegas Gets Hacked in Vegas: The Material Politics of DEF CON’s Place",
+    "authors": [
+      "Lizao Wang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-09T10:38:59Z",
+    "abstract": "Social Studies of Science, Ahead of Print. This article examines how hacker culture, often conceptualized as immaterial and virtual, is in fact materially and spatially constituted through its entanglement with physical places. Focusing on Las Vegas and DEF CON, this article shows the emergence of ...",
+    "doi": "10.1177/03063127261420236?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261420236?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Who’s in Charge Here: How Linguistic Agency in Climate Messages Shapes Public Interpretations and Responses?",
+    "authors": [
+      "Jilong Wang, Meng Chen, Zhuo Guo"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-07T08:53:10Z",
+    "abstract": "Science Communication, Ahead of Print. Linguistic agency assignment is an unavoidable yet understudied feature in climate messaging. We propose temporal (moving-time/moving-ego), causal (natural/human), and action (non-agential/human) agency as distinct features targeting three core cognitive ...",
+    "doi": "10.1177/10755470261423038?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261423038?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Congestion Conversations: Efficiency and Politics in an Eastern Mediterranean Port City",
+    "authors": [
+      "Canay Özden-Schilling1Sociology and Anthropology, 37580National University of Singapore, Singapore, Singapore"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-04T05:24:05Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Maritime movement has been essential to the current moment of capitalism, marked by the management and optimization of supply chains. As seaports continue to scale up tremendously, however, blockages, delays, and congestion persist and even multiply, ...",
+    "doi": "10.1177/01622439261422214?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261422214?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Testing and Errors: Aligning Cybersecurity Expertise in Contemporary UK Energy Infrastructures",
+    "authors": [
+      "Ola Michalec11980Bristol Digital Futures Institute, University of Bristol, Bristol, United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-03T06:23:22Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Digitalization of the grid promises a sustainable energy system. However, we do not fully understand how innovative technologies are introduced—and challenged—in legacy infrastructures. In this article, I explore how energy industry practitioners in the ...",
+    "doi": "10.1177/01622439261420332?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261420332?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "expertise"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Underground and Underwater Mining: State Extractivism and the Socio-ecological Transformations of Socialist Bulgaria",
+    "authors": [
+      "Stefan Dorondel, Stelu Serban, Gabriela Ioana-Toroimac"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-03-03T06:23:02Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This paper examines two types of extractive activities: an underground gypsum exploitation and the extraction of sand and gravel from the Danube riverbed. Through long-term ethnographic fieldwork, access to local archives, and the use of geographic tools, ...",
+    "doi": "10.1177/01622439261419049?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261419049?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Examining media coverage of ethical dimensions of advanced algorithmic technology",
+    "authors": [
+      "Amanda M. Vilchez, Sohinee Bera, Bruce V. Lewenstein, Stephen HilgartnerCornell University, USA"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-28T10:47:29Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 557-575, July 2026. The rapid integration of artificial intelligence, machine learning, and data science into daily life raises ethical concerns and stimulates discussions among stakeholders responsible for their development. Given the media’s role in shaping imaginaries of ...",
+    "doi": "10.1177/09636625261419755?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261419755?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Prosocial Behavior in the Context of Online Harassment of Scientists and Science Communicators: Designing and Implementing a Social Media Intervention in a Transdisciplinary Co-Creation Process",
+    "authors": [
+      "Jana Laura Egelhofer, Bernhard Goodwin, Magdalena Obermaier"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-27T12:27:05Z",
+    "abstract": "Science Communication, Ahead of Print. Harassment of scientists and science communicators is a growing concern, particularly on social media. While bystanders can help counter such harassment, few intervene. This research note presents the development, implementation, and evaluation of a ...",
+    "doi": "10.1177/10755470261421146?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261421146?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "valuation"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Salesmen of science: A textual analysis of technological advancement and quantum physics in Oppenheimer (2023)",
+    "authors": [
+      "Erik Gustafson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-27T09:43:14Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 614-630, July 2026. The filmOppenheimer(2023) portrayed the Manhattan Project, which led to the first atomic bombs, and its aftermath. Shown through the eyes of Director J. Robert Oppenheimer, the film takes us through the scientific, political, and personal struggles of a ...",
+    "doi": "10.1177/09636625261423845?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261423845?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Are relying on science and on religion to make sense of the world related to different domains of adaptive behavior and well-being?",
+    "authors": [
+      "Crystal L. Park, Joshua A. Wilt, Adam B. David"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-25T09:09:35Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 594-613, July 2026. Individuals vary in their reliance on science and on religion to make sense of the world. We aimed to determine if these two approaches to making meaning differentially associated with specific domains of adaptive behaviors and well-being, and the extent ...",
+    "doi": "10.1177/09636625261424429?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261424429?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "How Scientific Consensus Messaging Promotes Public Support for Socially Good AI: The Moderating Role of Collective Scientific Efficacy",
+    "authors": [
+      "Wenbo Li, Shuning Lu, Xia Zheng, Shan Xu, Hailey Lantigua"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-24T08:45:44Z",
+    "abstract": "Science Communication, Ahead of Print. This study investigated how scientific consensus messaging influences public support for socially good artificial intelligence (AI), drawing on the gateway belief model. Two preregistered experiments found that consensus messages increased support for AI ...",
+    "doi": "10.1177/10755470261420148?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261420148?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Science communication in the wild",
+    "authors": [
+      "Sarah R. Davies"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-17T06:35:15Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 639-648, July 2026. This essay argues for the need to understand and study science communication ‘in the wild’ – as a set of practices that are not only ‘organised, explicit, and intended actions that aim to communicate scientific knowledge’, but that take on a variety of ...",
+    "doi": "10.1177/09636625261419690?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261419690?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Two or Three Confusions About Vibrations",
+    "authors": [
+      "Brett Mommersteeg1Institute for European Ethnology, 9373Humboldt-Universität zu Berlin, Berlin, Germany"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-17T02:57:26Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Road traffic noise is considered the largest contributor to excessive noise exposure levels in Europe. Central to this type of noise is what is called “rolling noise.” This article emerges from an ethnographic encounter with a group of individuals in ...",
+    "doi": "10.1177/01622439251410537?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251410537?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Conspiracy belief is a conspiracy",
+    "authors": [
+      "Philip J. Wilson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-16T10:56:13Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 631-638, July 2026. The public is said to be misled by Internet fakery amplified by social media, which contributes to conspiracy belief among those on the political right who feel dispossessed and powerless. In fact, conspiracy belief is difficult to attribute to any one ...",
+    "doi": "10.1177/09636625261416076?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261416076?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Threat and Efficacy in Persuasive Messages About PFAS in Public Drinking Water",
+    "authors": [
+      "Lyn M. van Swol, Ika Dai, Bret Shaw, Gavin Dehnert, Rachel A. Hutchins"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-16T07:31:30Z",
+    "abstract": "Science Communication, Ahead of Print. Effective risk communication about per-and-polyfluoroalkyl substances (PFAS) is essential due to health risks and low public awareness. Guided by the Extended Parallel Process Model (EPPM) and the Transtheoretical Model (Stages of Change), this study ...",
+    "doi": "10.1177/10755470261422165?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261422165?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "risk communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Leveraging Artificial Intelligence Chatbots to Employ Bypassing and Correction Strategies for Addressing Misinformation About Contraceptive Use",
+    "authors": [
+      "Christopher Calabrese, Haoning Xue, Xinyu Zhang, Yoo Jung Oh"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-16T01:37:55Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 507-541, June 2026. We examined whether bypassing and combined (correction with bypassing) strategies delivered through artificial intelligence (AI) chatbots can address contraceptive misinformation. In Study 1, we found through observational reddit data that bypassing, ...",
+    "doi": "10.1177/10755470261418533?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261418533?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Intersecting nexus of politics and science: Heterogeneous typologies of climate change skepticism discourse in China",
+    "authors": [
+      "Xiaotong Chen, Ruoyu Ni"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-12T12:40:49Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 539-556, July 2026. As a pervasive social phenomenon, climate change skepticism has been extensively studied in Western contexts, where it is deeply intertwined with local sociopolitical structures. In China, despite the government’s firm commitment to mitigation, a growing ...",
+    "doi": "10.1177/09636625261417544?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261417544?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Communicating Science in the Age of GenAI: Can Generative AI Support the Usage of Higher-Level Science Communication Strategies in Writing?",
+    "authors": [
+      "Yael Barel-Ben David, Roy Yosef, Elad Segev"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-10T06:37:16Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 438-464, June 2026. Effective science communication (SciComm) is crucial, but training scalability remains challenging. We explored whether generative AI (GenAI) could provide feedback to enhance SciComm strategies. In an online iterative distillation exercise, SciComm ...",
+    "doi": "10.1177/10755470251411176?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251411176?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Are supernatural beliefs and scientific attitudes in conflict over individual health behaviours? An empirical study on cancer-prevention behaviours among middle-aged and senior Chinese",
+    "authors": [
+      "Qinliang Liu, Hepeng Jia"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-10T06:32:48Z",
+    "abstract": "Public Understanding of Science, Volume 35, Issue 5, Page 576-593, July 2026. The ‘conflict thesis’ between scientific and supernatural beliefs has attracted considerable intellectual interest. However, empirical studies examining its impact on health behaviours are scarce. To address this gap, drawing on the Health Locus of ...",
+    "doi": "10.1177/09636625261417633?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261417633?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "public understanding of science"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Dealing With Uncertain Futures: Communicating Scientific Modeling in the Public Sphere—A Systematic Review",
+    "authors": [
+      "Signe E. Filler, Berend Barkela, Michaela Maier, Stephan Winter, Christian von Sikorski"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-10T04:13:28Z",
+    "abstract": "Science Communication, Ahead of Print. This article systematically reviews research on public engagement with models of future developments, such as pandemic forecasting or climate change projections. It examines how different actors and stakeholders interpret (often motivated) and communicate ...",
+    "doi": "10.1177/10755470251413493?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251413493?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "climate change",
+      "public engagement"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Expendable Workers: Food Delivery and Technopolitics in China",
+    "authors": [
+      "Angela Ke Li18790University of California, Riverside, Riverside, CA, USA"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-06T05:29:06Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Through a case study of Meituan Waimai, China's dominant food delivery platform, this article examines how algorithmic management is entangled with labor politics. It develops the concept of the technopolitics of labor expendability, which rests on two ...",
+    "doi": "10.1177/01622439251405932?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251405932?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Unruly Aquifers: Groundwater, Karst Landscapes, and a Post-Yugoslav Border Site",
+    "authors": [
+      "Dženeta Hodžić"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-02-05T05:16:27Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This paper deploys the concept of unruliness to examine ethnographically how groundwater in karst landscapes resists being rendered knowable and governable. Focusing on the karst spring Klokot and its transboundary groundwater catchment (TGC) between ...",
+    "doi": "10.1177/01622439251413564?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251413564?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Higher Scientific Consensus Promotes Wider Diffusion: The Case of “Bamboo for Plastic” Environmental Initiative in China",
+    "authors": [
+      "Jie Zhang, Nina He, Jiang Jiang, Jiaqian Xu"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-01-31T05:09:58Z",
+    "abstract": "Science Communication, Ahead of Print. The influence of scientific consensus on public diffusion of environmental initiatives has received little attention. This study tested whether enhancing perceived scientific consensus could promote public diffusion of the “Bamboo for Plastic” initiative ...",
+    "doi": "10.1177/10755470251410872?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251410872?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Unequal Risks, Unequal Responses: Differential Effects of Emphasizing Race Versus Class Disparities in News Stories About Climate Impacts",
+    "authors": [
+      "P. Sol Hart, Lauren Feldman, Soobin Choi, Annie Li Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-01-31T02:10:20Z",
+    "abstract": "Science Communication, Ahead of Print. We investigated how news articles discussing unequal impacts of climate change due to race versus class influence beliefs and support for action. We conducted two online survey experiments focusing on flooding (Study 1) and heat waves (Study 2). In Study ...",
+    "doi": "10.1177/10755470251397919?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251397919?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Post-Socialist Biotech: Labor, Value, and Risk in China's Transitional Economy",
+    "authors": [
+      "Taomo Zhou, Hallam Stevens1Department of Chinese Studies, 37580National University of Singapore, Singapore, Singapore"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-01-27T06:13:50Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article examines the development of a biotechnological industry in the context of China's transition from planned to market economy since 1979. It focuses on two biotech companies, Weiguang Biological Products Co., Ltd., and BGI, both headquartered ...",
+    "doi": "10.1177/01622439251412362?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251412362?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Production of Limited Commensurability in Crises: Expert Knowledge on Nuclear Accidents After Fukushima",
+    "authors": [
+      "Valerie Arnhold"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-01-22T09:46:08Z",
+    "abstract": "Social Studies of Science, Ahead of Print. How does knowledge production during crises challenge or maintain contemporary institutions? This article investigates expert knowledge on nuclear accidents in France in the aftermath of the Fukushima Daiichi accident in March 2011. It examines the French ...",
+    "doi": "10.1177/03063127251409339?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251409339?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "“I Have an Ally, but It’s on My Face”: Makeup as Code Switching in Science Communication",
+    "authors": [
+      "Magaret Sivapragasam, Clare Wilkinson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-01-21T10:16:31Z",
+    "abstract": "Science Communication, Ahead of Print. This study explores makeup use as a form of code switching among women in science communication. Drawing on Goffman’s dramaturgical theory and Butler’s concept of performativity, it examines how appearance is strategically adapted to navigate expectations ...",
+    "doi": "10.1177/10755470251415031?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251415031?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Making Queer Kin in the Labor of the Greenhouse",
+    "authors": [
+      "Xan Sarah Chacko1Science, Technology, and Society, 6752Brown University, Providence, Rhode Island, USA"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-01-13T06:30:14Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. STS is in a unique position to expand pedagogical practice. Classroom activities can build comprehension but also present opportunities to reckon with the limits and affordances of theory. Field trips to see rare books, taxidermy animals, and plants—both ...",
+    "doi": "10.1177/01622439251405005?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251405005?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Satellite Internet and the Disruption of Telecommunications Infrastructures in Cameroon",
+    "authors": [
+      "Georges Macaire Eyenga"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-26T02:55:49Z",
+    "abstract": "Social Studies of Science, Ahead of Print. This article examines how Starlink, developed by SpaceX, constitutes a disruptive innovation in the telecommunications sector in Cameroon, where it offers connectivity in areas poorly served by traditional networks. However, there is a tension between the ...",
+    "doi": "10.1177/03063127251395006?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251395006?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Rethinking Trust in Scientists as a Network Model: A Global Analysis and Implications for Science Communication",
+    "authors": [
+      "Luiz Gustavo de Almeida, Ronaldo Pilati"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-24T06:42:05Z",
+    "abstract": "Science Communication, Ahead of Print. Trust in scientists is a communicative construct shaped by public perception of scientists. Using network psychometrics on responses from 71,922 individuals in 68 countries, we model trust as an interconnected community system of attitudes and beliefs. ...",
+    "doi": "10.1177/10755470251394188?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251394188?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "public perception",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Global Dynamics of Climate Change Imagery: Emotional and Engagement Effects Across Visual Frames on Twitter/X",
+    "authors": [
+      "Isaac Bravo, Katharina Prasse, Stefanie Walter, Saffron O’Neill, Margret Keuper"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-24T06:36:03Z",
+    "abstract": "Science Communication, Ahead of Print. This study examines how climate change is visually framed on Twitter/X and how these frames influence users’ emotional responses and engagement across languages. Using automated image analysis of over three million images posted between 2019 and 2022, we ...",
+    "doi": "10.1177/10755470251401900?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251401900?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "The Obligation to Know and the Right to Know: A Relational Approach to Environmental Justice Communication and Datafication",
+    "authors": [
+      "Katherine L. Dickinson, Leah Horgan, Stephanie Pease, Carla Nyquist, Ruth Mekennon, Vasiliki Pistoftzian, Kourtney Bichotte-Dunner, Ashley Varghese, Sara Wylie, Ean Thomas Tafoya"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-22T06:29:39Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. The public's “Right to Know” has been a motivating refrain for the environmental movement from its modern origins. While these policies may be an important component of environmental progress, it is critical to acknowledge the history and ongoing impacts ...",
+    "doi": "10.1177/01622439251388748?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251388748?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "environmental justice"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "The Future of AI Support in Health Care: Understanding Informal Caregivers’ Multidimensional Expectations of AI Chatbots",
+    "authors": [
+      "Nova M. Huang, Shirley S. Ho"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-20T08:13:51Z",
+    "abstract": "Science Communication, Ahead of Print. This study examines how informal caregivers of older adults form expectations of artificial intelligence-based chatbots (AI chatbots) for caregiving support, drawing on the human–machine communication framework. Findings from six focus group discussions ...",
+    "doi": "10.1177/10755470251398722?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251398722?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "The Time Politics of Agroforestry Science",
+    "authors": [
+      "Timothy McLellan1School of Archeology and Anthropology, 2219Australian National University, Canberra, Australia"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-18T06:03:00Z",
+    "abstract": "Science, Technology, & Human Values, Volume 51, Issue 4, Page 727-752, July 2026. This article examines the time politics of agroforestry science through an ethnographic study with scientists at the Institute for Farms and Forests (IFF) in China. IFF researchers seek to design complex agroforestry systems that emulate the regenerative ...",
+    "doi": "10.1177/01622439251403791?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251403791?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Techno-Fixes: On the Non-Disruptive Disruptions of Cultured Meat, Social Freezing and AI Assistants",
+    "authors": [
+      "Henning Laux, Sandra Matthäus, Clara Wieghorst, Philipp Zeltner"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-17T07:04:20Z",
+    "abstract": "Social Studies of Science, Volume 56, Issue 3, Page 378-402, June 2026. There is an ongoing debate about the capacity of technologies to solve social problems. In this article, we analyze the sociomaterial scripts of three techno-fixes: cultured meat, social egg freezing, and AI assistants. Using a mix of ethnography, ...",
+    "doi": "10.1177/03063127251395213?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251395213?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "To Fund or Not to Fund? Examining Relationships Between Support for Scientific Research Across Political Ideologies and Science-Related Populist Beliefs",
+    "authors": [
+      "Austin Y. Hubner, Lindsay J. Della, Joy L. Hart"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-16T06:11:14Z",
+    "abstract": "Science Communication, Ahead of Print. This study examined how political ideology and science-related populism (SciPop) relate to both trust in federal science agencies and support for scientific funding in the United States. Using regression models, we analyzed perceptions of CDC, NIH, NSF, ...",
+    "doi": "10.1177/10755470251400317?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251400317?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "When Visual-Verbal Overlap Matters: Examining Its Boundary Conditions in Communicating Innovations",
+    "authors": [
+      "Meghnaa Tallapragada, Sachin Rustgi"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-15T06:49:44Z",
+    "abstract": "Science Communication, Ahead of Print. Using abstract-concrete cognition, dual coding theory, and exemplification theory, we conducted two online experiments assessing public perceptions of ongoing research aimed at developing reduced-gluten wheat and reduced-allergen peanuts using ...",
+    "doi": "10.1177/10755470251403517?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251403517?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public perception"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Mythologies of Wealth in Platform Economies: The Case of the Ride-Hailing Platform Didi in China",
+    "authors": [
+      "Jack Linzhou Xing, Jun Zhang, Gonçalo D. Santos"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-15T04:37:06Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article reactivates the concept of myth—which is well-developed in social science literature—to study digital technologies and platform economies. It conceptualizes platform economies as spaces full of myths and mythmaking. Elaborated through an ...",
+    "doi": "10.1177/01622439251398910?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251398910?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "A Postgenomic Quilt: The Turn to Endophenotypes and Deep Phenotyping in Human Genetics",
+    "authors": [
+      "Daniel Navon, Kathryne Metcalf"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-15T04:36:33Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. How do experts stitch together seemingly irreconcilable scientific objects? This paper examines the way “endophenotypes” and “deep phenotyping” are deployed to bridge the infamously recalcitrant genotype–phenotype divide. The endophenotype concept emerged ...",
+    "doi": "10.1177/01622439251396978?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251396978?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "“All Scientists Forced to Retire After Realizing the Science Is Now Settled”: The Role of Right-Wing Humor in Spreading Climate Change Denial",
+    "authors": [
+      "Olli Hellmann"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-08T07:22:59Z",
+    "abstract": "Science Communication, Ahead of Print. This paper analyzes articles from the popularBabylon Beesatire website to show how right-wing humor spreads climate change denialism. The findings reveal that denialist satire closely follows the news cycle, clustering around moments of heightened media ...",
+    "doi": "10.1177/10755470251391686?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251391686?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "More-than-Human Mediation: Social Scientists in the Making of Environmental AI Systems",
+    "authors": [
+      "Myung-Ae Choi, Buhm Soon Park"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-12-03T02:15:47Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. What can social scientists contribute to the development of AI? To date, their efforts have primarily been viewed through the lens of AI's social consequences, such as offering legal and ethical guidelines and providing observation-based critiques. ...",
+    "doi": "10.1177/01622439251393756?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251393756?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Constructing the “Cocreative Citizen”: Innovation Subjects, Statehood and the Common Good in Hybrid Public–Private Settings",
+    "authors": [
+      "Shelly Tsui, Sebastian Pfotenhauer, Gunter Bombaerts"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-24T07:23:10Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. “Cocreation” has emerged as a prominent discourse and set of participatory practices in innovation that aims to engage diverse actors in supposedly inclusive, egalitarian, and empowering ways to jointly produce better innovation outcomes. In this article, ...",
+    "doi": "10.1177/01622439251394488?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251394488?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "The Hunter Hypothesis: Scientific Speculation and Ancestral Imaginaries of Adult ADHD in Chile",
+    "authors": [
+      "Hugo Sir1Mediations and Subjectivities, 155338Universidad de Playa Ancha, Playa Ancha, Valparaíso, Chile"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-24T07:22:56Z",
+    "abstract": "Science, Technology, & Human Values, Volume 51, Issue 4, Page 811-847, July 2026. In this paper, I examine the social, subjective, and scientific implications of the hunter hypothesis, an evolutionary etiology for Attention Deficit Hyperactivity Disorder (ADHD). By tracing its presence in Chilean “everyday life” narratives and “...",
+    "doi": "10.1177/01622439251392960?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251392960?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Deregulatory Disclosure Regimes and Masked Absences in Fracking Chemical Data",
+    "authors": [
+      "Vivian Underhill, Gary Allison, Becky Mansfield"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-24T07:21:16Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Vocal opposition to fracking (the practice of fracturing the subsurface to increase oil and gas production), from shale deposits in Pennsylvania to oil fields in California, has led to increased disclosure about chemicals in fracking fluid. This paper ...",
+    "doi": "10.1177/01622439251384398?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251384398?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Calculable Bureaucratic Time: The Performativity of Data and Dashboards in a Digitizing Public Bureaucracy",
+    "authors": [
+      "Nafis Aziz Hasan1Department of Anthropology, University of Amsterdam, Amsterdam, The Netherlands"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-10T05:48:18Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Public bureaucracies, in their pioneering description, are rationalized spaces necessitating “slow” temporalities of processual work. Yet, around the world focus on speed and acceleration in society at large has led to making bureaucratic time more ...",
+    "doi": "10.1177/01622439251391918?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251391918?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Brewing Public Engagement With Pint of Science USA",
+    "authors": [
+      "Ronan Lordan, Johannes Jahan, Fanny Etienne, Julien Guillard, John Nguyen, Claudia Ratti"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-09T12:16:57Z",
+    "abstract": "Science Communication, Ahead of Print. Amid complex global challenges and the need for informed public discourse, science outreach is more important than ever. The Pint of Science International Festival, held annually each May, convenes scientists, educators, and philosophers with the public ...",
+    "doi": "10.1177/10755470251388393?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251388393?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "public engagement"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "“Quality is an Illusion”: Effects of Market Power on Expert and Farm Infrastructures",
+    "authors": [
+      "Amrita A. Kurian"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-06T10:46:54Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. I examine the fallout of quality's unstable nature on expert and farm infrastructures in India's FCV tobacco sector, drawing on a state regulatory expert's frustrated claim that quality is a mithya (illusion). Quality serves dual functions: as an ...",
+    "doi": "10.1177/01622439251389279?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251389279?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "From Doubt to Action: Examining the Potential of AI Comments in Promoting Health Information Seeking on Social Media",
+    "authors": [
+      "Xizhu Xiao, Huimin Chen, Qinyan Song, Yiwei Yang"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-06T08:32:01Z",
+    "abstract": "Science Communication, Ahead of Print. Using a 2 (social endorsement: high vs. low) × 2 (AI comment type: approving vs. disapproving) experiment, we examine how AI-generated comments and social endorsement cues jointly influence information-seeking intentions in response to social media health ...",
+    "doi": "10.1177/10755470251384848?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251384848?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "“A Warning is Not Enough. Teach Me How to Spot Deepfakes.”: Testing Media Literacy Interventions for Combating Deepfakes",
+    "authors": [
+      "Guanxiong Huang, Bo Hu"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-06T08:28:11Z",
+    "abstract": "Science Communication, Ahead of Print. The rise of generative artificial intelligence (AI) has supercharged the proliferation of multimodal disinformation or so-called “deepfakes.” Through a two-wave online experiment among U.S. residents, we tested media literacy interventions that varied by ...",
+    "doi": "10.1177/10755470251382889?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251382889?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Exploring Language Styles Associated With Scientificness in Health News: A Dual Approach Using Text Mining and Reader Perception Studies",
+    "authors": [
+      "Chingching Chang, Ying-Ju Chiu, Yu-Ming Hsieh, Hao-Hsuan Wang"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-04T11:58:34Z",
+    "abstract": "Science Communication, Ahead of Print. This research examines whether language styles in U.S. health news relate to scientificness. Study 1 uses human ratings to train machine learning models that classify sentences as scientific or nonscientific. A text mining approach predicts the proportion ...",
+    "doi": "10.1177/10755470251386241?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251386241?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Historicizing problematization: The coexistence of agrifood solutions to malnutrition in the Philippines",
+    "authors": [
+      "Shun-Nan Chiang"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-04T06:49:44Z",
+    "abstract": "Social Studies of Science, Ahead of Print. This study draws on Foucault’s discussion on problematization and the perspective of multiplicity to examine five distinct agrifood solutions to malnutrition in the Philippines: rice biofortification, rice fortification, school gardening, brown rice ...",
+    "doi": "10.1177/03063127251368759?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251368759?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "The Open Pharma Movement: Social Action to ‘Open’ Drug Research and Its Implications for Health",
+    "authors": [
+      "Nicole Foti"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-11-03T07:28:25Z",
+    "abstract": "Social Studies of Science, Volume 56, Issue 3, Page 428-453, June 2026. Concerns over the complexity and costs of drug development have led some to consider whether practices of open science should be extended to pharmaceuticals, a space known for entrenched intellectual property regimes. In this article, I trace the ...",
+    "doi": "10.1177/03063127251386079?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251386079?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "“We Have to, Like, Make Science”: Cultural Producers and the Production of Scientific Knowledge in UK Mass Media",
+    "authors": [
+      "Emily Dawson1Department of Science & Technology Studies, 4919University College London, London, UK"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-31T06:38:54Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Science saturates popular culture, but how might we understand the roles played by popular culture in producing scientific knowledge? Based on fieldwork and interviews with cultural producers in the United Kingdom, this article examines how cultural ...",
+    "doi": "10.1177/01622439251380300?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251380300?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Communicating Pollutants That Threaten Tribal Identities: PFAS Contamination in Local Fish and Shellfish",
+    "authors": [
+      "Emily Diamond, Erica Meier, Kaitlin Urbanski, Jamie-Lynn Ward, Jason Steiding, Laurel Schaider"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-28T06:50:13Z",
+    "abstract": "Science Communication, Ahead of Print. Indigenous communities that rely on the consumption of local fish and shellfish may have elevated exposures to environmental contaminants, such as PFAS (perfluoroalkyl and polyfluoroalkyl substances). Conventional public health communication that focuses ...",
+    "doi": "10.1177/10755470251388445?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251388445?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "How Science Belief Drives Climate Change Misinformation Correction Via Threat and Efficacy: A Multigroup Comparison Across Self-Construal Levels",
+    "authors": [
+      "Liang Chen, Huaizhi Han, Dajun Li, Lunrui Fu"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-28T06:37:56Z",
+    "abstract": "Science Communication, Ahead of Print. This study investigates how science belief enhances perceived threat and efficacy, which affect four types of corrective behaviors: public correction, private correction, verification, and refutation. A total of 1,392 participants in China completed a ...",
+    "doi": "10.1177/10755470251378361?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251378361?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Design, Disability, and Critical Pedagogy in STS",
+    "authors": [
+      "Kaitlin Stack Whitney, Kristoffer Whitney, Katie Healey, Jessica Hardin, Anna Carter, Angeline Hamele, Lee Smith"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-27T05:29:48Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Critical Science and Technology Studies (STS) pedagogy involves not only the content of courses but also the design of curricula, classrooms, and buildings. This article explores disability and design through pedagogical vignettes from the Rochester ...",
+    "doi": "10.1177/01622439251386940?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251386940?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Replication After Collins: An Ethnography of Current Replication Studies in Psychology",
+    "authors": [
+      "Jonna Brenninkmeijer, Maarten Derksen, Stephanie Meirmans, Jeannette Pols"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-27T04:34:26Z",
+    "abstract": "Social Studies of Science, Volume 56, Issue 3, Page 403-427, June 2026. Ethnography and other empirical studies of replication played a significant role in the sociology of scientific knowledge (SSK) during the 1970s and 1980s. Collins and other proponents of SSK highlighted that exact replication was impossible, knowledge ...",
+    "doi": "10.1177/03063127251382558?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251382558?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "The Persuasive Impact of Narrative Richness in Antibiotic Stewardship Communication: The Roles of Emotions, Psychological Distance, and Self-Referencing",
+    "authors": [
+      "Yanmengqian Zhou, Madeline M. Jupina, Erina L. Farrell, Shulun Wang, Bryan J. Mesquita"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-24T08:40:04Z",
+    "abstract": "Science Communication, Ahead of Print. This study examines how narrative richness—defined as detail and elaboration in characters, plot, and context—shapes persuasive outcomes in antibiotic stewardship messaging. In a single-factor experiment (N= 1,264), compared to lean narratives or ...",
+    "doi": "10.1177/10755470251385494?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251385494?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Public Communication about Science in 68 Countries: Global Evidence on How People Encounter and Engage with Information about Science",
+    "authors": [
+      "Niels G. Mede, Viktoria Cologna, Sebastian Berger, John C. Besley, Cameron Brick, Marina Joubert, Edward W. Maibach, Sabina Mihelj, Naomi Oreskes, Mike S. Schäfer, Sander van der Linden, Nor Izzatina Abdul Aziz, Suleiman Abdulsalam, Nurulaini Abu Shamsi, Balazs Aczel, Indro Adinugroho, Eleonora Alabrese, Alaa Aldoh, Mark Alfano, Innocent Mbulli Ali, Mohammed Alsobay, Marlene Altenmüller, R. Michael Alvarez, Patrick Ansah, Denisa Apriliawati, Flavio Azevedo, Ani Bajrami, Ronita Bardhan, Keagile Bati, Eri Bertsou, Rahul Bhui, Olga Białobrzeska, Michal Bilewicz, Ayoub Bouguettaya, Katherine Breeden, Amélie Bret, Ondrej Buchel, Pablo Cabrera Alvarez, Federica Cagnoli, André Calero Valdez, Timothy Callaghan, Rizza Kaye Cases, Gabriela Czarnek, Ramit Debnath, Sylvain Delouvée, Lucia Di Stefano, Celia Diaz-Catalàn, Kimberly C. Doell, Simone Dohle, Karen M. Douglas, Dmitrii Dubrov, Malgorzata Dzimińska, Ullrich K. H. Ecker, Christian T. Elbaek, Mahmoud Elsherif, Benjamin Enke, Matthew Facciani, Antoinette Fage-Butler, Md. Zaki Faisal, Xiaoli Fan, Christina Farhart, Christoph Feldhaus, Marinus Ferreira, Stefan Feuerriegel, Helen Fischer, Jana Freundt, Malte Friese, Albina Gallyamova, Mauricio E. Garrido Vásquez, Patricia Garrido-Vásquez, Oliver Genschow, Omid Ghasemi, Theofilos Gkinopoulos, Jamie L. Gloor, Ellen Goddard, Claudia González Brambila, Hazel Gordon, Dmitry Grigoryev, Lars Guenther, Dana Harari, Przemysław Hensel, Alma Cristal Hernández-Mondragón, Atar Herziger, Guanxiong Huang, Markus Huff, Mairéad Hurley, Nygmet Ibadildin, Mohammad Tarikul Islam, Younes Jeddi, Tao Jin, Charlotte A. Jones, Sebastian Jungkunz, Dominika Jurgiel, Sarah Kavassalis, John R. Kerr, Mariana Kitsa, Tereza Klabíková Rábová, Olivier Klein, Hoyoun Koh, Aki Koivula, Lilian Kojan, Elizaveta Komyaginskaya, Laura König, Lina Koppel, Kochav Koren, Alexandra Kosachenko, John Kotcher, Laura S. Kranz, Pradeep Krishnan, Silje Kristiansen, André Krouwel, Toon Kuppens, Claus Lamm, Anthony Lantian, Aleksandra Lazić, Jean-Baptiste Légal, Zoe Leviston, Neil Levy, Amanda M. Lindkvist, Alberto López Ortega, Carlos Lopez-Villavicencio, Andreas Löschel, Nigel Mantou Lou, Chloe H. Lucas, Kristin Lunz-Trujillo, Mathew D. Marques, Sabrina J. Mayer, Ryan McKay, Julia Metag, Taciano L. Milfont, Joanne M. Miller, Panagiotis Mitkidis, Fredy Monge-Rodríguez, Matt Motta, Zarja Muršič, Jennifer Namutebi, Eryn J. Newman, Jonas P. Nitschke, Vincent Ntui Ntui-Njock, Daniel Nwogwugwu, Thomas Ostermann, Tobias Otterbring, Jaime Palmer-Hague, Myrto Pantazi, Philip Pärnamets, Paolo Parra Saiani, Mariola Paruzel-Czachura, Michal Parzuchowski, Yuri G. Pavlov, Adam R. Pearson, Myron A. Penner, Charlotte R. Pennington, Katerina Petkanopoulou, Marija B. Petrović, Dinara Pisareva, Adam Ploszaj, Ekaterina Pronizius, Karolína Pštross, Katarzyna Pypno-Blajda, Diwa Malaya A. Quiñones, Pekka Räsänen, Adrian Rauchfleisch, Felix G. Rebitschek, Cintia Refojo Seronero, Gabriel Rêgo, James P. Reynolds, Joseph Roche, Jan Philipp Röer, Robert M. Ross, Isabelle Ruin, Osvaldo Santos, Ricardo R. Santos, Stefan Schulreich, Bermond Scoggins, Emily Shuckburgh, Johan Six, Nevin Solak, Leonhard Späth, Bram Spruyt, Olivier Standaert, Samantha K. Stanley, Noel Strahm, Stylianos Syropoulos, Barnabas Szaszi, Ewa Szumowska, Mikihito Tanaka, Claudia Teran-Escobar, Boryana Todorova, Abdoul Kafid Toko, Renata Tokrri, Daniel Toribio-Florez, Manos Tsakiris, Michael Tyrala, Özden Melis Uluğ, Ijeoma Chinwe Uzoma, Jochem van Noord, Steven Verheyen, Iris Vilares, Madalina Vlasceanu, Andreas von Bubnoff, Izabela Warwas, Iain Walker, Marcel Weber, Tim Weninger, Mareike Westfal, Adrian Dominik Wojcik, Ziqian Xia, Jinliang Xie, Ewa Zegler-Poleska, Rolf A. Zwaan,"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-21T11:19:11Z",
+    "abstract": "Science Communication, Ahead of Print. This 68-country survey (n= 71,922) examines science information diets and communication behavior, identifies cross-country differences, and tests how such differences are associated with sociopolitical and economic conditions. We find that social media ...",
+    "doi": "10.1177/10755470251376615?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251376615?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Familiarity Matters: Examining the Effects of AI-Generated Images on Science Information Credibility",
+    "authors": [
+      "Dayeon Eom, Lindsey Middleton, Sha Luo, Nan Li, Dominique Brossard"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-19T03:13:44Z",
+    "abstract": "Science Communication, Ahead of Print. Generative AI tools help illustrate complex scientific concepts, though concerns about accuracy persist. This study examined how AI-generated Instagram posts about CRISPR, with and without disclaimers indicating AI involvement, affect perceived ...",
+    "doi": "10.1177/10755470251380116?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251380116?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "From Attention to Attunement: Data-Driven Efficiency and Embodied Care in the Intensive Care Unit",
+    "authors": [
+      "Chiara Carboni, Rik Wehrens, Romke van der Veen, Antoinette de Bont"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-17T06:18:33Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Machine learning-driven efficiency is increasingly cast as a way to insure the future sustainability of understaffed healthcare systems. This article offers a glimpse into the potential practical repercussion of efficiency achieved through machine ...",
+    "doi": "10.1177/01622439251384695?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251384695?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Agencements and Qualculations: Fukushima, Knowledge-Making, and Radiation Contamination",
+    "authors": [
+      "Louise ElstowCentre for Sustainable Development, 2152University of Cambridge, UK"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-14T03:54:34Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. In March 2011, the Fukushima Nuclear Disaster released radiological contamination across a large part of Japan. Formal protective actions taken included mass evacuations, food restrictions, and decontamination programs; decisions about where to live, what ...",
+    "doi": "10.1177/01622439251378232?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251378232?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Unveiling Climate Adaptation: A Comprehensive Analysis of Agenda-Setting Dynamics in the United Kingdom and the Netherlands",
+    "authors": [
+      "Denise J. Roth, Nan Bai, Robbert Biesbroek, Art Dewulf, Sanne Kruikemeier, Daan de Leur, Mariken A. C. G. van der Velden, Erik de Vries, Rens Vliegenthart"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-06T11:46:21Z",
+    "abstract": "Science Communication, Ahead of Print. Climate change adaptation occurs within a complex interplay of science, media, politics, policy, and the public. Using comparative longitudinal data (2012–2021) from online newspaper articles, parliamentary debates, policy documents, and social media, we ...",
+    "doi": "10.1177/10755470251376576?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251376576?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "How Values Guide Trust: The Multiple Roles of Science-Related Value Predispositions in Shaping Trustworthiness and Trust in Scientific Authorities",
+    "authors": [
+      "Hwanseok Song, Prince Adu Gyamfi"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-10-06T11:44:48Z",
+    "abstract": "Science Communication, Ahead of Print. Guided by literature suggesting that value similarity shapes trust in scientific authorities managing technological risks, we examined how science-related values affect trust formation. Our experiment found that individual value orientations moderated the ...",
+    "doi": "10.1177/10755470251376575?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251376575?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "A New Journalism for a New Climate: Is Solutions Journalism the Solution?",
+    "authors": [
+      "Kathryn Thier"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-29T08:31:44Z",
+    "abstract": "Science Communication, Ahead of Print. Little is known about how journalists can engage audiences when providing news about the existential threat of climate change. This experiment tests several solutions stories against problem-oriented stories and an irrelevant control to explain how ...",
+    "doi": "10.1177/10755470251378065?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251378065?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "From Frequency to Diversity: Validating the Multidimensional Measures of Information Acquisition",
+    "authors": [
+      "Xiaohui Wang, Han Zheng, Yi-Hui Christine Huang"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-28T09:07:20Z",
+    "abstract": "Science Communication, Ahead of Print. Public health emergencies underscore the importance of crisis information acquisition. This study validated its multidimensional measures (i.e., frequency, breadth, diversity, and repertoire) using a five-wave longitudinal survey (N= 698) and a two-wave ...",
+    "doi": "10.1177/10755470251369841?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251369841?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "From Neighborhoods to Molecules: The Selective Appropriation of Sociology in Social Epigenetics",
+    "authors": [
+      "Julien Larregue, Séverine Louvel"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-26T07:02:05Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Social epigenetics is presented as a promising interdisciplinary avenue between the natural and social sciences to explore the links between neighborhood environments, epigenetic modifications and health outcomes. Sociological concepts and methods are ...",
+    "doi": "10.1177/01622439251378192?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251378192?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Framing the Planetary and Calculating the Complex: The Controversies, Overflows, and Floods of the EAT-Lancet Planetary Diet",
+    "authors": [
+      "George CusworthDepartment of Philosophy, Classics, History of Art and Ideas, 6305University of Oslo, Oslo, Norway"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-24T02:14:59Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Data-intensive methods have become vital for getting epistemic purchase on global socioecological issues. Yet these methods are never fully insulated against contestation precisely because they seek to represent things that are so large and complex. This ...",
+    "doi": "10.1177/01622439251367132?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251367132?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "QR Network Production: Labor Reskilling and Mass Customization in China's Shoe Supply Chain",
+    "authors": [
+      "Na Fu16752Brown University, Providence, RI, USA"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-22T03:56:59Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. E-retail platforms are fundamentally restructuring global production networks, creating new forms of labor exploitation hidden behind digital interfaces. In China's shoe manufacturing sector, factories are adapting to platform-driven consumption through ...",
+    "doi": "10.1177/01622439251366756?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251366756?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Cascades of Un/ Becoming: How Blackouts Impact Transitional Electropolitics",
+    "authors": [
+      "Declan Kuch, Dominic Boyer"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-18T04:19:21Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Blackouts, though typically dismissed as momentary disruptions, can catalyze sweeping shifts in energy governance and public consciousness. In examining the 2016-2017 blackout in South Australia and the 2021 Texas Freeze, we introducetransitional ...",
+    "doi": "10.1177/01622439251376120?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251376120?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "For the Health of All: Global Transformations in Trans Knowledge",
+    "authors": [
+      "Benjamin Hegarty2786Kirby Institute, University of New South Wales Sydney, New South Wales, Australia"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-09T05:52:39Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Transgender health, and the scientific and medical knowledge underpinning it, has been transformed over the past two decades. Since the 2000s, coalitions of activists, doctors, and scientists have made important if fragile gains in an effort to ...",
+    "doi": "10.1177/01622439251369071?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251369071?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Using Preprint Sources in Science News: Do Transparent Disclosures Enhance Credibility?",
+    "authors": [
+      "Chelsea L. Ratcliff, Alice Fleerackers, Rebekah Wicke, Andy J. King, Jakob D. Jensen"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-09-06T09:12:44Z",
+    "abstract": "Science Communication, Ahead of Print. This study tested whether the transparent use of preprint sources affects the perceived credibility of science news and scientists. In an experiment, U.S. adults read a news report describing COVID-19 research as a “preprint” (with varying levels of ...",
+    "doi": "10.1177/10755470251363191?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251363191?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "“What Might Happen With Generative AI?” Examining the Role of Prefactual Thinking in the Cognitive Mediation Model in the Context of Emerging Technologies",
+    "authors": [
+      "Timothy K. F. Fung, Ho Man Leung, Xiyuan Zhou, Shenting Zheng"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-31T05:18:18Z",
+    "abstract": "Science Communication, Volume 48, Issue 3, Page 367-401, June 2026. Prefactual thinking, a form of prospective mental simulation, significantly impacts individuals’ decision-making. To understand the influence of media consumption on public opinion regarding emerging technologies, this study, in the context of generative ...",
+    "doi": "10.1177/10755470251362368?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251362368?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Concealed Inequality and Embedded Control: A Critical Technocultural Discourse Analysis of Citizen Science Digital Platforms",
+    "authors": [
+      "Zheng Yang"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-31T05:07:25Z",
+    "abstract": "Science Communication, Ahead of Print. Digital citizen science is expected to achieve equal dialogue between scientists and the public, and further the democratization of science. However, through critical technocultural discourse analysis of three Chinese citizen science digital platforms and ...",
+    "doi": "10.1177/10755470251362367?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251362367?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Strategic Interactions in Science Communication: A Complex Adaptive Systems Framework",
+    "authors": [
+      "Justus Henke"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-30T05:00:59Z",
+    "abstract": "Science Communication, Ahead of Print. Science communication plays a crucial role in maintaining public trust in science amid complex societal challenges. This study addresses a gap in understanding science communication dynamics by conceptualizing it as a complex adaptive system of actors. It ...",
+    "doi": "10.1177/10755470251363825?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251363825?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Equity in Science Journalism: Investigating Gender Disparities in News Media Coverage of Scientific Research",
+    "authors": [
+      "Salsabil Arabi, Xiang Zheng, B. Ian Hutchins, Chaoqun Ni"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-29T01:17:25Z",
+    "abstract": "Science Communication, Ahead of Print. Media coverage shapes public perception of science, yet gender bias can compromise its objectivity. Based on 1 million papers with 1.2 million media citations, we examine how the corresponding author’s gender relates to media citing scientific research. ...",
+    "doi": "10.1177/10755470251360187?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251360187?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "public perception"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Change at Last? Dimensions of Disruption in the Swedish Electricity Market",
+    "authors": [
+      "Darcy Parks14566Department of Thematic Studies – Technology and Social Change, Linköping University, Linköping, Sweden"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-28T09:47:01Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Electricity systems are changing in response to three important trends: decarbonization, decentralization, and digitalization. However, these changes have done little to disrupt unsustainable patterns of consumption and production. Consumer electricity ...",
+    "doi": "10.1177/01622439251341947?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251341947?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Visualizing Climate Change: The Interplay of Construal Level, Threat Perception, and Coping Efficacy",
+    "authors": [
+      "Ran Duan"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-28T01:40:14Z",
+    "abstract": "Science Communication, Ahead of Print. This study uses climate change visuals to test to what extent individuals’ threat and efficacy perceptions of climate change interact with their abstract and concrete mind styles to influence their responses to the issue. Findings from online experiments ...",
+    "doi": "10.1177/10755470251363154?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251363154?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "climate change"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Infrastructuring Care: Co-Designing Computational Notebooks for Environmental Data Justice",
+    "authors": [
+      "Alejandro Alvarado Rojas, Lourdes Vera, Steve Hansen, Eric Nost, Sara Wylie, Cole Alder, Environmental Data & Governance Initiative EDGI"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-28T01:10:55Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. The 2016 election of Donald Trump heightened the disproportionate risks from toxicants faced by minoritized communities from cuts in the US Environmental Protection Agency (EPA) funding, reworking environmental health regulations, and obfuscating related ...",
+    "doi": "10.1177/01622439251356930?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251356930?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Crafting Between Maps, Powders, Pigments, and the Specter of Modern Science: Handmade Relief Models as Ontological Operations and Experiments",
+    "authors": [
+      "Alain Müller1Institute of Cultural Anthropology and European Ethnology, Department of Social Sciences, 27209University of Basel, Basel, Switzerland"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-28T01:05:24Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Handmade relief models are three-dimensional, true-to-scale models thatre-presentlandscape sections like mountains. Departing from the rhetoric according to which they ought to be realistic, accurate, and mimetically resemblant renderings of Nature to ...",
+    "doi": "10.1177/01622439251362810?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251362810?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Cartographic Infrastructures: Geographical Pathology, Tumour Safaris, and Colonial Networks in British East Africa",
+    "authors": [
+      "David Reubi, Thandeka CochraneKing’s College London, London, UK"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-25T12:08:59Z",
+    "abstract": "Social Studies of Science, Volume 56, Issue 3, Page 454-483, June 2026. In this article, we explore infrastructures—human, epistemic, and material—that enable the creation of maps and the stories they tell about the world. We develop the concept of ‘cartographic infrastructures’ to reveal the hidden and fragile political, ...",
+    "doi": "10.1177/03063127251364513?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251364513?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Do Artifacts Have Political Economy?",
+    "authors": [
+      "Kean BirchInstitute for Technoscience & Society, York University, Toronto, Canada"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-08-05T06:40:59Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Harking back to Langdon Winner's now classic essay “Do artifacts have politics?,” my aim in this article is to ask a very similar question—namely, do artifacts have political economy? Following Winner and with the same objective in mind, I analyze ...",
+    "doi": "10.1177/01622439251352167?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251352167?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Hard-Earned Glimpses: Using GPS Tracking in Dementia Care",
+    "authors": [
+      "Astrid Meyer, Stinne Aaløkke Ballegaard, Anders Albrechtslund"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-07-21T10:27:53Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Global Positioning System (GPS) tracking is a common tool used to prevent and handle situations where people with dementia get lost. Based on ethnographic fieldwork at a Danish, public nursing home, we explore the use of GPS tracking in everyday dementia ...",
+    "doi": "10.1177/01622439251355375?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251355375?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Computational Universalism, or, Attending to Relationalities at Scale",
+    "authors": [
+      "Francis Lee, David Ribes"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-07-14T12:08:56Z",
+    "abstract": "Social Studies of Science, Volume 56, Issue 3, Page 325-339, June 2026. The social sciences and humanities have increasingly adopted computational terminology as the organizing categories for inquiry. We argue that by organizing research around vernacular computational objects (e.g. data, algorithms, or AI) and divided ...",
+    "doi": "10.1177/03063127251345089?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127251345089?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Examining the Use of Aggressive Satirical Humor on Perceptions of Trustworthiness in Communication About Renewable Energy",
+    "authors": [
+      "Sara K. Yeo, Isabelle Freiling, Jiyoung Yeon, Jennifer S. Zhang, Meaghan McKasy, Michael A. Cacciatore, Leona Yi-Fan Su, Sarah Rose Siskind"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-07-08T06:23:35Z",
+    "abstract": "Science Communication, Ahead of Print. We examined the effects of gentle and harsh satire on perceived trustworthiness of a scientist in an audio clip. Using a three-condition between-subjects survey experiment (N= 723), we found that respondents in the experimental (vs. control) conditions ...",
+    "doi": "10.1177/10755470251345746?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251345746?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "“This Machine Kills CO2”: Planting a Trillion Trees and Mobilizing Forests as Technologies",
+    "authors": [
+      "Jennifer GabrysDepartment of Sociology, University of Cambridge, Cambridge, UK"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-07-07T08:30:39Z",
+    "abstract": "Science, Technology, & Human Values, Volume 51, Issue 4, Page 691-726, July 2026. Trees and forests often feature as solutions to environmental crises, thereby encouraging tree planting projects. This article considers how “trillion trees” projects operationalize trees and forests as productive entities for addressing planetary crises. ...",
+    "doi": "10.1177/01622439251346871?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251346871?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Value-Based Narratives Foster Trust in Scientists and Communication Behaviors",
+    "authors": [
+      "Janet Z. Yang, Laura Arpan, Yotam Ophir, Prerna Shah"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-07-03T12:15:09Z",
+    "abstract": "Science Communication, Ahead of Print. This study evaluated the impact of value-based narratives on American adult participants’ trust perception. In a first-person narrative, a medical scientist described their value-based motivations for developing artificial intelligence (AI) technology for ...",
+    "doi": "10.1177/10755470251345234?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251345234?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "A Proposed Framework for Considering “Inclusive Science Communication” in Theory and Practice",
+    "authors": [
+      ""
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-07-03T12:11:23Z",
+    "abstract": "Science Communication, Ahead of Print. Making science communication more inclusive is as much about how the discipline itself works as it is about how we engage with our audiences. This paper presents a framework comprised of the factors we identify as critical for inclusive science ...",
+    "doi": "10.1177/10755470251344471?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251344471?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Scientific Reliance on AI may Reflect Broader Failures in Science Communication",
+    "authors": [
+      "Gavin J. D. Mullin, Anna Brashear"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-06-30T12:12:42Z",
+    "abstract": "Science Communication, Ahead of Print. Scientists across disciplines increasingly rely on artificial intelligence to scan, summarize, and interpret research articles. While these tools offer speed and clarity, their perceived effectiveness exposes deeper, systemic issues in science. ...",
+    "doi": "10.1177/10755470251352427?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251352427?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "A Mixed-Methods Study of Public Understanding of Scientific Uncertainty",
+    "authors": [
+      "Becca Beets, Dominique Brossard, Dietram A. Scheufele"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-06-30T08:16:31Z",
+    "abstract": "Science Communication, Ahead of Print. Scientific uncertainty has long posed challenges for science communication and research. There is a need to better understand how non-expert publics conceptualize scientific uncertainty and how to reliably and validly measure public understanding of ...",
+    "doi": "10.1177/10755470251348142?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251348142?ai=2b4&mi=ehikzz&af=R",
     "collection_date": "2026-07-06",
     "grade": "A",
     "keyword_matches": [
       "scientific uncertainty",
-      "climate change",
-      "trust",
-      "policy support"
+      "science communication"
     ],
-    "source_type": "sample"
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Constitutional Infrastructures: The Politics of Urban Sovereignty in the “Race to 5G”",
+    "authors": [
+      "Nicole W. Bassoff33574Harvard Kennedy School, Cambridge, MA, USA"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-06-28T03:00:40Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. In the late 2010s, deployment of fifth-generation (5G) wireless technology in the United States made headlines as the first Trump administration pushed for victory in the international “race to 5G.” In concurrent legal proceedings, US cities sued the ...",
+    "doi": "10.1177/01622439251348175?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251348175?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
   },
   {
     "journal_name": "Science Communication",
-    "title": "Valuation, expertise, and the politics of biodiversity metrics",
+    "title": "Narrative Versus Statistical Evidence in Environmental Persuasion: A Meta-Analysis Study",
     "authors": [
-      "Sample Author A",
-      "Sample Author B"
+      "Soohee Choi, Meng Chen, Zhuo Guo"
     ],
-    "publication_year": 2026,
-    "publication_date": "2026-07-01",
-    "abstract": "This sample article explores how biodiversity valuation metrics are constructed through expert knowledge, institutional practices, and political negotiation.",
-    "doi": "10.0000/sample-2",
-    "url": "https://example.com",
+    "publication_year": 2025,
+    "publication_date": "2025-06-19T10:16:51Z",
+    "abstract": "Science Communication, Ahead of Print. This meta-analysis examines the effectiveness of narrative versus statistical evidence in environmental communication. Narrative evidence significantly enhances risk perception and behavioral intention, while statistical evidence plays a more conditional ...",
+    "doi": "10.1177/10755470251344211?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251344211?ai=2b4&mi=ehikzz&af=R",
     "collection_date": "2026-07-06",
     "grade": "A",
     "keyword_matches": [
-      "valuation",
-      "biodiversity",
-      "expertise",
-      "politicization"
+      "science communication",
+      "environmental communication"
     ],
-    "source_type": "sample"
+    "source_type": "rss"
   },
   {
-    "journal_name": "Environmental Communication",
-    "title": "Carbon markets and public responsibility in energy transitions",
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Indigenous Environmental Data Justice: Confronting Colonial Data and Activating Indigenous Sovereignty",
     "authors": [
-      "Sample Author A",
-      "Sample Author B"
+      "María Fernanda Yanchapaxi, M. Murphy1Technoscience Research Unit, 7938University of Toronto, Toronto, ON, Canada"
     ],
-    "publication_year": 2026,
-    "publication_date": "2026-07-01",
-    "abstract": "This sample article investigates how carbon markets reshape public responsibility and sustainability narratives in energy transition debates.",
-    "doi": "10.0000/sample-3",
-    "url": "https://example.com",
+    "publication_year": 2025,
+    "publication_date": "2025-06-18T09:43:17Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article offers Indigenous Environmental Data Justice (IEDJ) as a framework related to, but importantly distinct from, Environmental Data Justice. IEDJ points to the manifold practices and principles that diverse Indigenous communities have developed ...",
+    "doi": "10.1177/01622439251343837?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251343837?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "A New Obligation or a Natural Extension? STEM Scientists’ Science Communication in the Context of Their Professional Role Identities",
+    "authors": [
+      "Lennart Banse, Friederike Hendriks, Monika Taddicken"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-06-16T12:43:57Z",
+    "abstract": "Science Communication, Ahead of Print. Scientists face increasing expectations to engage in public communication. Using role identity theory, this qualitative interview study explores how experienced STEM researchers in Germany integrate these expectations into their professional role ...",
+    "doi": "10.1177/10755470251341839?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251341839?ai=2b4&mi=ehikzz&af=R",
     "collection_date": "2026-07-06",
     "grade": "A",
     "keyword_matches": [
-      "carbon market",
-      "sustainability",
-      "responsibility"
+      "science communication",
+      "STS"
     ],
-    "source_type": "sample"
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "The Paradox of Belief in Science: A Proposal for Reconciliation",
+    "authors": [
+      "Amarasinghe Arachchige Don Nalin Samandika Saparamadu, Oshozimhede E. Iyalomhe, Lawrence L. Cheskin"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-06-13T09:28:08Z",
+    "abstract": "Science Communication, Ahead of Print. The phrase “I believe in science” presents a paradox, blending subjective belief with the evidence-based scientific method. Science is a dynamic, self-correcting process driven by empiricism, falsifiability, and peer review. However, the phrase often ...",
+    "doi": "10.1177/10755470251345694?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251345694?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Autonomy Where the Underground and Aboveground Meet: Processing Plants in Colombian Artisanal and Small-Scale Gold Mining",
+    "authors": [
+      "Mateo Francisco Rojas, Jessica M. Smith, Juan C. Lucena, Oscar Jaime Restrepo Baena"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-06-13T06:46:58Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Social science research about extraction often conflates mining and ore processing activities or disregards processing altogether. This article highlights the value of studying mineral processing as a distinct domain. Our article centers on processing ...",
+    "doi": "10.1177/01622439251344337?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251344337?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Generative AI in Science Communication: Fostering Scientists’ Good Working Habits for Ethical and Effective Use",
+    "authors": [
+      "Friederike Hendriks, Yael Barel-Ben David, Lennart Banse, Julian Fick, Esther Greussing, Inbal Klein-Avraham, Tzipora Rakedzon, Monika Taddicken, Ayelet Baram-Tsabari"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-06-11T09:59:06Z",
+    "abstract": "Science Communication, Ahead of Print. Scientists increasingly use generative artificial intelligence (GenAI) to aid in science communication tasks due to limited time and resources. GenAI can function as a writing assistant, idea generator, or collaborative tool. While it offers promising ...",
+    "doi": "10.1177/10755470251343486?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251343486?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Shifting Narratives: The Role of Science Slams in Climate Mobility Communication",
+    "authors": [
+      "Ann-Christine Link, Thais França, Malte Vandamme, Thomas Brenner"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-31T05:30:14Z",
+    "abstract": "Science Communication, Ahead of Print. Effective science communication is essential to bridge the gap between science and the public, especially regarding complex, highly politicized topics such as climate mobility. This study examines the effectiveness of a Science Slam as a tool for ...",
+    "doi": "10.1177/10755470251342438?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251342438?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Reimagining the Role of Communication in Medical Consensus to Address Medical Mistrust and Disinformation",
+    "authors": [
+      "Jerel M. Ezell, David Scales, Sugy Choi"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-31T05:28:37Z",
+    "abstract": "Science Communication, Ahead of Print. Medical consensus is a critical element in deriving and substantiating evidence-based approaches to guide patient communication and care delivery. However, in recent years, mistrust in medicine—and in science more broadly—has deepened, driven in part by ...",
+    "doi": "10.1177/10755470251342228?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251342228?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "A Caution Against Monstrosity Language in Virology Communications",
+    "authors": [
+      "Brittany Acors"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-23T07:44:58Z",
+    "abstract": "Science Communication, Ahead of Print. This article cautions against using the metaphor of a monster to refer to viruses in virology research, public health campaigns, and science communications for the public. In some circumstances, the harms of the fear invoked by this metaphor may outweigh ...",
+    "doi": "10.1177/10755470251341844?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251341844?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Rethinking Extractivism in a Changing Climate: Complementary Gold and Coffee Livelihoods in the Steep, Tropical Andes",
+    "authors": [
+      "Casey Gibson, Jessica Smith1Department of Engineering, Design, & Society, 3557Colorado School of Mines, Golden, CO, USA"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-19T10:49:38Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. In the municipality of Andes, agriculture rules the steep surface ofla tierra, while informal miners pick and blast subterranean tunnels to make a living from gold. While a few residents perceived a dichotomy between farming and mining, our ethnographic ...",
+    "doi": "10.1177/01622439251338783?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251338783?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "“Bogeymen,” “Murderers,” and “Loonies”: Emotions in Dutch Debates on 5G and Health",
+    "authors": [
+      "Floortje Moes, Christian Bröer, Klasien Horstman"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-06T06:39:06Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Scientific advice is often solicited in governance, yet it is increasingly challenged in the public domain. Public participation is often suggested to mediate opposing knowledge claims, but it has not resolved crises of expertise and democracy. While ...",
+    "doi": "10.1177/01622439251333090?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251333090?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "expertise"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "From Participation to Trust? Understanding Trust Dynamics in Participatory Science Communication",
+    "authors": [
+      "Jane Martha Momme, Friederike Hendriks, Carolin Enzingmüller"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-24T07:19:51Z",
+    "abstract": "Science Communication, Ahead of Print. Trust in science is both a goal and prerequisite for science communication. While participatory methods are claimed to build this trust, supporting evidence remains limited. In an online experiment (N= 725), we investigated how different levels of ...",
+    "doi": "10.1177/10755470251333399?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251333399?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Corrigendum to Practices of Coordination in a Conservation–Tourism Partnership in South Africa",
+    "authors": [],
+    "publication_year": 2025,
+    "publication_date": "2025-04-22T07:43:59Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print.",
+    "doi": "10.1177/01622439251336100?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251336100?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Making the Global Local: The Case of Chinese Research and Innovation Evaluation Systems",
+    "authors": [
+      "Julia Kirch Kirkegaard, Alan Irwin, Xuan Li"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-22T05:36:34Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Starting with China's increasingly prominent role in the global politics of science, this paper considers the case of Chinese policies for the evaluation of Research &amp; Innovation (R&amp;I) and the recent problematization of the Science Citation Index. ...",
+    "doi": "10.1177/01622439251329966?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251329966?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "valuation"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Should We Retire the Concept of Source Credibility? An Experimental Exploration of When Credibility Is (and Is Not) Useful",
+    "authors": [
+      "Emily A. Andrews, Nathan Walter, Erga Atad"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-21T02:12:52Z",
+    "abstract": "Science Communication, Ahead of Print. Perceived source credibility is fundamental to effective science communication. Recent years, however, have seen science become polarized and expert authority erode, complicating the notion that credibility equals persuasion. Two experiments address this ...",
+    "doi": "10.1177/10755470251334094?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251334094?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "“Looking at the Big Picture”: A Qualitative Study of Ethics in Science Communication and Engagement",
+    "authors": [
+      "Clare Wilkinson, Michael Parker, Milly Farrell, Aleksandra Stelmach"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-21T01:27:24Z",
+    "abstract": "Science Communication, Ahead of Print. Ethical issues arise in many communication and engagement settings. Such issues can, however, fall into the gaps between what is seen as “research” and what is seen as “dissemination.” Semi-structured interviews (n= 17) and focus groups (n= 2) with ...",
+    "doi": "10.1177/10755470251334305?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470251334305?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "The Park Multiple: Practices of Coordination in a Conservation–Tourism Partnership in South Africa",
+    "authors": [
+      "Wisse Van Engelen, Annet Pauwelussen, Esther Turnhout"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-03-24T08:09:45Z",
+    "abstract": "Science, Technology, & Human Values, Volume 51, Issue 4, Page 753-782, July 2026. Conservation–tourism partnerships are often promoted as win–win solutions to the twin problems of underfunded conservation and unsustainable development. Critics on the other hand have warned about the tendency toward win–lose outcomes, when nature is ...",
+    "doi": "10.1177/01622439251322532?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251322532?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Between Code and Culture: The Evolving Role of Conversation Designers and UX in AI Development",
+    "authors": [
+      "Elizabeth Rodwell1Department of Information Science Technology, 14743University of Houston, Houston, TX, USA"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-03-13T10:08:47Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Artificial intelligence (AI)-related technologies available to consumers have been rapidly advancing but without parallel insight into the social process of their design. Building AI tools to converse with humans and support our lives remains a ...",
+    "doi": "10.1177/01622439251324884?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439251324884?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Consolidating the Strata: Geoscience and Underground Territory in South Korean Radioactive Waste Disposal",
+    "authors": [
+      "Sungeun KimDepartment II, Max Planck Institute for the History of Science, Berlin, Germany"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-02-11T08:08:11Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. In South Korea, the nation with the world's highest density of nuclear power plants, the disposal of high-level radioactive waste has become a pressing sociotechnical concern. Faced with local residents’ refusal of disposal facilities, scientists at the ...",
+    "doi": "10.1177/01622439241310294?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241310294?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Self-care Against the Grain: Normative Negotiations in Contraceptive Self-Tracking",
+    "authors": [
+      "Ellen Algera"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-01-21T10:13:38Z",
+    "abstract": "Science, Technology, & Human Values, Volume 51, Issue 4, Page 848-874, July 2026. Critical sociologists argue that reproductive self-tracking applications (apps) intensify existing norms regarding the female body. Yet, we have little empirical data on how self-care practiced with such apps relates to existing norms regarding the ...",
+    "doi": "10.1177/01622439241300353?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241300353?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Making Light Work: Infrastructures and Their Many Publics",
+    "authors": [
+      "Judith Green, Mike Michael, Rebecca Steinbach, Phil Edwards"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-01-09T01:38:07Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article explores the multiplicity of publics that are enacted in relation to infrastructures. We take the case of street lighting infrastructure in the UK in 2013/4, at a point when innovations in light emitting diode (LED) and smart technologies ...",
+    "doi": "10.1177/01622439241309978?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241309978?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "The Sociotechnical Life of a Shapeshifting Technology: The Bike Lift Trampe in Trondheim",
+    "authors": [
+      "Ivana Suboticki, Lina Hopaneng Ingeborgrud, Knut H. Sørensen"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-01-07T08:53:36Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article explores the idea that technologies may be considered shapeshifting as they move between and are domesticated in different social worlds. We employ a material-semiotic approach with a domestication and social worlds framework to study the ...",
+    "doi": "10.1177/01622439241302680?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241302680?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Ethics and Artificial Intelligence in the Interdisciplinary Collaborations of Smart Care",
+    "authors": [
+      "Christine Hine, Payam Barnaghi"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-12-13T08:36:43Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article explores how the work of ethical assurance is understood by those involved in artificial intelligence development and deployment, and uses the findings to consider how ethical reflection might be better supported. The article presents a case ...",
+    "doi": "10.1177/01622439241302519?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241302519?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Blocks and Overflows of Care: Territorialization and Marine Conservation in the Balearic Sea",
+    "authors": [
+      "Jose A. Cañada1154260Faculty of Social Sciences, Department of Sociology, Centre for the Social Study of Microbes, University of Helsinki, Helsinki, Finland"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-12-05T07:35:45Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. The article expands upon care theory in Science and Technology Studies by attending to marine spaces and practices for conservation of marine and coastal ecosystems. Examining the case of efforts to protect the Mediterranean-endemic seagrassPosidonia ...",
+    "doi": "10.1177/01622439241299248?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241299248?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies",
+      "ecosystem"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Theaters of Algorithmic Transparency and the Politics of Exemplarity",
+    "authors": [
+      "Loup Cellard"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-11-07T06:14:28Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article shows how transparency practitioners seeking to enhance the understandability of French housing tax algorithms produced slow disclosures they claim to be “exemplary.” In doing so, the study highlights time management as an understudied ...",
+    "doi": "10.1177/01622439241294008?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241294008?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Training Future Comrades: Gender Pedagogy and Model Train Sets in the German Democratic Republic",
+    "authors": [
+      "Mario Bianchini139055Leibniz-Zentrum für Zeithistorische Forschung Potsdam, Potsdam, Germany"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-11-05T07:59:39Z",
+    "abstract": "Science, Technology, & Human Values, Volume 51, Issue 4, Page 875-902, July 2026. This article investigates how model train sets became a medium for the marketing and development of East German technological utopianism, particularly in order to recruit women into the technical workforce. It begins by contextualizing the role of women ...",
+    "doi": "10.1177/01622439241292086?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241292086?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Geological (Dis)orientations: Training Sites, Storytelling, and Fieldwork in the Chilean Andes",
+    "authors": [
+      "Martín Fonck"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-10-29T11:40:32Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article explores place-based geological storytelling by examining the role of training sites in the geoscientific learning process. Based on ethnographic work conducted with geoscientists in the Liquiñe-Ofqui Geological Fault, I illustrate how sites ...",
+    "doi": "10.1177/01622439241292092?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241292092?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Translating Law and Code in Government: Algorithmic Decisions and Their Legal Effects in Canada",
+    "authors": [
+      "Mike Zajko1Department of History and Sociology, 97950University of British Columbia–Okanagan Campus, Kelowna, Canada"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-10-25T07:59:48Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. This article analyzes the translation of law into computer code and the use of automated decision-making systems in government to make legal distinctions. Specifically, how are algorithmic decisions tied to law, and what happens when legal effects are ...",
+    "doi": "10.1177/01622439241289154?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241289154?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Covalence in Cow-veillance: Sensing Technologies and Human-Animal Affinities in Dairying",
+    "authors": [
+      "Camille Bellet, Emily Kathryn Morgan"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-09-27T08:26:10Z",
+    "abstract": "Science, Technology, & Human Values, Volume 51, Issue 4, Page 783-810, July 2026. This article considers how the widespread use of camera surveillance systems in dairy farming affects engagements between farmers and cows. While literatures on visual surveillance often cast monitoring technologies as cold and mechanical tools for ...",
+    "doi": "10.1177/01622439241280177?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241280177?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "What's in the Blood? Temporalities at Play in Diet-Related Risk Management Testing Practices",
+    "authors": [
+      "Myriam Durocher1Anthropology, 1234University of Amsterdam, Amsterdam, Netherlands"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-09-17T07:29:23Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. In this paper, I look at two different sets of practices that are part of the risk management apparatus in place in Québec &amp; Canada to apprehend and control risks associated with food consumption. More specifically, I contrast diabetes and chemical ...",
+    "doi": "10.1177/01622439241283058?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241283058?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Underground Roots for Ancestral Futures: Exploring Lithium Through an Experimental Alliance between Chemistry and Anthropology",
+    "authors": [
+      "Cristobal Bonelli, Martina Gamba"
+    ],
+    "publication_year": 2024,
+    "publication_date": "2024-09-06T11:51:44Z",
+    "abstract": "Science, Technology, & Human Values, Ahead of Print. Amid the push for decarbonization and the rise of lithium-ion batteries, global demand for lithium urges an examination of its materiality. Drawing on Barry's chemical geography, which gathers various concerns related to the study of chemicals in the ...",
+    "doi": "10.1177/01622439241278377?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241278377?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss"
   }
 ]
