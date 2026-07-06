@@ -2,43 +2,66 @@
   {
     "journal_name": "Public Understanding of Science",
     "title": "How publics make sense of scientific uncertainty in climate communication",
-    "authors": ["Sample Author A", "Sample Author B"],
+    "authors": [
+      "Sample Author A",
+      "Sample Author B"
+    ],
     "publication_year": 2026,
     "publication_date": "2026-07-01",
     "abstract": "This sample article examines how publics interpret scientific uncertainty in climate communication and how trust in expertise shapes policy support.",
-    "doi": "10.0000/sample-pus-001",
-    "url": "https://example.com/sample-pus-001",
-    "collection_date": "2026-07-05",
+    "doi": "10.0000/sample-1",
+    "url": "https://example.com",
+    "collection_date": "2026-07-06",
     "grade": "A",
-    "keyword_matches": ["scientific uncertainty", "climate change", "trust", "policy support"],
+    "keyword_matches": [
+      "scientific uncertainty",
+      "climate change",
+      "trust",
+      "policy support"
+    ],
     "source_type": "sample"
   },
   {
-    "journal_name": "Social Studies of Science",
+    "journal_name": "Science Communication",
     "title": "Valuation, expertise, and the politics of biodiversity metrics",
-    "authors": ["Sample Author C"],
+    "authors": [
+      "Sample Author A",
+      "Sample Author B"
+    ],
     "publication_year": 2026,
-    "publication_date": "2026-06-20",
+    "publication_date": "2026-07-01",
     "abstract": "This sample article explores how biodiversity valuation metrics are constructed through expert knowledge, institutional practices, and political negotiation.",
-    "doi": "10.0000/sample-sss-001",
-    "url": "https://example.com/sample-sss-001",
-    "collection_date": "2026-07-05",
+    "doi": "10.0000/sample-2",
+    "url": "https://example.com",
+    "collection_date": "2026-07-06",
     "grade": "A",
-    "keyword_matches": ["valuation", "biodiversity", "expertise", "politicization"],
+    "keyword_matches": [
+      "valuation",
+      "biodiversity",
+      "expertise",
+      "politicization"
+    ],
     "source_type": "sample"
   },
   {
-    "journal_name": "Energy Research & Social Science",
+    "journal_name": "Environmental Communication",
     "title": "Carbon markets and public responsibility in energy transitions",
-    "authors": ["Sample Author D", "Sample Author E"],
+    "authors": [
+      "Sample Author A",
+      "Sample Author B"
+    ],
     "publication_year": 2026,
-    "publication_date": "2026-06-10",
+    "publication_date": "2026-07-01",
     "abstract": "This sample article investigates how carbon markets reshape public responsibility and sustainability narratives in energy transition debates.",
-    "doi": "10.0000/sample-erss-001",
-    "url": "https://example.com/sample-erss-001",
-    "collection_date": "2026-07-05",
-    "grade": "B",
-    "keyword_matches": ["carbon market", "sustainability", "responsibility"],
+    "doi": "10.0000/sample-3",
+    "url": "https://example.com",
+    "collection_date": "2026-07-06",
+    "grade": "A",
+    "keyword_matches": [
+      "carbon market",
+      "sustainability",
+      "responsibility"
+    ],
     "source_type": "sample"
   }
 ]
