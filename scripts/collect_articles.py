@@ -2,6 +2,7 @@ import csv
 import json
 import re
 from datetime import date
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import feedparser
@@ -83,7 +84,7 @@ KEYWORDS = [
 def load_journals():
     """
     Read the journal list from data/journals.csv.
-    This is kept for later expansion, even though the first RSS version uses RSS_FEEDS directly.
+    This is kept for later expansion.
     """
     journals = []
 
@@ -126,7 +127,7 @@ def find_keyword_matches(title, abstract):
 def get_authors(entry):
     """
     Extract authors from an RSS entry.
-    RSS feeds do not always use the same author format, so this function is defensive.
+    RSS feeds do not always use the same author format.
     """
     authors = []
 
@@ -146,7 +147,7 @@ def get_authors(entry):
 
 def get_publication_date(entry):
     """
-    Extract publication date from RSS entry.
+    Extract raw publication date from RSS entry.
     """
     if "published" in entry:
         return entry.published
@@ -157,11 +158,39 @@ def get_publication_date(entry):
     return ""
 
 
-def get_publication_year(publication_date):
+def clean_publication_date(publication_date):
     """
-    Extract a 4-digit year from a date string.
+    Convert RSS date strings to YYYY-MM-DD when possible.
+    This makes sorting and filtering easier in the dashboard.
     """
-    match = re.search(r"\d{4}", publication_date)
+    if not publication_date:
+        return ""
+
+    try:
+        parsed_date = parsedate_to_datetime(publication_date)
+        return parsed_date.date().isoformat()
+    except Exception:
+        pass
+
+    # If the date is already close to YYYY-MM-DD, keep the first match.
+    match = re.search(r"\d{4}-\d{2}-\d{2}", publication_date)
+    if match:
+        return match.group(0)
+
+    # Last fallback: keep only the year if available.
+    year_match = re.search(r"\d{4}", publication_date)
+    if year_match:
+        return year_match.group(0)
+
+    return ""
+
+
+def get_publication_year(publication_date_clean, publication_date_raw):
+    """
+    Extract publication year.
+    """
+    text = publication_date_clean or publication_date_raw
+    match = re.search(r"\d{4}", text)
 
     if match:
         return int(match.group(0))
@@ -189,6 +218,63 @@ def get_doi(entry):
     return ""
 
 
+def extract_volume_issue_from_text(text):
+    """
+    Try to extract volume and issue from text.
+    RSS feeds are inconsistent, so this is a best-effort function.
+
+    Examples it tries to catch:
+    - Volume 34, Issue 2
+    - Vol. 34, Issue 2
+    - 34(2)
+    """
+    volume = ""
+    issue = ""
+
+    if not text:
+        return volume, issue
+
+    volume_issue_patterns = [
+        r"Volume\s+(\d+)\s*,?\s*Issue\s+(\d+)",
+        r"Vol\.?\s+(\d+)\s*,?\s*No\.?\s+(\d+)",
+        r"Vol\.?\s+(\d+)\s*,?\s*Issue\s+(\d+)",
+        r"\b(\d+)\s*\(\s*(\d+)\s*\)"
+    ]
+
+    for pattern in volume_issue_patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE)
+
+        if match:
+            volume = match.group(1)
+            issue = match.group(2)
+            return volume, issue
+
+    volume_match = re.search(r"Volume\s+(\d+)|Vol\.?\s+(\d+)", text, flags=re.IGNORECASE)
+    if volume_match:
+        volume = volume_match.group(1) or volume_match.group(2)
+
+    issue_match = re.search(r"Issue\s+(\d+)|No\.?\s+(\d+)", text, flags=re.IGNORECASE)
+    if issue_match:
+        issue = issue_match.group(1) or issue_match.group(2)
+
+    return volume, issue
+
+
+def get_volume_issue(entry):
+    """
+    Extract volume and issue from RSS entry fields.
+    """
+    possible_texts = []
+
+    for key in ["title", "summary", "id", "guid", "link"]:
+        if key in entry:
+            possible_texts.append(str(entry[key]))
+
+    combined_text = " ".join(possible_texts)
+
+    return extract_volume_issue_from_text(combined_text)
+
+
 def collect_from_rss(feed_info):
     """
     Collect article data from one RSS feed.
@@ -200,18 +286,23 @@ def collect_from_rss(feed_info):
     for entry in feed.entries:
         title = clean_text(entry.get("title", ""))
         abstract = clean_text(entry.get("summary", ""))
-        publication_date = get_publication_date(entry)
-        publication_year = get_publication_year(publication_date)
+        publication_date_raw = get_publication_date(entry)
+        publication_date_clean = clean_publication_date(publication_date_raw)
+        publication_year = get_publication_year(publication_date_clean, publication_date_raw)
         authors = get_authors(entry)
         doi = get_doi(entry)
         url = entry.get("link", "")
+        volume, issue = get_volume_issue(entry)
 
         paper = {
             "journal_name": feed_info["journal_name"],
             "title": title,
             "authors": authors,
             "publication_year": publication_year,
-            "publication_date": publication_date,
+            "publication_date": publication_date_raw,
+            "publication_date_clean": publication_date_clean,
+            "volume": volume,
+            "issue": issue,
             "abstract": abstract,
             "doi": doi,
             "url": url,
@@ -267,7 +358,7 @@ def main():
 
     # Sort newest first when possible.
     all_papers.sort(
-        key=lambda paper: str(paper["publication_date"]),
+        key=lambda paper: str(paper.get("publication_date_clean", "")),
         reverse=True
     )
 
