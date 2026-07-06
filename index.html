@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 1000px;
+      max-width: 1100px;
       margin: 40px auto;
       padding: 0 20px;
       line-height: 1.6;
@@ -27,24 +27,65 @@
       margin-top: 0;
     }
 
-    .summary {
-      background: white;
-      border: 1px solid #ddd;
-      padding: 15px 20px;
-      border-radius: 8px;
-      margin-bottom: 25px;
-    }
-
+    .summary,
+    .controls,
+    .journal-section,
     .paper-card {
       background: white;
       border: 1px solid #ddd;
       border-radius: 8px;
-      padding: 18px 20px;
-      margin-bottom: 18px;
     }
 
-    .paper-card h2 {
-      font-size: 20px;
+    .summary {
+      padding: 15px 20px;
+      margin-bottom: 20px;
+    }
+
+    .controls {
+      padding: 15px 20px;
+      margin-bottom: 25px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      align-items: end;
+    }
+
+    label {
+      display: block;
+      font-size: 14px;
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    select,
+    input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #bbb;
+      border-radius: 6px;
+      font-size: 14px;
+      box-sizing: border-box;
+    }
+
+    .journal-section {
+      padding: 16px 18px;
+      margin-bottom: 22px;
+    }
+
+    .journal-heading {
+      margin-top: 0;
+      margin-bottom: 12px;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 8px;
+    }
+
+    .paper-card {
+      padding: 16px 18px;
+      margin-bottom: 14px;
+    }
+
+    .paper-card h3 {
+      font-size: 19px;
       margin-top: 0;
       margin-bottom: 8px;
     }
@@ -52,7 +93,7 @@
     .meta {
       color: #555;
       font-size: 14px;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
 
     .abstract {
@@ -74,6 +115,15 @@
       font-weight: bold;
     }
 
+    details {
+      margin-top: 10px;
+    }
+
+    summary {
+      cursor: pointer;
+      color: #0645ad;
+    }
+
     a {
       color: #0645ad;
     }
@@ -82,6 +132,13 @@
       margin-top: 40px;
       color: #666;
       font-size: 14px;
+    }
+
+    .empty-message {
+      padding: 20px;
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 8px;
     }
   </style>
 </head>
@@ -99,6 +156,55 @@
     <p id="summary-text">Loading paper data...</p>
   </section>
 
+  <section class="controls">
+    <div>
+      <label for="view-mode">View mode</label>
+      <select id="view-mode">
+        <option value="journal">Journal view</option>
+        <option value="recent">Recent view</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="journal-filter">Journal</label>
+      <select id="journal-filter">
+        <option value="all">All journals</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="grade-filter">Grade</label>
+      <select id="grade-filter">
+        <option value="all">All grades</option>
+        <option value="A">A only</option>
+        <option value="B">B only</option>
+        <option value="C">C only</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="period-filter">Period</label>
+      <select id="period-filter">
+        <option value="all">All periods</option>
+        <option value="30">Recent 30 days</option>
+        <option value="90">Recent 90 days</option>
+        <option value="365">Recent 1 year</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="keyword-filter">Keyword</label>
+      <select id="keyword-filter">
+        <option value="all">All keywords</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="search-box">Search title / abstract</label>
+      <input id="search-box" type="text" placeholder="e.g., uncertainty, climate, trust">
+    </div>
+  </section>
+
   <main id="paper-list">
     <!-- Paper cards will be inserted here by JavaScript. -->
   </main>
@@ -108,48 +214,275 @@
   </footer>
 
   <script>
+    let allPapers = [];
+
     async function loadPapers() {
-      const response = await fetch("data/papers.json");
-      const papers = await response.json();
+      // Cache-busting query prevents the browser from using an old papers.json too aggressively.
+      const response = await fetch(`data/papers.json?v=${Date.now()}`);
+      allPapers = await response.json();
 
+      setupFilters(allPapers);
+      renderDashboard();
+    }
+
+    function setupFilters(papers) {
+      const journalFilter = document.getElementById("journal-filter");
+      const keywordFilter = document.getElementById("keyword-filter");
+
+      const journals = [...new Set(papers.map(paper => paper.journal_name))].sort();
+      const keywords = [...new Set(papers.flatMap(paper => paper.keyword_matches || []))].sort();
+
+      journals.forEach(function(journal) {
+        const option = document.createElement("option");
+        option.value = journal;
+        option.textContent = journal;
+        journalFilter.appendChild(option);
+      });
+
+      keywords.forEach(function(keyword) {
+        const option = document.createElement("option");
+        option.value = keyword;
+        option.textContent = keyword;
+        keywordFilter.appendChild(option);
+      });
+
+      document.getElementById("view-mode").addEventListener("change", renderDashboard);
+      document.getElementById("journal-filter").addEventListener("change", renderDashboard);
+      document.getElementById("grade-filter").addEventListener("change", renderDashboard);
+      document.getElementById("period-filter").addEventListener("change", renderDashboard);
+      document.getElementById("keyword-filter").addEventListener("change", renderDashboard);
+      document.getElementById("search-box").addEventListener("input", renderDashboard);
+    }
+
+    function renderDashboard() {
+      const viewMode = document.getElementById("view-mode").value;
+      const filteredPapers = filterPapers(allPapers);
+
+      updateSummary(filteredPapers);
+
+      if (viewMode === "journal") {
+        renderJournalView(filteredPapers);
+      } else {
+        renderRecentView(filteredPapers);
+      }
+    }
+
+    function filterPapers(papers) {
+      const selectedJournal = document.getElementById("journal-filter").value;
+      const selectedGrade = document.getElementById("grade-filter").value;
+      const selectedKeyword = document.getElementById("keyword-filter").value;
+      const selectedPeriod = document.getElementById("period-filter").value;
+      const searchText = document.getElementById("search-box").value.toLowerCase().trim();
+
+      return papers.filter(function(paper) {
+        const journalMatch =
+          selectedJournal === "all" || paper.journal_name === selectedJournal;
+
+        const gradeMatch =
+          selectedGrade === "all" || paper.grade === selectedGrade;
+
+        const keywordMatch =
+          selectedKeyword === "all" ||
+          (paper.keyword_matches || []).includes(selectedKeyword);
+
+        const periodMatch = checkPeriodMatch(paper, selectedPeriod);
+
+        const searchableText = `${paper.title || ""} ${paper.abstract || ""}`.toLowerCase();
+        const searchMatch =
+          searchText === "" || searchableText.includes(searchText);
+
+        return journalMatch && gradeMatch && keywordMatch && periodMatch && searchMatch;
+      });
+    }
+
+    function checkPeriodMatch(paper, selectedPeriod) {
+      if (selectedPeriod === "all") {
+        return true;
+      }
+
+      const cleanDate = paper.publication_date_clean;
+
+      if (!cleanDate || cleanDate.length < 10) {
+        return false;
+      }
+
+      const paperDate = new Date(cleanDate);
+      const today = new Date();
+      const diffTime = today - paperDate;
+      const diffDays = diffTime / (1000 * 60 * 60 * 24);
+
+      return diffDays <= Number(selectedPeriod);
+    }
+
+    function updateSummary(papers) {
       const summaryText = document.getElementById("summary-text");
+      const totalCount = allPapers.length;
+      const filteredCount = papers.length;
+
+      summaryText.textContent =
+        `${filteredCount} articles displayed out of ${totalCount} collected articles.`;
+    }
+
+    function sortByNewest(papers) {
+      return [...papers].sort(function(a, b) {
+        const dateA = a.publication_date_clean || "";
+        const dateB = b.publication_date_clean || "";
+
+        return dateB.localeCompare(dateA);
+      });
+    }
+
+    function renderJournalView(papers) {
       const paperList = document.getElementById("paper-list");
+      paperList.innerHTML = "";
 
-      summaryText.textContent = `${papers.length} articles loaded.`;
+      if (papers.length === 0) {
+        renderEmptyMessage();
+        return;
+      }
 
-      papers.forEach(function(paper) {
-        const card = document.createElement("article");
-        card.className = "paper-card";
+      const grouped = groupByJournal(papers);
+      const sortedJournalNames = Object.keys(grouped).sort();
 
-        const authors = paper.authors.join(", ");
-        const keywords = paper.keyword_matches.map(function(keyword) {
-          return `<span class="tag">${keyword}</span>`;
-        }).join("");
+      sortedJournalNames.forEach(function(journalName) {
+        const section = document.createElement("section");
+        section.className = "journal-section";
 
-        card.innerHTML = `
-          <h2>${paper.title}</h2>
-          <div class="meta">
-            <span class="grade">Grade ${paper.grade}</span> |
-            ${paper.journal_name} |
-            ${paper.publication_year} |
-            Published: ${paper.publication_date} |
-            Collected: ${paper.collection_date}
-          </div>
-          <div class="meta">
-            Authors: ${authors}
-          </div>
-          <p class="abstract">${paper.abstract}</p>
-          <div>
-            ${keywords}
-          </div>
-          <p>
-            DOI: ${paper.doi}<br>
-            <a href="${paper.url}" target="_blank">Open article page</a>
-          </p>
+        const sortedPapers = sortByNewest(grouped[journalName]);
+        const grade = sortedPapers[0]?.grade || "";
+
+        section.innerHTML = `
+          <h2 class="journal-heading">Grade ${grade} · ${journalName} (${sortedPapers.length})</h2>
         `;
 
-        paperList.appendChild(card);
+        sortedPapers.forEach(function(paper) {
+          section.appendChild(createPaperCard(paper));
+        });
+
+        paperList.appendChild(section);
       });
+    }
+
+    function renderRecentView(papers) {
+      const paperList = document.getElementById("paper-list");
+      paperList.innerHTML = "";
+
+      if (papers.length === 0) {
+        renderEmptyMessage();
+        return;
+      }
+
+      const sortedPapers = sortByNewest(papers);
+
+      sortedPapers.forEach(function(paper) {
+        paperList.appendChild(createPaperCard(paper));
+      });
+    }
+
+    function renderEmptyMessage() {
+      const paperList = document.getElementById("paper-list");
+      paperList.innerHTML = `
+        <div class="empty-message">
+          No articles match the current filters.
+        </div>
+      `;
+    }
+
+    function groupByJournal(papers) {
+      const grouped = {};
+
+      papers.forEach(function(paper) {
+        if (!grouped[paper.journal_name]) {
+          grouped[paper.journal_name] = [];
+        }
+
+        grouped[paper.journal_name].push(paper);
+      });
+
+      return grouped;
+    }
+
+    function createPaperCard(paper) {
+      const card = document.createElement("article");
+      card.className = "paper-card";
+
+      const authors = (paper.authors || []).join(", ") || "No author information";
+      const keywords = (paper.keyword_matches || []).map(function(keyword) {
+        return `<span class="tag">${escapeHtml(keyword)}</span>`;
+      }).join("");
+
+      const volumeIssue = formatVolumeIssue(paper);
+      const cleanDate = paper.publication_date_clean || paper.publication_date || "No date";
+      const doiText = paper.doi ? escapeHtml(paper.doi) : "No DOI found";
+
+      card.innerHTML = `
+        <h3>${escapeHtml(paper.title || "Untitled article")}</h3>
+
+        <div class="meta">
+          <span class="grade">Grade ${escapeHtml(paper.grade || "")}</span> |
+          ${escapeHtml(paper.journal_name || "")} |
+          ${escapeHtml(String(paper.publication_year || ""))} |
+          ${volumeIssue}
+        </div>
+
+        <div class="meta">
+          Published: ${escapeHtml(cleanDate)} |
+          Collected: ${escapeHtml(paper.collection_date || "")} |
+          Source: ${escapeHtml(paper.source_type || "")}
+        </div>
+
+        <div class="meta">
+          Authors: ${escapeHtml(authors)}
+        </div>
+
+        <div>
+          ${keywords || "<span class='tag'>No keyword match</span>"}
+        </div>
+
+        <details>
+          <summary>Abstract / Summary</summary>
+          <p class="abstract">${escapeHtml(paper.abstract || "No abstract or summary available from this source.")}</p>
+        </details>
+
+        <p>
+          DOI: ${doiText}<br>
+          <a href="${escapeAttribute(paper.url || "#")}" target="_blank">Open article page</a>
+        </p>
+      `;
+
+      return card;
+    }
+
+    function formatVolumeIssue(paper) {
+      const volume = paper.volume || "";
+      const issue = paper.issue || "";
+
+      if (volume && issue) {
+        return `Vol. ${escapeHtml(volume)}, Issue ${escapeHtml(issue)}`;
+      }
+
+      if (volume) {
+        return `Vol. ${escapeHtml(volume)}`;
+      }
+
+      if (issue) {
+        return `Issue ${escapeHtml(issue)}`;
+      }
+
+      return "No volume/issue";
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function escapeAttribute(value) {
+      return escapeHtml(value);
     }
 
     loadPapers();
