@@ -99,15 +99,98 @@ def load_journals():
 
 def clean_text(text):
     """
-    Clean simple HTML tags and extra spaces from RSS text.
+    Clean simple HTML tags, HTML entities, and extra spaces from RSS text.
     """
     if not text:
         return ""
 
     text = re.sub(r"<[^>]+>", " ", text)
+    text = text.replace("&nbsp;", " ")
+    text = text.replace("&amp;", "&")
+    text = text.replace("&quot;", '"')
+    text = text.replace("&#39;", "'")
     text = re.sub(r"\s+", " ", text)
+
     return text.strip()
 
+def clean_abstract(abstract, journal_name):
+    """
+    Remove journal metadata that sometimes appears before the actual abstract.
+    RSS summaries often include phrases such as:
+    'Science Communication, Ahead of Print.'
+    """
+    if not abstract:
+        return ""
+
+    abstract = clean_text(abstract)
+
+    patterns_to_remove = [
+        rf"^{re.escape(journal_name)},\s*Ahead of Print\.?\s*",
+        rf"^{re.escape(journal_name)},\s*OnlineFirst\.?\s*",
+        rf"^{re.escape(journal_name)}\s*",
+        r"^Ahead of Print\.?\s*",
+        r"^OnlineFirst\.?\s*"
+    ]
+
+    for pattern in patterns_to_remove:
+        abstract = re.sub(pattern, "", abstract, flags=re.IGNORECASE)
+
+    return abstract.strip()
+
+
+def clean_author_name(author_name):
+    """
+    Clean author strings from RSS feeds.
+    Some RSS feeds attach numeric IDs and affiliation text to author names.
+    This function keeps the likely author name and removes obvious affiliation tails.
+    """
+    if not author_name:
+        return ""
+
+    author_name = clean_text(author_name)
+
+    # Remove long numeric IDs and anything after them.
+    # Example: 'Cynthia Browne128263Knowledge Systems...'
+    author_name = re.sub(r"\d{4,}.*$", "", author_name).strip()
+
+    # Remove common affiliation tails when they appear after the name.
+    affiliation_markers = [
+        "University",
+        "Institute",
+        "Department",
+        "School",
+        "College",
+        "Faculty",
+        "Centre",
+        "Center",
+        "Laboratory",
+        "Max Planck",
+        "Germany",
+        "USA",
+        "United Kingdom"
+    ]
+
+    for marker in affiliation_markers:
+        pattern = rf"\b{re.escape(marker)}\b.*$"
+        author_name = re.sub(pattern, "", author_name).strip(" ,;")
+
+    return author_name.strip()
+
+
+def clean_author_list(authors):
+    """
+    Clean a list of author names and remove empty values.
+    """
+    cleaned_authors = []
+
+    for author in authors:
+        cleaned_author = clean_author_name(author)
+
+        if cleaned_author:
+            cleaned_authors.append(cleaned_author)
+
+    return cleaned_authors
+    
 
 def find_keyword_matches(title, abstract):
     """
@@ -142,7 +225,7 @@ def get_authors(entry):
     if not authors and "dc_creator" in entry:
         authors.append(entry.dc_creator)
 
-    return authors
+    return clean_author_list(authors)
 
 
 def get_publication_date(entry):
@@ -285,7 +368,8 @@ def collect_from_rss(feed_info):
 
     for entry in feed.entries:
         title = clean_text(entry.get("title", ""))
-        abstract = clean_text(entry.get("summary", ""))
+        raw_abstract = entry.get("summary", "")
+        abstract = clean_abstract(raw_abstract, feed_info["journal_name"])
         publication_date_raw = get_publication_date(entry)
         publication_date_clean = clean_publication_date(publication_date_raw)
         publication_year = get_publication_year(publication_date_clean, publication_date_raw)
