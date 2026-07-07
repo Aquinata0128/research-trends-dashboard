@@ -2,7 +2,7 @@ import csv
 import json
 import re
 import time
-from datetime import date
+from datetime import date, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import quote
@@ -17,6 +17,8 @@ DATA_DIR = BASE_DIR / "data"
 
 JOURNALS_FILE = DATA_DIR / "journals.csv"
 PAPERS_FILE = DATA_DIR / "papers.json"
+ARCHIVE_DIR = DATA_DIR / "archive"
+RETENTION_DAYS = 730
 
 
 # First real RSS collection targets.
@@ -594,6 +596,133 @@ def remove_duplicates(papers):
     return unique_papers
 
 
+def load_existing_papers():
+    """
+    Load existing papers from data/papers.json.
+    This allows the dashboard to keep accumulating papers over time.
+    """
+    if not PAPERS_FILE.exists():
+        return []
+
+    try:
+        with open(PAPERS_FILE, mode="r", encoding="utf-8") as file:
+            return json.load(file)
+    except Exception as error:
+        print(f"Could not load existing papers: {error}")
+        return []
+
+
+def parse_clean_date(date_text):
+    """
+    Convert publication_date_clean text to a Python date object.
+    Returns None if the date cannot be parsed.
+    """
+    if not date_text:
+        return None
+
+    try:
+        # Expected format: YYYY-MM-DD
+        if len(date_text) >= 10:
+            return datetime.strptime(date_text[:10], "%Y-%m-%d").date()
+
+        # Fallback for year-only values such as '2026'
+        if len(date_text) == 4 and date_text.isdigit():
+            return date(int(date_text), 1, 1)
+
+        return None
+    except Exception:
+        return None
+
+
+def split_recent_and_archive(papers):
+    """
+    Split papers into:
+    - recent papers: kept in data/papers.json
+    - archived papers: stored by year in data/archive/papers_YYYY.json
+    """
+    today = date.today()
+    cutoff_date = today - timedelta(days=RETENTION_DAYS)
+
+    recent_papers = []
+    archive_papers = []
+
+    for paper in papers:
+        paper_date = parse_clean_date(paper.get("publication_date_clean", ""))
+
+        # If date is unknown, keep it in papers.json for now.
+        # This prevents accidentally losing useful metadata.
+        if paper_date is None:
+            recent_papers.append(paper)
+            continue
+
+        if paper_date >= cutoff_date:
+            recent_papers.append(paper)
+        else:
+            archive_papers.append(paper)
+
+    return recent_papers, archive_papers
+
+
+def group_archive_by_year(papers):
+    """
+    Group archived papers by publication year.
+    """
+    grouped = {}
+
+    for paper in papers:
+        year = paper.get("publication_year")
+
+        if not year:
+            paper_date = parse_clean_date(paper.get("publication_date_clean", ""))
+            year = paper_date.year if paper_date else "unknown"
+
+        year = str(year)
+
+        if year not in grouped:
+            grouped[year] = []
+
+        grouped[year].append(paper)
+
+    return grouped
+
+
+def save_archive_papers(archive_papers):
+    """
+    Save old papers to data/archive/papers_YYYY.json.
+    Existing archive files are merged with newly archived papers.
+    """
+    if not archive_papers:
+        return
+
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+
+    grouped_archive = group_archive_by_year(archive_papers)
+
+    for year, papers_for_year in grouped_archive.items():
+        archive_file = ARCHIVE_DIR / f"papers_{year}.json"
+
+        existing_archive = []
+
+        if archive_file.exists():
+            try:
+                with open(archive_file, mode="r", encoding="utf-8") as file:
+                    existing_archive = json.load(file)
+            except Exception as error:
+                print(f"Could not load archive file {archive_file}: {error}")
+
+        merged_archive = remove_duplicates(existing_archive + papers_for_year)
+
+        merged_archive.sort(
+            key=lambda paper: str(paper.get("publication_date_clean", "")),
+            reverse=True
+        )
+
+        with open(archive_file, mode="w", encoding="utf-8") as file:
+            json.dump(merged_archive, file, ensure_ascii=False, indent=2)
+
+        print(f"Saved {len(merged_archive)} archived papers to {archive_file}.")
+        
+
 def save_papers(papers):
     """
     Save paper data to data/papers.json.
@@ -625,15 +754,30 @@ def main():
         # Be polite to Crossref and avoid too many quick requests.
         time.sleep(0.5)
 
-    enriched_papers.sort(
+    existing_papers = load_existing_papers()
+
+    print(f"Loaded {len(existing_papers)} existing papers from {PAPERS_FILE}.")
+
+    combined_papers = existing_papers + enriched_papers
+    combined_papers = remove_duplicates(combined_papers)
+
+    combined_papers.sort(
         key=lambda paper: str(paper.get("publication_date_clean", "")),
         reverse=True
     )
 
-    save_papers(enriched_papers)
+    recent_papers, archive_papers = split_recent_and_archive(combined_papers)
 
-    print(f"Saved {len(enriched_papers)} articles to {PAPERS_FILE}.")
+    recent_papers.sort(
+        key=lambda paper: str(paper.get("publication_date_clean", "")),
+        reverse=True
+    )
 
+    save_papers(recent_papers)
+    save_archive_papers(archive_papers)
+
+    print(f"Saved {len(recent_papers)} recent papers to {PAPERS_FILE}.")
+    print(f"Moved or kept {len(archive_papers)} older papers in archive.")
 
 if __name__ == "__main__":
     main()
