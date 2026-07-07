@@ -47,7 +47,8 @@ RSS_FEEDS = [
     }
 ]
 
-
+# Some journals work better with linking ISSN than online ISSN in Crossref.
+# We use the ISSN that actually returns stable Crossref results.
 CROSSREF_JOURNALS = [
     {
         "journal_name": "Environmental Communication",
@@ -72,7 +73,37 @@ CROSSREF_JOURNALS = [
         "grade": "B",
         "issn": "2214-6296",
         "rows": 100
-    }    
+    },
+    {
+        "journal_name": "Environmental Politics",
+        "grade": "C",
+        "issn": "1743-8934",
+        "rows": 100
+    },
+    {
+        "journal_name": "Ecological Economics",
+        "grade": "C",
+        "issn": "0921-8009",
+        "rows": 100
+    },
+    {
+        "journal_name": "Environmental Innovation and Societal Transitions",
+        "grade": "C",
+        "issn": "2210-4224",
+        "rows": 100
+    },
+    {
+        "journal_name": "Research Policy",
+        "grade": "C",
+        "issn": "0048-7333",
+        "rows": 100
+    },
+    {
+        "journal_name": "Science and Public Policy",
+        "grade": "C",
+        "issn": "1471-5430",
+        "rows": 100
+    }
 ]
 
 
