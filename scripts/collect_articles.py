@@ -983,7 +983,10 @@ def paper_from_kci_link(article_link, journal_info):
         "publication_date_clean": "",
         "volume": "",
         "issue": "",
-        "abstract": "",
+        "pages": "",
+        "keywords": [],
+        "abstract_ko": "",
+        "abstract_en": "",
         "doi": "",
         "url": url,
         "collection_date": today,
@@ -1088,10 +1091,124 @@ def split_korean_authors(author_text):
     return clean_kci_author_list(authors)
 
 
+def get_input_value(soup, input_id):
+    """
+    Get value from hidden input by id.
+    KCI stores useful article metadata in hidden inputs.
+    """
+    tag = soup.find("input", {"id": input_id})
+
+    if not tag:
+        return ""
+
+    return clean_korean_text(tag.get("value", ""))
+
+
+def clean_kci_author_name(author):
+    """
+    Clean one KCI author name.
+
+    Example:
+    김미라/Mira Kim(제1) -> 김미라
+    김혜수/Hye-Soo Kim(교신) -> 김혜수
+    """
+    if not author:
+        return ""
+
+    author = clean_korean_text(author)
+
+    # Keep Korean name before slash.
+    author = author.split("/")[0]
+
+    # Remove role markers such as (제1), (교신).
+    author = re.sub(r"\([^)]*\)", "", author)
+
+    return author.strip()
+
+
+def parse_kci_authors(author_text):
+    """
+    Parse KCI hdnAuthor value into a clean author list.
+    """
+    if not author_text:
+        return []
+
+    parts = author_text.split(",")
+    authors = []
+
+    for part in parts:
+        author = clean_kci_author_name(part)
+
+        if author and author not in authors:
+            authors.append(author)
+
+    return authors
+
+
+def parse_kci_vol_info(vol_info):
+    """
+    Parse KCI hdnVolInfo.
+
+    Example:
+    2026, vol.70no.3,pp. 52-87(36 pages)
+    """
+    result = {
+        "publication_year": "",
+        "publication_date": "",
+        "publication_date_clean": "",
+        "volume": "",
+        "issue": "",
+        "pages": ""
+    }
+
+    if not vol_info:
+        return result
+
+    vol_info = clean_korean_text(vol_info)
+
+    year_match = re.search(r"(19|20)\d{2}", vol_info)
+    if year_match:
+        year = int(year_match.group(0))
+        result["publication_year"] = year
+        result["publication_date"] = str(year)
+        result["publication_date_clean"] = str(year)
+
+    volume_match = re.search(r"vol\.?\s*([0-9]+)", vol_info, flags=re.IGNORECASE)
+    if volume_match:
+        result["volume"] = volume_match.group(1)
+
+    issue_match = re.search(r"no\.?\s*([0-9]+)", vol_info, flags=re.IGNORECASE)
+    if issue_match:
+        result["issue"] = issue_match.group(1)
+
+    page_match = re.search(r"pp\.?\s*([0-9]+[-–][0-9]+)", vol_info, flags=re.IGNORECASE)
+    if page_match:
+        result["pages"] = page_match.group(1)
+
+    return result
+
+
+def parse_kci_keywords(keyword_text):
+    """
+    Parse KCI hdnKeyWords value.
+    """
+    if not keyword_text:
+        return []
+
+    keywords = []
+
+    for keyword in keyword_text.split(","):
+        keyword = clean_korean_text(keyword)
+
+        if keyword and keyword not in keywords:
+            keywords.append(keyword)
+
+    return keywords
+
+
 def enrich_kci_paper_from_detail_page(paper):
     """
-    Visit one KCI article detail page and enrich metadata.
-    This is a cautious first version using meta tags and visible text patterns.
+    Visit one KCI article detail page and enrich metadata using KCI-specific fields.
     """
     url = paper.get("url", "")
 
@@ -1105,97 +1222,55 @@ def enrich_kci_paper_from_detail_page(paper):
 
     soup = BeautifulSoup(html, "html.parser")
 
-    # 1. Title
-    detail_title = first_meta_content(
-        soup,
-        [
-            "citation_title",
-            "dc.title",
-            "dcterms.title",
-            "og:title"
-        ]
-    )
+    # Title
+    title_tag = soup.find("strong", {"id": "artiTitle"})
+    if title_tag:
+        title = clean_korean_text(title_tag.get_text(" "))
+        if title:
+            paper["title"] = title
 
-    if detail_title and len(detail_title) > len(paper.get("title", "")):
-        paper["title"] = detail_title
+    # Hidden KCI metadata
+    author_text = get_input_value(soup, "hdnAuthor")
+    journal_name = get_input_value(soup, "hdnJournalNm")
+    vol_info = get_input_value(soup, "hdnVolInfo")
+    doi = get_input_value(soup, "hdnDoi")
+    keyword_text = get_input_value(soup, "hdnKeyWords")
 
-    # 2. Authors
-    meta_authors = get_meta_contents(
-        soup,
-        [
-            "citation_author",
-            "dc.creator",
-            "dcterms.creator"
-        ]
-    )
+    authors = parse_kci_authors(author_text)
+    if authors:
+        paper["authors"] = authors
 
-    if meta_authors:
-        paper["authors"] = clean_kci_author_list(meta_authors)
-    else:
-        # Fallback: try to find visible author text.
-        page_text = clean_korean_text(soup.get_text(" "))
-        author_match = re.search(r"저자\s*[:：]?\s*(.+?)(?:발행기관|학술지명|권호|발행연도|초록)", page_text)
+    if journal_name:
+        paper["journal_name"] = journal_name
 
-        if author_match:
-            paper["authors"] = split_korean_authors(author_match.group(1))
+    vol_data = parse_kci_vol_info(vol_info)
 
-    # 3. Publication date
-    publication_date = first_meta_content(
-        soup,
-        [
-            "citation_publication_date",
-            "citation_date",
-            "dc.date",
-            "dcterms.issued"
-        ]
-    )
-
-    if publication_date:
-        paper["publication_date"] = publication_date
-        paper["publication_date_clean"] = clean_publication_date(publication_date)
-        paper["publication_year"] = get_publication_year(
-            paper["publication_date_clean"],
-            publication_date
-        )
-    else:
-        page_text = clean_korean_text(soup.get_text(" "))
-        year = extract_year_from_text(page_text)
-
-        if year:
-            paper["publication_year"] = year
-            paper["publication_date"] = str(year)
-            paper["publication_date_clean"] = str(year)
-
-    # 4. Journal volume and issue
-    volume = first_meta_content(soup, ["citation_volume"])
-    issue = first_meta_content(soup, ["citation_issue"])
-
-    if volume:
-        paper["volume"] = volume
-
-    if issue:
-        paper["issue"] = issue
-
-    # 5. DOI
-    doi = first_meta_content(soup, ["citation_doi", "dc.identifier"])
+    for key, value in vol_data.items():
+        if value:
+            paper[key] = value
 
     if doi:
         doi = doi.replace("doi:", "").strip()
         if doi.startswith("10."):
             paper["doi"] = doi
 
-    # 6. Abstract
-    abstract = first_meta_content(
-        soup,
-        [
-            "description",
-            "dc.description",
-            "dcterms.abstract"
-        ]
-    )
+    # Abstract: prefer Korean abstract for Korean journals.
+    kor_abst = soup.find("p", {"id": "korAbst"})
+    eng_abst = soup.find("p", {"id": "engAbst"})
 
-    if abstract and len(abstract) > 20:
-        paper["abstract"] = abstract
+    korean_abstract = clean_korean_text(kor_abst.get_text(" ")) if kor_abst else ""
+    english_abstract = clean_korean_text(eng_abst.get_text(" ")) if eng_abst else ""
+
+    if korean_abstract:
+        paper["abstract"] = korean_abstract
+        paper["abstract_ko"] = korean_abstract
+
+    if english_abstract:
+        paper["abstract_en"] = english_abstract
+
+    keywords = parse_kci_keywords(keyword_text)
+    if keywords:
+        paper["keywords"] = keywords
 
     paper["keyword_matches"] = find_keyword_matches(
         paper.get("title", ""),
@@ -1244,7 +1319,24 @@ def collect_from_kci_journal(journal_info, existing_paper_map):
         paper_key = get_paper_key(paper)
 
         if paper_key in existing_paper_map:
-            skipped_count += 1
+            existing_paper = existing_paper_map[paper_key]
+
+            needs_enrichment = (
+                existing_paper.get("source_type") == "kci"
+                and (
+                    not existing_paper.get("authors")
+                    or not existing_paper.get("publication_year")
+                    or not existing_paper.get("abstract")
+                    or existing_paper.get("title") == "0"
+                )
+            )
+
+            if needs_enrichment:
+                enriched_existing_paper = enrich_kci_paper_from_detail_page(existing_paper)
+                new_papers.append(enriched_existing_paper)
+            else:
+                skipped_count += 1
+
             continue
 
         new_papers.append(paper)
