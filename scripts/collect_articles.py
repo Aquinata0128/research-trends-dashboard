@@ -193,10 +193,6 @@ CROSSREF_HEADERS = {
     "User-Agent": "ResearchTrendsDashboard/0.1"
 }
 
-RSS_HEADERS = {
-    "User-Agent": "Mozilla/5.0 ResearchTrendsDashboard/0.1"
-}
-
 
 def load_journals():
     """
@@ -588,33 +584,7 @@ def build_existing_paper_map(existing_papers):
 
     return existing_map
 
-
-def fetch_feed(feed_url):
-    """
-    Fetch RSS XML with requests first, then parse it with feedparser.
-    This is more reliable for publishers that do not respond well to default feedparser requests.
-    """
-    try:
-        response = requests.get(feed_url, headers=RSS_HEADERS, timeout=30)
-        response.raise_for_status()
-
-        feed = feedparser.parse(response.content)
-
-        print(f"  Feed status: {response.status_code}")
-        print(f"  Feed title: {feed.feed.get('title', 'no title')}")
-        print(f"  Feed entries parsed: {len(feed.entries)}")
-
-        return feed
-
-    except Exception as error:
-        print(f"  RSS fetch failed: {error}")
-
-        # Fallback to feedparser direct parsing.
-        feed = feedparser.parse(feed_url)
-        print(f"  Fallback feed entries parsed: {len(feed.entries)}")
-
-        return feed
-        
+ 
 
 def query_crossref_by_doi(doi):
     """
@@ -999,98 +969,6 @@ def paper_from_kci_link(article_link, journal_info):
     return paper
 
 
-def get_meta_contents(soup, possible_names):
-    """
-    Extract contents from HTML meta tags.
-    Many academic pages store citation metadata in meta tags.
-    """
-    values = []
-
-    possible_names = {name.lower() for name in possible_names}
-
-    for meta in soup.find_all("meta"):
-        meta_name = (
-            meta.get("name")
-            or meta.get("property")
-            or meta.get("http-equiv")
-            or ""
-        ).lower()
-
-        if meta_name in possible_names:
-            content = clean_korean_text(meta.get("content", ""))
-
-            if content:
-                values.append(content)
-
-    return values
-
-
-def first_meta_content(soup, possible_names):
-    """
-    Return the first matching meta content.
-    """
-    values = get_meta_contents(soup, possible_names)
-    return values[0] if values else ""
-
-
-def extract_year_from_text(text):
-    """
-    Extract year from text.
-    """
-    if not text:
-        return ""
-
-    match = re.search(r"(19|20)\d{2}", text)
-
-    if match:
-        return int(match.group(0))
-
-    return ""
-
-
-def clean_kci_author_list(authors):
-    """
-    Clean KCI author list.
-    """
-    cleaned = []
-
-    for author in authors:
-        author = clean_korean_text(author)
-
-        if not author:
-            continue
-
-        # Remove labels if they appear.
-        author = re.sub(r"^저자\s*[:：]?\s*", "", author)
-
-        if author and author not in cleaned:
-            cleaned.append(author)
-
-    return cleaned
-
-
-def split_korean_authors(author_text):
-    """
-    Split Korean author text into a list.
-    """
-    if not author_text:
-        return []
-
-    author_text = clean_korean_text(author_text)
-
-    # Common separators in Korean academic pages.
-    parts = re.split(r"\s*[;,·]\s*|\s+/\s+|\s+\|\s+", author_text)
-
-    authors = []
-
-    for part in parts:
-        part = clean_korean_text(part)
-        if part:
-            authors.append(part)
-
-    return clean_kci_author_list(authors)
-
-
 def get_input_value(soup, input_id):
     """
     Get value from hidden input by id.
@@ -1419,7 +1297,7 @@ def collect_from_rss(feed_info):
     Collect raw article data from one RSS feed.
     This does not call Crossref.
     """
-    feed = fetch_feed(feed_info["feed_url"])
+    feed = feedparser.parse(feed_info["feed_url"])
     papers = []
     today = date.today().isoformat()
 
