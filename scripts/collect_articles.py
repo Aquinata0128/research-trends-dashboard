@@ -44,6 +44,11 @@ RSS_FEEDS = [
         "journal_name": "Science, Technology, & Human Values",
         "grade": "A",
         "feed_url": "https://journals.sagepub.com/action/showFeed?ai=2b4&feed=rss&jc=sth&mi=ehikzz&type=etoc&ui=0"
+    },
+    {
+        "journal_name": "Environmental Communication",
+        "grade": "A",
+        "feed_url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=renc20"
     }
 ]
 
