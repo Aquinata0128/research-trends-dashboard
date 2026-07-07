@@ -48,7 +48,7 @@ RSS_FEEDS = [
     {
         "journal_name": "Environmental Communication",
         "grade": "A",
-        "feed_url": "https://www.https://www.tandfonline.com/feed/rss/renc20"
+        "feed_url": "https://www.tandfonline.com/feed/rss/renc20"
     }
 ]
 
