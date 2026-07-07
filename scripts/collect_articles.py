@@ -44,11 +44,16 @@ RSS_FEEDS = [
         "journal_name": "Science, Technology, & Human Values",
         "grade": "A",
         "feed_url": "https://journals.sagepub.com/action/showFeed?ai=2b4&feed=rss&jc=sth&mi=ehikzz&type=etoc&ui=0"
-    },
+    }
+]
+
+
+CROSSREF_JOURNALS = [
     {
         "journal_name": "Environmental Communication",
         "grade": "A",
-        "feed_url": "https://www.tandfonline.com/feed/rss/renc20"
+        "issn": "1752-4040",
+        "rows": 100
     }
 ]
 
@@ -573,6 +578,110 @@ def query_crossref_by_title(title, journal_name):
         return None
 
 
+def query_crossref_by_issn(journal_info):
+    """
+    Search recent journal articles from Crossref by ISSN.
+    This is used when publisher RSS is blocked or unreliable.
+    """
+    today = date.today()
+    from_date = today - timedelta(days=RETENTION_DAYS)
+
+    params = {
+        "filter": (
+            f"issn:{journal_info['issn']},"
+            f"type:journal-article,"
+            f"from-pub-date:{from_date.isoformat()}"
+        ),
+        "sort": "published",
+        "order": "desc",
+        "rows": journal_info.get("rows", 100)
+    }
+
+    try:
+        response = requests.get(
+            CROSSREF_API_BASE,
+            params=params,
+            headers=CROSSREF_HEADERS,
+            timeout=30
+        )
+        response.raise_for_status()
+
+        data = response.json()
+        items = data.get("message", {}).get("items", [])
+
+        print(f"  Crossref items found: {len(items)}")
+
+        return items
+
+    except Exception as error:
+        print(f"  Crossref ISSN search failed for {journal_info['journal_name']}: {error}")
+        return []
+
+
+def paper_from_crossref_item(item, journal_info):
+    """
+    Convert one Crossref item to the paper format used by data/papers.json.
+    """
+    title_list = item.get("title", [])
+    title = clean_text(title_list[0]) if title_list else "Untitled article"
+
+    abstract = get_crossref_abstract(item)
+    publication_date_clean = choose_crossref_publication_date(item)
+    publication_year = get_publication_year(publication_date_clean, "")
+
+    doi = item.get("DOI", "")
+    url = item.get("URL", "")
+
+    paper = {
+        "journal_name": journal_info["journal_name"],
+        "title": title,
+        "authors": get_authors_from_crossref(item),
+        "publication_year": publication_year,
+        "publication_date": publication_date_clean,
+        "publication_date_clean": publication_date_clean,
+        "volume": str(item.get("volume", "")),
+        "issue": str(item.get("issue", "")),
+        "abstract": abstract,
+        "doi": doi,
+        "url": url,
+        "collection_date": date.today().isoformat(),
+        "grade": journal_info["grade"],
+        "keyword_matches": find_keyword_matches(title, abstract),
+        "source_type": "crossref",
+        "crossref_enriched": True
+    }
+
+    return paper
+
+
+def collect_from_crossref_journal(journal_info, existing_paper_map):
+    """
+    Collect recent papers from one journal using Crossref ISSN search.
+    Existing papers are skipped.
+    """
+    print(f"Collecting from Crossref: {journal_info['journal_name']}...")
+
+    items = query_crossref_by_issn(journal_info)
+
+    new_papers = []
+    skipped_count = 0
+
+    for item in items:
+        paper = paper_from_crossref_item(item, journal_info)
+        paper_key = get_paper_key(paper)
+
+        if paper_key in existing_paper_map:
+            skipped_count += 1
+            continue
+
+        new_papers.append(paper)
+
+    print(f"  Crossref skipped existing papers: {skipped_count}")
+    print(f"  Crossref new papers added: {len(new_papers)}")
+
+    return new_papers
+
+
 def get_crossref_abstract(item):
     """
     Extract and clean Crossref abstract when available.
@@ -850,7 +959,13 @@ def main():
     print(f"Skipped existing RSS papers: {skipped_existing_count}")
     print(f"New papers enriched with Crossref: {new_paper_count}")
 
-    combined_papers = existing_papers + new_or_updated_papers
+    crossref_journal_papers = []
+
+    for journal_info in CROSSREF_JOURNALS:
+        papers = collect_from_crossref_journal(journal_info, existing_paper_map)
+        crossref_journal_papers.extend(papers)
+
+    combined_papers = existing_papers + new_or_updated_papers + crossref_journal_papers
     combined_papers = remove_duplicates(combined_papers)
 
     combined_papers.sort(
