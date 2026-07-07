@@ -24939,6 +24939,53 @@
     "crossref_enriched": false
   },
   {
+    "journal_name": "Environmental Communication",
+    "title": "Unveiling the Backlash in Public Opinion on Climate Change: A Longitudinal Study of Climate Change-Related Population Segments and Communicative Engagement in Germany",
+    "authors": [
+      "Anne Reif",
+      "Lars Guenther",
+      "Michael Brüggemann"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-28",
+    "publication_date_clean": "2025-05-28",
+    "volume": "20",
+    "issue": "2",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2507006",
+    "url": "https://doi.org/10.1080/17524032.2025.2507006",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Media Effects, Emotion, and Race: Extending the Climate Change Risk Perception Model in the United States",
+    "authors": [
+      "Christine Gilbert",
+      "Kenneth Lachlan"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-28",
+    "publication_date_clean": "2025-05-28",
+    "volume": "20",
+    "issue": "2",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2507000",
+    "url": "https://doi.org/10.1080/17524032.2025.2507000",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Science Communication",
     "title": "A Caution Against Monstrosity Language in Virology Communications",
     "authors": [
@@ -24958,6 +25005,24 @@
       "science communication"
     ],
     "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Correction",
+    "authors": [],
+    "publication_year": 2025,
+    "publication_date": "2025-05-21",
+    "publication_date_clean": "2025-05-21",
+    "volume": "19",
+    "issue": "5",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2507852",
+    "url": "https://doi.org/10.1080/17524032.2025.2507852",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
     "crossref_enriched": true
   },
   {
@@ -24981,6 +25046,49 @@
       "climate change"
     ],
     "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Storytelling Science for Sustainability – Using Storytelling to Communicate the Science of Sustainable Food Systems",
+    "authors": [
+      "Sabrina Vitting-Seerup",
+      "Lea Ellen Matthiessen"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-09",
+    "publication_date_clean": "2025-05-09",
+    "volume": "20",
+    "issue": "2",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2493331",
+    "url": "https://doi.org/10.1080/17524032.2025.2493331",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Climate Scenarios and the Documentary Mediation of National Security",
+    "authors": [
+      "Thomas Patrick Pringle"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-05-07",
+    "publication_date_clean": "2025-05-07",
+    "volume": "19",
+    "issue": "5",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2492265",
+    "url": "https://doi.org/10.1080/17524032.2025.2492265",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
     "crossref_enriched": true
   },
   {
@@ -25152,6 +25260,48 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Environmental Communication",
+    "title": "Climate Activist Groups’ Discourses on Science and Knowledge: Merging Rhetorical Strategies with Political Visions",
+    "authors": [
+      "Daniela Ferreira da Silva",
+      "Anabela Carvalho"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-21",
+    "publication_date_clean": "2025-04-21",
+    "volume": "19",
+    "issue": "8",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2490960",
+    "url": "https://doi.org/10.1080/17524032.2025.2490960",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Misframing Marine Plastic Pollution on TikTok",
+    "authors": [
+      "Viola Jasmine Provost",
+      "Hamish van der Ven"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-21",
+    "publication_date_clean": "2025-04-21",
+    "volume": "20",
+    "issue": "2",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2492889",
+    "url": "https://doi.org/10.1080/17524032.2025.2492889",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Science as Culture",
     "title": "Political theory and the reconstruction of expertise and democracy",
     "authors": [
@@ -25169,6 +25319,51 @@
     "grade": "B",
     "keyword_matches": [
       "expertise"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Ocean Science Coverage in Digital Journals in Portugal",
+    "authors": [
+      "Joselaine Setlik",
+      "Carla Morais",
+      "Everaldo dos Santos"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-15",
+    "publication_date_clean": "2025-04-15",
+    "volume": "19",
+    "issue": "8",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2490077",
+    "url": "https://doi.org/10.1080/17524032.2025.2490077",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "The Ecofeminist Storyteller: Environmental Communication Through Women’s Digital Garden Stories",
+    "authors": [
+      "Rahmita Cahyani Imawan",
+      "Susi Handayani"
+    ],
+    "publication_year": 2025,
+    "publication_date": "2025-04-07",
+    "publication_date_clean": "2025-04-07",
+    "volume": "19",
+    "issue": "6",
+    "abstract": "",
+    "doi": "10.1080/17524032.2025.2487611",
+    "url": "https://doi.org/10.1080/17524032.2025.2487611",
+    "collection_date": "2026-07-07",
+    "grade": "A",
+    "keyword_matches": [
+      "environmental communication"
     ],
     "source_type": "crossref",
     "crossref_enriched": true
@@ -25953,132 +26148,6 @@
     "url": "https://www.kci.go.kr/kciportal/po/search/poArtiSear.kci",
     "collection_date": "2026-07-07",
     "grade": "A",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "환경사회학연구 ECO",
-    "title": "AI 시대 일본의 DX 추진과 에너지전환: 발전주의 변용을 중심으로",
-    "authors": [],
-    "publication_year": "",
-    "publication_date": "",
-    "publication_date_clean": "",
-    "volume": "",
-    "issue": "",
-    "abstract": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003358184",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "환경사회학연구 ECO",
-    "title": "서울시 강서구에서 따릉이 이용의 차별양상 분석: 딥러닝 알고리즘 ‘Tabular Transformer Encoder’를 이용한 거리 분석",
-    "authors": [],
-    "publication_year": "",
-    "publication_date": "",
-    "publication_date_clean": "",
-    "volume": "",
-    "issue": "",
-    "abstract": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003358192",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "환경사회학연구 ECO",
-    "title": "환경국가는 어떻게 프레카리아트를 배제하는가: 폐기물처리시설 지하화 사례를 중심으로",
-    "authors": [],
-    "publication_year": "",
-    "publication_date": "",
-    "publication_date_clean": "",
-    "volume": "",
-    "issue": "",
-    "abstract": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003358249",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "환경사회학연구 ECO",
-    "title": "시민과학 플랫폼의 사회-기술적 매개와 도시 생태 거버넌스로의 연결 조건: 의왕마을생태연구회의 네이처링 활용 사례를 중심으로",
-    "authors": [],
-    "publication_year": "",
-    "publication_date": "",
-    "publication_date_clean": "",
-    "volume": "",
-    "issue": "",
-    "abstract": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003358260",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "환경사회학연구 ECO",
-    "title": "요르단강 유역 물 분쟁의 구조적 고착화 메커니즘 연구: Hydro-hegemony 이론과 C-M-O 분석 프레임워크를 중심으로",
-    "authors": [],
-    "publication_year": "",
-    "publication_date": "",
-    "publication_date_clean": "",
-    "volume": "",
-    "issue": "",
-    "abstract": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003358266",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "환경사회학연구 ECO",
-    "title": "일본 핵 근대화의 가속에 대항하기: 후쿠시마 다나시오 원전반대운동, 이도가와 재판, 희망의 목장의 느린 저항과 불화의 기록",
-    "authors": [],
-    "publication_year": "",
-    "publication_date": "",
-    "publication_date_clean": "",
-    "volume": "",
-    "issue": "",
-    "abstract": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003358284",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "환경사회학연구 ECO",
-    "title": "한국 언론의 IPCC 보도에 나타난 과학 권위의 경계작업과 기후 미래의 공동생산",
-    "authors": [],
-    "publication_year": "",
-    "publication_date": "",
-    "publication_date_clean": "",
-    "volume": "",
-    "issue": "",
-    "abstract": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003358302",
-    "collection_date": "2026-07-07",
-    "grade": "B",
     "keyword_matches": [],
     "source_type": "kci",
     "crossref_enriched": false
