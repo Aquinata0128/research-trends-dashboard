@@ -64,13 +64,13 @@ CROSSREF_JOURNALS = [
     {
         "journal_name": "Global Environmental Change",
         "grade": "B",
-        "issn": "1872-9495",
+        "issn": "0959-3780",
         "rows": 100
     },
     {
         "journal_name": "Energy Research & Social Science",
         "grade": "B",
-        "issn": "2214-6326",
+        "issn": "2214-6296",
         "rows": 100
     }    
 ]
