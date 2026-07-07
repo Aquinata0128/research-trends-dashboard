@@ -1158,10 +1158,44 @@ def enrich_kci_paper_from_detail_page(paper):
     return paper
 
 
+def kci_paper_needs_enrichment(paper):
+    """
+    Decide whether a KCI paper needs detail-page enrichment.
+    If the paper already has core metadata, we do not visit the KCI detail page again.
+    This helps reduce the time required.
+    """
+    if paper.get("source_type") != "kci":
+        return False
+
+    title = clean_text(paper.get("title", ""))
+    url = paper.get("url", "")
+
+    if not title or title.isdigit() or "#listCita" in url:
+        return True
+
+    if not paper.get("authors"):
+        return True
+
+    if not paper.get("publication_year"):
+        return True
+
+    if not paper.get("abstract"):
+        return True
+
+    if not paper.get("volume") and not paper.get("issue"):
+        return True
+
+    return False
+
+
 def collect_from_kci_journal(journal_info, existing_paper_map):
     """
     Collect papers from one Korean KCI journal page.
-    First version: collect visible article titles and links from the current issue page.
+
+    Optimized version:
+    - First collect title and URL from the KCI list page.
+    - If the paper already exists and has enough metadata, skip detail-page fetching.
+    - Only visit the detail page for new papers or old papers missing metadata.
     """
     print(f"Collecting from KCI: {journal_info['journal_name']}...")
 
@@ -1175,55 +1209,53 @@ def collect_from_kci_journal(journal_info, existing_paper_map):
 
     article_links = extract_kci_article_links(soup)
 
-    papers = []
-
     if article_links:
-        for article_link in article_links:
-            paper = paper_from_kci_link(article_link, journal_info)
-            paper = enrich_kci_paper_from_detail_page(paper)
-            papers.append(paper)
-
-            # Be polite to KCI servers.
-            time.sleep(0.3)
+        candidate_papers = [
+            paper_from_kci_link(article_link, journal_info)
+            for article_link in article_links
+        ]
     else:
-        papers = extract_kci_papers_from_text_fallback(soup, journal_info)
+        candidate_papers = extract_kci_papers_from_text_fallback(soup, journal_info)
 
-    unique_papers = remove_duplicates(papers)
+    candidate_papers = remove_invalid_papers(candidate_papers)
+    candidate_papers = remove_duplicates(candidate_papers)
 
-    new_papers = []
+    new_or_updated_papers = []
     skipped_count = 0
+    detail_fetch_count = 0
 
-    for paper in unique_papers:
+    for paper in candidate_papers:
         paper_key = get_paper_key(paper)
 
         if paper_key in existing_paper_map:
             existing_paper = existing_paper_map[paper_key]
 
-            needs_enrichment = (
-                existing_paper.get("source_type") == "kci"
-                and (
-                    not existing_paper.get("authors")
-                    or not existing_paper.get("publication_year")
-                    or not existing_paper.get("abstract")
-                    or existing_paper.get("title") == "0"
-                )
-            )
+            if kci_paper_needs_enrichment(existing_paper):
+                enriched_paper = enrich_kci_paper_from_detail_page(existing_paper)
+                new_or_updated_papers.append(enriched_paper)
+                detail_fetch_count += 1
 
-            if needs_enrichment:
-                enriched_existing_paper = enrich_kci_paper_from_detail_page(existing_paper)
-                new_papers.append(enriched_existing_paper)
+                # Be polite to KCI servers.
+                time.sleep(0.3)
             else:
                 skipped_count += 1
 
             continue
 
-        new_papers.append(paper)
+        # New KCI paper: fetch detail page once.
+        enriched_paper = enrich_kci_paper_from_detail_page(paper)
+        new_or_updated_papers.append(enriched_paper)
+        detail_fetch_count += 1
 
-    print(f"  KCI papers found: {len(unique_papers)}")
-    print(f"  KCI skipped existing papers: {skipped_count}")
-    print(f"  KCI new papers added: {len(new_papers)}")
+        # Be polite to KCI servers.
+        time.sleep(0.3)
 
-    return new_papers
+    print(f"  KCI candidate papers found: {len(candidate_papers)}")
+    print(f"  KCI skipped existing enriched papers: {skipped_count}")
+    print(f"  KCI detail pages fetched: {detail_fetch_count}")
+    print(f"  KCI new or updated papers added: {len(new_or_updated_papers)}")
+
+    return new_or_updated_papers
 
 
 def get_crossref_abstract(item):
