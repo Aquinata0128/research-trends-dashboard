@@ -98,6 +98,10 @@ CROSSREF_HEADERS = {
     "User-Agent": "ResearchTrendsDashboard/0.1"
 }
 
+RSS_HEADERS = {
+    "User-Agent": "Mozilla/5.0 ResearchTrendsDashboard/0.1"
+}
+
 
 def load_journals():
     """
@@ -363,15 +367,26 @@ def get_publication_year(publication_date_clean, publication_date_raw):
 
 def get_doi_from_rss(entry):
     """
-    Try to extract DOI from common RSS fields or links.
+    Try to extract DOI from common RSS fields, including Taylor & Francis prism fields.
     """
     possible_texts = []
 
-    for key in ["id", "guid", "link", "title", "summary"]:
+    for key in [
+        "id",
+        "guid",
+        "link",
+        "title",
+        "summary",
+        "description",
+        "dc_identifier",
+        "prism_doi"
+    ]:
         if key in entry:
             possible_texts.append(str(entry[key]))
 
     combined_text = " ".join(possible_texts)
+
+    combined_text = combined_text.replace("doi:", "")
 
     doi_match = re.search(r"10\.\d{4,9}/[^\s\"<>]+", combined_text)
 
@@ -420,10 +435,23 @@ def extract_volume_issue_from_text(text):
 def get_volume_issue_from_rss(entry):
     """
     Extract volume and issue from RSS entry fields.
+    Supports both text patterns and Taylor & Francis prism fields.
     """
+    volume = ""
+    issue = ""
+
+    if "prism_volume" in entry:
+        volume = str(entry.prism_volume)
+
+    if "prism_number" in entry:
+        issue = str(entry.prism_number)
+
+    if volume or issue:
+        return volume, issue
+
     possible_texts = []
 
-    for key in ["title", "summary", "id", "guid", "link"]:
+    for key in ["title", "summary", "description", "content", "id", "guid", "link"]:
         if key in entry:
             possible_texts.append(str(entry[key]))
 
@@ -465,6 +493,33 @@ def build_existing_paper_map(existing_papers):
 
     return existing_map
 
+
+def fetch_feed(feed_url):
+    """
+    Fetch RSS XML with requests first, then parse it with feedparser.
+    This is more reliable for publishers that do not respond well to default feedparser requests.
+    """
+    try:
+        response = requests.get(feed_url, headers=RSS_HEADERS, timeout=30)
+        response.raise_for_status()
+
+        feed = feedparser.parse(response.content)
+
+        print(f"  Feed status: {response.status_code}")
+        print(f"  Feed title: {feed.feed.get('title', 'no title')}")
+        print(f"  Feed entries parsed: {len(feed.entries)}")
+
+        return feed
+
+    except Exception as error:
+        print(f"  RSS fetch failed: {error}")
+
+        # Fallback to feedparser direct parsing.
+        feed = feedparser.parse(feed_url)
+        print(f"  Fallback feed entries parsed: {len(feed.entries)}")
+
+        return feed
+        
 
 def query_crossref_by_doi(doi):
     """
@@ -589,7 +644,7 @@ def collect_from_rss(feed_info):
     Collect raw article data from one RSS feed.
     This does not call Crossref.
     """
-    feed = feedparser.parse(feed_info["feed_url"])
+    feed = fetch_feed(feed_info["feed_url"])
     papers = []
     today = date.today().isoformat()
 
