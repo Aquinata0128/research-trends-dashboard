@@ -29,8 +29,10 @@
 
     .summary,
     .controls,
+    .grade-section,
     .journal-section,
-    .paper-card {
+    .paper-card,
+    .pagination {
       background: white;
       border: 1px solid #ddd;
       border-radius: 8px;
@@ -39,6 +41,26 @@
     .summary {
       padding: 15px 20px;
       margin-bottom: 20px;
+    }
+
+    .summary-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .summary-item {
+      background: #f4f6f8;
+      border-radius: 6px;
+      padding: 10px;
+      font-size: 14px;
+    }
+
+    .summary-number {
+      font-weight: bold;
+      font-size: 18px;
+      display: block;
     }
 
     .controls {
@@ -67,21 +89,61 @@
       box-sizing: border-box;
     }
 
-    .journal-section {
-      padding: 16px 18px;
-      margin-bottom: 22px;
+    .grade-section {
+      margin-bottom: 18px;
+      overflow: hidden;
     }
 
-    .journal-heading {
-      margin-top: 0;
-      margin-bottom: 12px;
+    .grade-header {
+      width: 100%;
+      padding: 16px 18px;
+      border: none;
+      background: #ffffff;
+      text-align: left;
+      cursor: pointer;
+      font-size: 18px;
+      font-weight: bold;
       border-bottom: 1px solid #eee;
-      padding-bottom: 8px;
+    }
+
+    .grade-header:hover,
+    .journal-header:hover {
+      background: #f4f6f8;
+    }
+
+    .grade-content {
+      padding: 12px 16px 16px 16px;
+    }
+
+    .journal-section {
+      margin-bottom: 12px;
+      overflow: hidden;
+    }
+
+    .journal-header {
+      width: 100%;
+      padding: 13px 15px;
+      border: none;
+      background: #ffffff;
+      text-align: left;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: bold;
+      border-bottom: 1px solid #eee;
+    }
+
+    .journal-content {
+      padding: 12px 14px 14px 14px;
     }
 
     .paper-card {
       padding: 16px 18px;
       margin-bottom: 14px;
+    }
+
+    .paper-card.checked {
+      opacity: 0.58;
+      background: #fafafa;
     }
 
     .paper-card h3 {
@@ -111,8 +173,50 @@
       font-size: 13px;
     }
 
+    .status-tag {
+      display: inline-block;
+      background: #f1f1f1;
+      border: 1px solid #d0d0d0;
+      border-radius: 12px;
+      padding: 3px 9px;
+      margin: 3px 4px 3px 0;
+      font-size: 13px;
+      font-weight: bold;
+    }
+
+    .status-tag.checked-status {
+      background: #e8f5e9;
+      border-color: #b7dfb9;
+    }
+
+    .status-tag.unchecked-status {
+      background: #fff3e0;
+      border-color: #ffd59a;
+    }
+
     .grade {
       font-weight: bold;
+    }
+
+    .paper-actions {
+      margin-top: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .small-button {
+      padding: 6px 10px;
+      border: 1px solid #bbb;
+      background: #fff;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+
+    .small-button:hover {
+      background: #f4f6f8;
     }
 
     details {
@@ -128,6 +232,34 @@
       color: #0645ad;
     }
 
+    .pagination {
+      padding: 14px 16px;
+      margin: 18px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .pagination button {
+      padding: 7px 12px;
+      border: 1px solid #bbb;
+      background: white;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .pagination button:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    .pagination .page-info {
+      font-size: 14px;
+      color: #555;
+    }
+
     footer {
       margin-top: 40px;
       color: #666;
@@ -139,6 +271,10 @@
       background: white;
       border: 1px solid #ddd;
       border-radius: 8px;
+    }
+
+    .hidden {
+      display: none;
     }
   </style>
 </head>
@@ -154,6 +290,28 @@
   <section class="summary">
     <h2>Dashboard Status</h2>
     <p id="summary-text">Loading paper data...</p>
+
+    <div class="summary-grid">
+      <div class="summary-item">
+        <span class="summary-number" id="total-count">-</span>
+        Total articles
+      </div>
+
+      <div class="summary-item">
+        <span class="summary-number" id="displayed-count">-</span>
+        Displayed articles
+      </div>
+
+      <div class="summary-item">
+        <span class="summary-number" id="journal-count">-</span>
+        Journals
+      </div>
+
+      <div class="summary-item">
+        <span class="summary-number" id="checked-count">-</span>
+        Checked articles
+      </div>
+    </div>
   </section>
 
   <section class="controls">
@@ -189,6 +347,7 @@
         <option value="30">Recent 30 days</option>
         <option value="90">Recent 90 days</option>
         <option value="365">Recent 1 year</option>
+        <option value="730">Recent 2 years</option>
       </select>
     </div>
 
@@ -196,6 +355,23 @@
       <label for="keyword-filter">Keyword</label>
       <select id="keyword-filter">
         <option value="all">All keywords</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="read-filter">Read status</label>
+      <select id="read-filter">
+        <option value="all">All articles</option>
+        <option value="unchecked">Unchecked only</option>
+        <option value="checked">Checked only</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="page-size">Recent view page size</label>
+      <select id="page-size">
+        <option value="10">10 per page</option>
+        <option value="20">20 per page</option>
       </select>
     </div>
 
@@ -211,17 +387,23 @@
 
   <footer>
     <p>Data source: <code>data/papers.json</code></p>
+    <p>Read status is stored only in this browser.</p>
   </footer>
 
   <script>
     let allPapers = [];
+    let currentPage = 1;
+
+    const CHECKED_STORAGE_KEY = "researchDashboardCheckedPapers";
+    const OPEN_GRADES_STORAGE_KEY = "researchDashboardOpenGrades";
+    const OPEN_JOURNALS_STORAGE_KEY = "researchDashboardOpenJournals";
 
     async function loadPapers() {
-      // Cache-busting query prevents the browser from using an old papers.json too aggressively.
       const response = await fetch(`data/papers.json?v=${Date.now()}`);
       allPapers = await response.json();
 
       setupFilters(allPapers);
+      setupEventListeners();
       renderDashboard();
     }
 
@@ -229,8 +411,13 @@
       const journalFilter = document.getElementById("journal-filter");
       const keywordFilter = document.getElementById("keyword-filter");
 
-      const journals = [...new Set(papers.map(paper => paper.journal_name))].sort();
-      const keywords = [...new Set(papers.flatMap(paper => paper.keyword_matches || []))].sort();
+      const journals = [...new Set(papers.map(paper => paper.journal_name || ""))]
+        .filter(Boolean)
+        .sort();
+
+      const keywords = [...new Set(papers.flatMap(paper => paper.keyword_matches || []))]
+        .filter(Boolean)
+        .sort();
 
       journals.forEach(function(journal) {
         const option = document.createElement("option");
@@ -245,13 +432,26 @@
         option.textContent = keyword;
         keywordFilter.appendChild(option);
       });
+    }
 
-      document.getElementById("view-mode").addEventListener("change", renderDashboard);
-      document.getElementById("journal-filter").addEventListener("change", renderDashboard);
-      document.getElementById("grade-filter").addEventListener("change", renderDashboard);
-      document.getElementById("period-filter").addEventListener("change", renderDashboard);
-      document.getElementById("keyword-filter").addEventListener("change", renderDashboard);
-      document.getElementById("search-box").addEventListener("input", renderDashboard);
+    function setupEventListeners() {
+      document.getElementById("view-mode").addEventListener("change", function() {
+        currentPage = 1;
+        renderDashboard();
+      });
+
+      document.getElementById("journal-filter").addEventListener("change", resetPageAndRender);
+      document.getElementById("grade-filter").addEventListener("change", resetPageAndRender);
+      document.getElementById("period-filter").addEventListener("change", resetPageAndRender);
+      document.getElementById("keyword-filter").addEventListener("change", resetPageAndRender);
+      document.getElementById("read-filter").addEventListener("change", resetPageAndRender);
+      document.getElementById("page-size").addEventListener("change", resetPageAndRender);
+      document.getElementById("search-box").addEventListener("input", resetPageAndRender);
+    }
+
+    function resetPageAndRender() {
+      currentPage = 1;
+      renderDashboard();
     }
 
     function renderDashboard() {
@@ -272,6 +472,7 @@
       const selectedGrade = document.getElementById("grade-filter").value;
       const selectedKeyword = document.getElementById("keyword-filter").value;
       const selectedPeriod = document.getElementById("period-filter").value;
+      const selectedReadStatus = document.getElementById("read-filter").value;
       const searchText = document.getElementById("search-box").value.toLowerCase().trim();
 
       return papers.filter(function(paper) {
@@ -287,11 +488,17 @@
 
         const periodMatch = checkPeriodMatch(paper, selectedPeriod);
 
+        const checked = isPaperChecked(paper);
+        const readMatch =
+          selectedReadStatus === "all" ||
+          (selectedReadStatus === "checked" && checked) ||
+          (selectedReadStatus === "unchecked" && !checked);
+
         const searchableText = `${paper.title || ""} ${paper.abstract || ""}`.toLowerCase();
         const searchMatch =
           searchText === "" || searchableText.includes(searchText);
 
-        return journalMatch && gradeMatch && keywordMatch && periodMatch && searchMatch;
+        return journalMatch && gradeMatch && keywordMatch && periodMatch && readMatch && searchMatch;
       });
     }
 
@@ -314,13 +521,17 @@
       return diffDays <= Number(selectedPeriod);
     }
 
-    function updateSummary(papers) {
-      const summaryText = document.getElementById("summary-text");
-      const totalCount = allPapers.length;
-      const filteredCount = papers.length;
+    function updateSummary(filteredPapers) {
+      const checkedIds = getCheckedPaperIds();
+      const journals = new Set(allPapers.map(paper => paper.journal_name).filter(Boolean));
 
-      summaryText.textContent =
-        `${filteredCount} articles displayed out of ${totalCount} collected articles.`;
+      document.getElementById("summary-text").textContent =
+        `${filteredPapers.length} articles displayed out of ${allPapers.length} collected articles.`;
+
+      document.getElementById("total-count").textContent = allPapers.length;
+      document.getElementById("displayed-count").textContent = filteredPapers.length;
+      document.getElementById("journal-count").textContent = journals.size;
+      document.getElementById("checked-count").textContent = checkedIds.length;
     }
 
     function sortByNewest(papers) {
@@ -341,26 +552,76 @@
         return;
       }
 
-      const grouped = groupByJournal(papers);
-      const sortedJournalNames = Object.keys(grouped).sort();
+      const groupedByGrade = groupByGradeAndJournal(papers);
+      const gradeOrder = ["A", "B", "C", "Other"];
 
-      sortedJournalNames.forEach(function(journalName) {
-        const section = document.createElement("section");
-        section.className = "journal-section";
+      gradeOrder.forEach(function(grade) {
+        if (!groupedByGrade[grade]) {
+          return;
+        }
 
-        const sortedPapers = sortByNewest(grouped[journalName]);
-        const grade = sortedPapers[0]?.grade || "";
+        const gradePapers = flattenGradeGroup(groupedByGrade[grade]);
+        const gradeSection = document.createElement("section");
+        gradeSection.className = "grade-section";
 
-        section.innerHTML = `
-          <h2 class="journal-heading">Grade ${grade} · ${journalName} (${sortedPapers.length})</h2>
-        `;
+        const gradeOpen = isGradeOpen(grade);
 
-        sortedPapers.forEach(function(paper) {
-          section.appendChild(createPaperCard(paper));
+        const gradeHeader = document.createElement("button");
+        gradeHeader.className = "grade-header";
+        gradeHeader.textContent = `${gradeOpen ? "▼" : "▶"} Grade ${grade} Journals (${gradePapers.length})`;
+        gradeHeader.addEventListener("click", function() {
+          toggleGradeOpen(grade);
+          renderDashboard();
         });
 
-        paperList.appendChild(section);
+        const gradeContent = document.createElement("div");
+        gradeContent.className = "grade-content";
+        if (!gradeOpen) {
+          gradeContent.classList.add("hidden");
+        }
+
+        const journalNames = Object.keys(groupedByGrade[grade]).sort();
+
+        journalNames.forEach(function(journalName) {
+          const journalPapers = sortByNewest(groupedByGrade[grade][journalName]);
+          const journalSection = createJournalSection(journalName, journalPapers);
+          gradeContent.appendChild(journalSection);
+        });
+
+        gradeSection.appendChild(gradeHeader);
+        gradeSection.appendChild(gradeContent);
+        paperList.appendChild(gradeSection);
       });
+    }
+
+    function createJournalSection(journalName, papers) {
+      const journalSection = document.createElement("section");
+      journalSection.className = "journal-section";
+
+      const journalOpen = isJournalOpen(journalName);
+
+      const journalHeader = document.createElement("button");
+      journalHeader.className = "journal-header";
+      journalHeader.textContent = `${journalOpen ? "▼" : "▶"} ${journalName} (${papers.length})`;
+      journalHeader.addEventListener("click", function() {
+        toggleJournalOpen(journalName);
+        renderDashboard();
+      });
+
+      const journalContent = document.createElement("div");
+      journalContent.className = "journal-content";
+      if (!journalOpen) {
+        journalContent.classList.add("hidden");
+      }
+
+      papers.forEach(function(paper) {
+        journalContent.appendChild(createPaperCard(paper));
+      });
+
+      journalSection.appendChild(journalHeader);
+      journalSection.appendChild(journalContent);
+
+      return journalSection;
     }
 
     function renderRecentView(papers) {
@@ -373,10 +634,59 @@
       }
 
       const sortedPapers = sortByNewest(papers);
+      const pageSize = Number(document.getElementById("page-size").value);
+      const totalPages = Math.max(1, Math.ceil(sortedPapers.length / pageSize));
 
-      sortedPapers.forEach(function(paper) {
+      if (currentPage > totalPages) {
+        currentPage = totalPages;
+      }
+
+      const startIndex = (currentPage - 1) * pageSize;
+      const endIndex = startIndex + pageSize;
+      const pagePapers = sortedPapers.slice(startIndex, endIndex);
+
+      pagePapers.forEach(function(paper) {
         paperList.appendChild(createPaperCard(paper));
       });
+
+      paperList.appendChild(createPagination(sortedPapers.length, pageSize, totalPages));
+    }
+
+    function createPagination(totalArticles, pageSize, totalPages) {
+      const pagination = document.createElement("div");
+      pagination.className = "pagination";
+
+      const startNumber = (currentPage - 1) * pageSize + 1;
+      const endNumber = Math.min(currentPage * pageSize, totalArticles);
+
+      const prevButton = document.createElement("button");
+      prevButton.textContent = "Previous";
+      prevButton.disabled = currentPage === 1;
+      prevButton.addEventListener("click", function() {
+        currentPage -= 1;
+        renderDashboard();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      const nextButton = document.createElement("button");
+      nextButton.textContent = "Next";
+      nextButton.disabled = currentPage === totalPages;
+      nextButton.addEventListener("click", function() {
+        currentPage += 1;
+        renderDashboard();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      const pageInfo = document.createElement("span");
+      pageInfo.className = "page-info";
+      pageInfo.textContent =
+        `Showing ${startNumber}-${endNumber} of ${totalArticles} articles · Page ${currentPage} of ${totalPages}`;
+
+      pagination.appendChild(prevButton);
+      pagination.appendChild(pageInfo);
+      pagination.appendChild(nextButton);
+
+      return pagination;
     }
 
     function renderEmptyMessage() {
@@ -388,23 +698,39 @@
       `;
     }
 
-    function groupByJournal(papers) {
+    function groupByGradeAndJournal(papers) {
       const grouped = {};
 
       papers.forEach(function(paper) {
-        if (!grouped[paper.journal_name]) {
-          grouped[paper.journal_name] = [];
+        const grade = paper.grade || "Other";
+        const journal = paper.journal_name || "Unknown journal";
+
+        if (!grouped[grade]) {
+          grouped[grade] = {};
         }
 
-        grouped[paper.journal_name].push(paper);
+        if (!grouped[grade][journal]) {
+          grouped[grade][journal] = [];
+        }
+
+        grouped[grade][journal].push(paper);
       });
 
       return grouped;
     }
 
+    function flattenGradeGroup(gradeGroup) {
+      return Object.values(gradeGroup).flat();
+    }
+
     function createPaperCard(paper) {
       const card = document.createElement("article");
       card.className = "paper-card";
+
+      const checked = isPaperChecked(paper);
+      if (checked) {
+        card.classList.add("checked");
+      }
 
       const authors = (paper.authors || []).join(", ") || "No author information";
       const keywords = (paper.keyword_matches || []).map(function(keyword) {
@@ -414,6 +740,13 @@
       const volumeIssue = formatVolumeIssue(paper);
       const cleanDate = paper.publication_date_clean || paper.publication_date || "No date";
       const doiText = paper.doi ? escapeHtml(paper.doi) : "No DOI found";
+      const paperId = getPaperId(paper);
+
+      const statusLabel = checked
+        ? "<span class='status-tag checked-status'>Checked</span>"
+        : "<span class='status-tag unchecked-status'>Unchecked</span>";
+
+      const buttonLabel = checked ? "Mark as unchecked" : "Mark as checked";
 
       card.innerHTML = `
         <h3>${escapeHtml(paper.title || "Untitled article")}</h3>
@@ -428,7 +761,7 @@
         <div class="meta">
           Published: ${escapeHtml(cleanDate)} |
           Collected: ${escapeHtml(paper.collection_date || "")} |
-          Source: ${escapeHtml(paper.source_type || "")}
+          Source: ${formatSource(paper)}
         </div>
 
         <div class="meta">
@@ -436,6 +769,7 @@
         </div>
 
         <div>
+          ${statusLabel}
           ${keywords || "<span class='tag'>No keyword match</span>"}
         </div>
 
@@ -448,7 +782,19 @@
           DOI: ${doiText}<br>
           <a href="${escapeAttribute(paper.url || "#")}" target="_blank">Open article page</a>
         </p>
+
+        <div class="paper-actions">
+          <button class="small-button" data-paper-id="${escapeAttribute(paperId)}">
+            ${buttonLabel}
+          </button>
+        </div>
       `;
+
+      const checkButton = card.querySelector("button[data-paper-id]");
+      checkButton.addEventListener("click", function() {
+        togglePaperChecked(paper);
+        renderDashboard();
+      });
 
       return card;
     }
@@ -470,6 +816,122 @@
       }
 
       return "No volume/issue";
+    }
+
+    function formatSource(paper) {
+      if (paper.crossref_enriched) {
+        return "RSS + Crossref";
+      }
+
+      return escapeHtml(paper.source_type || "RSS");
+    }
+
+    function getPaperId(paper) {
+      return paper.doi || paper.url || paper.title || JSON.stringify(paper);
+    }
+
+    function getCheckedPaperIds() {
+      const storedValue = localStorage.getItem(CHECKED_STORAGE_KEY);
+
+      if (!storedValue) {
+        return [];
+      }
+
+      try {
+        return JSON.parse(storedValue);
+      } catch {
+        return [];
+      }
+    }
+
+    function saveCheckedPaperIds(ids) {
+      localStorage.setItem(CHECKED_STORAGE_KEY, JSON.stringify(ids));
+    }
+
+    function isPaperChecked(paper) {
+      const paperId = getPaperId(paper);
+      const checkedIds = getCheckedPaperIds();
+
+      return checkedIds.includes(paperId);
+    }
+
+    function togglePaperChecked(paper) {
+      const paperId = getPaperId(paper);
+      const checkedIds = getCheckedPaperIds();
+
+      if (checkedIds.includes(paperId)) {
+        const updatedIds = checkedIds.filter(id => id !== paperId);
+        saveCheckedPaperIds(updatedIds);
+      } else {
+        checkedIds.push(paperId);
+        saveCheckedPaperIds(checkedIds);
+      }
+    }
+
+    function getOpenGrades() {
+      const storedValue = localStorage.getItem(OPEN_GRADES_STORAGE_KEY);
+
+      if (!storedValue) {
+        return ["A"];
+      }
+
+      try {
+        return JSON.parse(storedValue);
+      } catch {
+        return ["A"];
+      }
+    }
+
+    function saveOpenGrades(grades) {
+      localStorage.setItem(OPEN_GRADES_STORAGE_KEY, JSON.stringify(grades));
+    }
+
+    function isGradeOpen(grade) {
+      return getOpenGrades().includes(grade);
+    }
+
+    function toggleGradeOpen(grade) {
+      const openGrades = getOpenGrades();
+
+      if (openGrades.includes(grade)) {
+        saveOpenGrades(openGrades.filter(item => item !== grade));
+      } else {
+        openGrades.push(grade);
+        saveOpenGrades(openGrades);
+      }
+    }
+
+    function getOpenJournals() {
+      const storedValue = localStorage.getItem(OPEN_JOURNALS_STORAGE_KEY);
+
+      if (!storedValue) {
+        return [];
+      }
+
+      try {
+        return JSON.parse(storedValue);
+      } catch {
+        return [];
+      }
+    }
+
+    function saveOpenJournals(journals) {
+      localStorage.setItem(OPEN_JOURNALS_STORAGE_KEY, JSON.stringify(journals));
+    }
+
+    function isJournalOpen(journalName) {
+      return getOpenJournals().includes(journalName);
+    }
+
+    function toggleJournalOpen(journalName) {
+      const openJournals = getOpenJournals();
+
+      if (openJournals.includes(journalName)) {
+        saveOpenJournals(openJournals.filter(item => item !== journalName));
+      } else {
+        openJournals.push(journalName);
+        saveOpenJournals(openJournals);
+      }
     }
 
     function escapeHtml(value) {
