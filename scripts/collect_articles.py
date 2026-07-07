@@ -9,6 +9,7 @@ from urllib.parse import quote
 
 import feedparser
 import requests
+from bs4 import BeautifulSoup
 
 
 # Project folders
@@ -103,6 +104,46 @@ CROSSREF_JOURNALS = [
         "grade": "C",
         "issn": "1471-5430",
         "rows": 100
+    }
+]
+
+
+# Korean journals are different from international journals, and I will use kci website to get recent journal articles.
+KCI_JOURNALS = [
+    {
+        "journal_name": "과학기술학연구",
+        "display_name": "과학기술학연구",
+        "grade": "A",
+        "sere_id": "SER000008778",
+        "source_url": "https://www.kci.go.kr/kciportal/po/search/poSereArtiList.kci?sereId=SER000008778"
+    },
+    {
+        "journal_name": "기술혁신학회지",
+        "display_name": "기술혁신학회지",
+        "grade": "A",
+        "sere_id": "001043",
+        "source_url": "https://www.kci.go.kr/kciportal/po/search/poSereArtiList.kci?sereId=001043"
+    },
+    {
+        "journal_name": "한국언론학보",
+        "display_name": "한국언론학보",
+        "grade": "A",
+        "sere_id": "000203",
+        "source_url": "https://www.kci.go.kr/kciportal/po/search/poSereArtiList.kci?sereId=000203"
+    },
+    {
+        "journal_name": "환경사회학연구 ECO",
+        "display_name": "환경사회학연구 ECO",
+        "grade": "B",
+        "sere_id": "001879",
+        "source_url": "https://www.kci.go.kr/kciportal/po/search/poSereArtiList.kci?sereId=001879"
+    },
+    {
+        "journal_name": "환경정책",
+        "display_name": "환경정책",
+        "grade": "C",
+        "sere_id": "001481",
+        "source_url": "https://www.kci.go.kr/kciportal/po/search/poSereArtiList.kci?sereId=001481"
     }
 ]
 
@@ -731,6 +772,214 @@ def collect_from_crossref_journal(journal_info, existing_paper_map):
     return new_papers
 
 
+def clean_korean_text(text):
+    """
+    Clean Korean HTML text.
+    """
+    if not text:
+        return ""
+
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def fetch_kci_page(url):
+    """
+    Fetch a KCI journal issue page.
+    """
+    headers = {
+        "User-Agent": "Mozilla/5.0 ResearchTrendsDashboard/0.1"
+    }
+
+    try:
+        response = requests.get(url, headers=headers, timeout=30)
+        response.raise_for_status()
+
+        # KCI pages are usually UTF-8, but this helps if encoding is unclear.
+        response.encoding = response.apparent_encoding
+
+        return response.text
+
+    except Exception as error:
+        print(f"  KCI fetch failed: {error}")
+        return ""
+
+
+def extract_kci_article_links(soup):
+    """
+    Extract article links from a KCI journal issue page.
+    This function looks for links that appear to point to article detail pages.
+    """
+    article_links = []
+
+    for link in soup.find_all("a", href=True):
+        href = link.get("href", "")
+        title = clean_korean_text(link.get_text(" "))
+
+        if not title:
+            continue
+
+        # KCI article detail links often contain article-related patterns.
+        if "poArtiSear" in href or "poArtiView" in href or "artiId" in href:
+            if href.startswith("http"):
+                full_url = href
+            else:
+                full_url = "https://www.kci.go.kr" + href
+
+            article_links.append({
+                "title": title,
+                "url": full_url
+            })
+
+    return article_links
+
+
+def extract_kci_papers_from_text_fallback(soup, journal_info):
+    """
+    Fallback parser for KCI pages.
+    If article links are hard to parse, this tries to extract paper-like rows from visible text.
+    """
+    papers = []
+    today = date.today().isoformat()
+
+    rows = soup.find_all("tr")
+
+    for row in rows:
+        row_text = clean_korean_text(row.get_text(" "))
+
+        if not row_text:
+            continue
+
+        # Skip rows that are clearly not article rows.
+        if journal_info["journal_name"] not in row_text and len(row_text) < 20:
+            continue
+
+        links = row.find_all("a", href=True)
+        if not links:
+            continue
+
+        title_link = None
+
+        for link in links:
+            link_text = clean_korean_text(link.get_text(" "))
+            if len(link_text) >= 5:
+                title_link = link
+                break
+
+        if not title_link:
+            continue
+
+        title = clean_korean_text(title_link.get_text(" "))
+        href = title_link.get("href", "")
+
+        if href.startswith("http"):
+            url = href
+        else:
+            url = "https://www.kci.go.kr" + href
+
+        paper = {
+            "journal_name": journal_info["journal_name"],
+            "title": title,
+            "authors": [],
+            "publication_year": "",
+            "publication_date": "",
+            "publication_date_clean": "",
+            "volume": "",
+            "issue": "",
+            "abstract": "",
+            "doi": "",
+            "url": url,
+            "collection_date": today,
+            "grade": journal_info["grade"],
+            "keyword_matches": find_keyword_matches(title, ""),
+            "source_type": "kci",
+            "crossref_enriched": False
+        }
+
+        papers.append(paper)
+
+    return papers
+
+
+def paper_from_kci_link(article_link, journal_info):
+    """
+    Convert one KCI article link into the paper format used by data/papers.json.
+    This first version stores the title and URL.
+    Later we can enrich it by visiting article detail pages.
+    """
+    title = clean_korean_text(article_link.get("title", ""))
+    url = article_link.get("url", "")
+    today = date.today().isoformat()
+
+    paper = {
+        "journal_name": journal_info["journal_name"],
+        "title": title,
+        "authors": [],
+        "publication_year": "",
+        "publication_date": "",
+        "publication_date_clean": "",
+        "volume": "",
+        "issue": "",
+        "abstract": "",
+        "doi": "",
+        "url": url,
+        "collection_date": today,
+        "grade": journal_info["grade"],
+        "keyword_matches": find_keyword_matches(title, ""),
+        "source_type": "kci",
+        "crossref_enriched": False
+    }
+
+    return paper
+
+
+def collect_from_kci_journal(journal_info, existing_paper_map):
+    """
+    Collect papers from one Korean KCI journal page.
+    First version: collect visible article titles and links from the current issue page.
+    """
+    print(f"Collecting from KCI: {journal_info['journal_name']}...")
+
+    html = fetch_kci_page(journal_info["source_url"])
+
+    if not html:
+        print("  KCI page is empty.")
+        return []
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    article_links = extract_kci_article_links(soup)
+
+    papers = []
+
+    if article_links:
+        for article_link in article_links:
+            paper = paper_from_kci_link(article_link, journal_info)
+            papers.append(paper)
+    else:
+        papers = extract_kci_papers_from_text_fallback(soup, journal_info)
+
+    unique_papers = remove_duplicates(papers)
+
+    new_papers = []
+    skipped_count = 0
+
+    for paper in unique_papers:
+        paper_key = get_paper_key(paper)
+
+        if paper_key in existing_paper_map:
+            skipped_count += 1
+            continue
+
+        new_papers.append(paper)
+
+    print(f"  KCI papers found: {len(unique_papers)}")
+    print(f"  KCI skipped existing papers: {skipped_count}")
+    print(f"  KCI new papers added: {len(new_papers)}")
+
+    return new_papers
+
+
 def get_crossref_abstract(item):
     """
     Extract and clean Crossref abstract when available.
@@ -1014,7 +1263,13 @@ def main():
         papers = collect_from_crossref_journal(journal_info, existing_paper_map)
         crossref_journal_papers.extend(papers)
 
-    combined_papers = existing_papers + new_or_updated_papers + crossref_journal_papers
+    kci_papers = []
+
+    for journal_info in KCI_JOURNALS:
+        papers = collect_from_kci_journal(journal_info, existing_paper_map)
+        kci_papers.extend(papers)
+
+    combined_papers = existing_papers + new_or_updated_papers + crossref_journal_papers + kci_papers
     combined_papers = remove_duplicates(combined_papers)
 
     combined_papers.sort(
