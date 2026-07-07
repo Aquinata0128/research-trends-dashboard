@@ -54,7 +54,25 @@ CROSSREF_JOURNALS = [
         "grade": "A",
         "issn": "1752-4040",
         "rows": 100
-    }
+    },
+    {
+        "journal_name": "Science as Culture",
+        "grade": "B",
+        "issn": "1470-1189",
+        "rows": 80
+    },
+    {
+        "journal_name": "Global Environmental Change",
+        "grade": "B",
+        "issn": "1872-9495",
+        "rows": 100
+    },
+    {
+        "journal_name": "Energy Research & Social Science",
+        "grade": "B",
+        "issn": "2214-6326",
+        "rows": 100
+    }    
 ]
 
 
