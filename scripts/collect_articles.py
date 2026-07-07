@@ -805,31 +805,94 @@ def fetch_kci_page(url):
         return ""
 
 
+def is_valid_kci_title(title):
+    """
+    Decide whether a KCI link text looks like a real article title.
+    """
+    if not title:
+        return False
+
+    title = clean_korean_text(title)
+
+    # Remove numeric-only links such as citation counts.
+    if title.isdigit():
+        return False
+
+    # Too short texts are usually buttons, tabs, or citation counts.
+    if len(title) < 5:
+        return False
+
+    bad_titles = {
+        "초록",
+        "원문",
+        "다운로드",
+        "인용",
+        "피인용",
+        "참고문헌",
+        "상세보기",
+        "KCI",
+        "PDF"
+    }
+
+    if title in bad_titles:
+        return False
+
+    return True
+
+
+def normalize_kci_url(url):
+    """
+    Normalize KCI URLs for duplicate detection.
+    Remove internal anchors such as #listCita.
+    """
+    if not url:
+        return ""
+
+    url = url.split("#")[0]
+
+    if url.startswith("http"):
+        return url
+
+    return "https://www.kci.go.kr" + url
+
+
 def extract_kci_article_links(soup):
     """
-    Extract article links from a KCI journal issue page.
-    This function looks for links that appear to point to article detail pages.
+    Extract article detail links from a KCI journal issue page.
+    This version removes citation-count links such as title '0' and #listCita URLs.
     """
     article_links = []
+    seen_urls = set()
 
     for link in soup.find_all("a", href=True):
         href = link.get("href", "")
         title = clean_korean_text(link.get_text(" "))
 
-        if not title:
+        if not is_valid_kci_title(title):
             continue
 
-        # KCI article detail links often contain article-related patterns.
-        if "poArtiSear" in href or "poArtiView" in href or "artiId" in href:
-            if href.startswith("http"):
-                full_url = href
-            else:
-                full_url = "https://www.kci.go.kr" + href
+        # Keep only real KCI article detail pages.
+        if "ciSereArtiView.kci" not in href and "poArtiView.kci" not in href:
+            continue
 
-            article_links.append({
-                "title": title,
-                "url": full_url
-            })
+        # Remove citation-list anchors.
+        if "#listCita" in href:
+            continue
+
+        full_url = normalize_kci_url(href)
+
+        if not full_url:
+            continue
+
+        if full_url in seen_urls:
+            continue
+
+        seen_urls.add(full_url)
+
+        article_links.append({
+            "title": title,
+            "url": full_url
+        })
 
     return article_links
 
@@ -933,6 +996,215 @@ def paper_from_kci_link(article_link, journal_info):
     return paper
 
 
+def get_meta_contents(soup, possible_names):
+    """
+    Extract contents from HTML meta tags.
+    Many academic pages store citation metadata in meta tags.
+    """
+    values = []
+
+    possible_names = {name.lower() for name in possible_names}
+
+    for meta in soup.find_all("meta"):
+        meta_name = (
+            meta.get("name")
+            or meta.get("property")
+            or meta.get("http-equiv")
+            or ""
+        ).lower()
+
+        if meta_name in possible_names:
+            content = clean_korean_text(meta.get("content", ""))
+
+            if content:
+                values.append(content)
+
+    return values
+
+
+def first_meta_content(soup, possible_names):
+    """
+    Return the first matching meta content.
+    """
+    values = get_meta_contents(soup, possible_names)
+    return values[0] if values else ""
+
+
+def extract_year_from_text(text):
+    """
+    Extract year from text.
+    """
+    if not text:
+        return ""
+
+    match = re.search(r"(19|20)\d{2}", text)
+
+    if match:
+        return int(match.group(0))
+
+    return ""
+
+
+def clean_kci_author_list(authors):
+    """
+    Clean KCI author list.
+    """
+    cleaned = []
+
+    for author in authors:
+        author = clean_korean_text(author)
+
+        if not author:
+            continue
+
+        # Remove labels if they appear.
+        author = re.sub(r"^저자\s*[:：]?\s*", "", author)
+
+        if author and author not in cleaned:
+            cleaned.append(author)
+
+    return cleaned
+
+
+def split_korean_authors(author_text):
+    """
+    Split Korean author text into a list.
+    """
+    if not author_text:
+        return []
+
+    author_text = clean_korean_text(author_text)
+
+    # Common separators in Korean academic pages.
+    parts = re.split(r"\s*[;,·]\s*|\s+/\s+|\s+\|\s+", author_text)
+
+    authors = []
+
+    for part in parts:
+        part = clean_korean_text(part)
+        if part:
+            authors.append(part)
+
+    return clean_kci_author_list(authors)
+
+
+def enrich_kci_paper_from_detail_page(paper):
+    """
+    Visit one KCI article detail page and enrich metadata.
+    This is a cautious first version using meta tags and visible text patterns.
+    """
+    url = paper.get("url", "")
+
+    if not url:
+        return paper
+
+    html = fetch_kci_page(url)
+
+    if not html:
+        return paper
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    # 1. Title
+    detail_title = first_meta_content(
+        soup,
+        [
+            "citation_title",
+            "dc.title",
+            "dcterms.title",
+            "og:title"
+        ]
+    )
+
+    if detail_title and len(detail_title) > len(paper.get("title", "")):
+        paper["title"] = detail_title
+
+    # 2. Authors
+    meta_authors = get_meta_contents(
+        soup,
+        [
+            "citation_author",
+            "dc.creator",
+            "dcterms.creator"
+        ]
+    )
+
+    if meta_authors:
+        paper["authors"] = clean_kci_author_list(meta_authors)
+    else:
+        # Fallback: try to find visible author text.
+        page_text = clean_korean_text(soup.get_text(" "))
+        author_match = re.search(r"저자\s*[:：]?\s*(.+?)(?:발행기관|학술지명|권호|발행연도|초록)", page_text)
+
+        if author_match:
+            paper["authors"] = split_korean_authors(author_match.group(1))
+
+    # 3. Publication date
+    publication_date = first_meta_content(
+        soup,
+        [
+            "citation_publication_date",
+            "citation_date",
+            "dc.date",
+            "dcterms.issued"
+        ]
+    )
+
+    if publication_date:
+        paper["publication_date"] = publication_date
+        paper["publication_date_clean"] = clean_publication_date(publication_date)
+        paper["publication_year"] = get_publication_year(
+            paper["publication_date_clean"],
+            publication_date
+        )
+    else:
+        page_text = clean_korean_text(soup.get_text(" "))
+        year = extract_year_from_text(page_text)
+
+        if year:
+            paper["publication_year"] = year
+            paper["publication_date"] = str(year)
+            paper["publication_date_clean"] = str(year)
+
+    # 4. Journal volume and issue
+    volume = first_meta_content(soup, ["citation_volume"])
+    issue = first_meta_content(soup, ["citation_issue"])
+
+    if volume:
+        paper["volume"] = volume
+
+    if issue:
+        paper["issue"] = issue
+
+    # 5. DOI
+    doi = first_meta_content(soup, ["citation_doi", "dc.identifier"])
+
+    if doi:
+        doi = doi.replace("doi:", "").strip()
+        if doi.startswith("10."):
+            paper["doi"] = doi
+
+    # 6. Abstract
+    abstract = first_meta_content(
+        soup,
+        [
+            "description",
+            "dc.description",
+            "dcterms.abstract"
+        ]
+    )
+
+    if abstract and len(abstract) > 20:
+        paper["abstract"] = abstract
+
+    paper["keyword_matches"] = find_keyword_matches(
+        paper.get("title", ""),
+        paper.get("abstract", "")
+    )
+
+    return paper
+
+
 def collect_from_kci_journal(journal_info, existing_paper_map):
     """
     Collect papers from one Korean KCI journal page.
@@ -955,7 +1227,11 @@ def collect_from_kci_journal(journal_info, existing_paper_map):
     if article_links:
         for article_link in article_links:
             paper = paper_from_kci_link(article_link, journal_info)
+            paper = enrich_kci_paper_from_detail_page(paper)
             papers.append(paper)
+
+            # Be polite to KCI servers.
+            time.sleep(0.3)
     else:
         papers = extract_kci_papers_from_text_fallback(soup, journal_info)
 
@@ -1107,6 +1383,34 @@ def remove_duplicates(papers):
             unique_papers.append(paper)
 
     return unique_papers
+
+
+def remove_invalid_papers(papers):
+    """
+    Remove invalid paper entries created by bad parsing.
+    """
+    valid_papers = []
+
+    for paper in papers:
+        title = clean_text(paper.get("title", ""))
+
+        if not title:
+            continue
+
+        if title.isdigit():
+            continue
+
+        if len(title) < 5:
+            continue
+
+        url = paper.get("url", "")
+
+        if "#listCita" in url:
+            continue
+
+        valid_papers.append(paper)
+
+    return valid_papers
 
 
 def parse_clean_date(date_text):
@@ -1270,6 +1574,7 @@ def main():
         kci_papers.extend(papers)
 
     combined_papers = existing_papers + new_or_updated_papers + crossref_journal_papers + kci_papers
+    combined_papers = remove_invalid_papers(combined_papers)
     combined_papers = remove_duplicates(combined_papers)
 
     combined_papers.sort(
