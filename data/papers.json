@@ -295,6 +295,132 @@
   },
   {
     "journal_name": "Ecological Economics",
+    "title": "Land-use optimization to support cost-effective landscape transformation policies for wildfire mitigation",
+    "authors": [
+      "Rui Serôdio Simões",
+      "Paulo Flores Ribeiro",
+      "Marta Mesquita",
+      "Isabel Martins",
+      "João Morais Mourato",
+      "José Lima Santos"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "250",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109147",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109147",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Eating nature: Revealing the ecological cost of food trade through a global biodiversity-risk footprint",
+    "authors": [
+      "Stella Lauro",
+      "Silvana Dalmazzone",
+      "Giorgio Vacchiano",
+      "Marco M. Bagliani"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "250",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109142",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109142",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [
+      "biodiversity"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Human climate niche, habitability range, and economic growth",
+    "authors": [
+      "Jean-François Gajewski",
+      "Paul-Oliver Klein",
+      "Fatima Ezzahrae Tahri"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "250",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109104",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109104",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Energy, surplus and the economic process",
+    "authors": [
+      "Giorgos Kallis",
+      "Claudio Cattaneo",
+      "Angelos Varvarousis",
+      "Marula Tsagkari",
+      "Marta Conde",
+      "Giacomo D'Alisa",
+      "Ksenija Hanaček",
+      "Borja Nogué-Algueró",
+      "Filka Sekulova",
+      "Aljoša Slameršak"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "250",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109145",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109145",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Beyond resilience: Domestic and cross-border economic impacts and co-benefits of regional climate change adaptation",
+    "authors": [
+      "Dimitrios Stamopoulos",
+      "Petros Dimas",
+      "Ioannis Sebos",
+      "Dionysis Assimacopoulos"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "250",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109135",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109135",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
     "title": "The impact of climate on Indian households' living costs",
     "authors": [
       "Yuhang Qu",
@@ -2626,6 +2752,95 @@
   },
   {
     "journal_name": "Global Environmental Change",
+    "title": "The labor of nature/the nature of labor",
+    "authors": [
+      "Mario Reinaldo Machado",
+      "Helen M. Rosko",
+      "Alex A. Moulton",
+      "Zherong Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103200",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103200",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Contested criticality: Is there a critical minerals consensus around Minnesota's copper‑nickel mining proposals?",
+    "authors": [
+      "Aaron Malone"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103194",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103194",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Governance challenges in critical mineral supply chains: directional systems analysis of copper and lithium producer economies",
+    "authors": [
+      "Marcelo Fuentes",
+      "Moira Negrete",
+      "Atieh Fahimi Bandpey",
+      "Fengqi You",
+      "Andrzej Kraslawski"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103196",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103196",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "The paradox of ‘resilience’: Why and when communities resist sustainable environmental interventions?",
+    "authors": [
+      "Sumanta Das",
+      "Malini Roy Choudhury",
+      "Amit Awasthi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103211",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103211",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
     "title": "The “twin transition” towards sustainability: Synergistic impact of information infrastructure on firms’ digital and green transformations",
     "authors": [
       "Quan Wen",
@@ -4073,6 +4288,24 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Global Environmental Change",
+    "title": "Editorial Board",
+    "authors": [],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "99",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/s0959-3780(26)00095-6",
+    "url": "https://doi.org/10.1016/s0959-3780(26)00095-6",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Energy Research & Social Science",
     "title": "The COVID-19 legacy: Indoor air quality, thermal comfort and energy use in english classrooms",
     "authors": [
@@ -5320,6 +5553,551 @@
     "grade": "B",
     "keyword_matches": [],
     "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Beyond four walls and a roof: Developing a holistic housing framework to explore energy precarity based on the lived experience of households in a small Canadian town",
+    "authors": [
+      "Laurianne Debanné",
+      "Mylène Riva",
+      "Runa Das"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104820",
+    "url": "https://doi.org/10.1016/j.erss.2026.104820",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Choices, constraints, and comfort: How urban, suburban, and rural manufactured housing residents navigate energy affordability and retrofits",
+    "authors": [
+      "Kieren H. McCord",
+      "Thomas S. Benson",
+      "Sarah Gonzalez-Coffin",
+      "Charlotte Roiger",
+      "Tracy L. Fuentes",
+      "Sharlissa Moore",
+      "Chrissi A. Antonopoulos"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104841",
+    "url": "https://doi.org/10.1016/j.erss.2026.104841",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Mapping climate change coverage: Causes, consequences, and solutions in German news media, 2010–2024",
+    "authors": [
+      "Fabian Dablander",
+      "Simon Wimmer",
+      "Jonas M.B. Haslbeck"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104833",
+    "url": "https://doi.org/10.1016/j.erss.2026.104833",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Can large hydropower projects deliver a just transition? Exploring perspectives from downstream communities in India",
+    "authors": [
+      "Debarpita Banerjee",
+      "Debarchana Biswas",
+      "Anamika Barua",
+      "Chayashri Basumatary"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104836",
+    "url": "https://doi.org/10.1016/j.erss.2026.104836",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Beyond the carbon emissions of Artificial Intelligence (AI): A whole-systems energy and environmental sustainability analysis of datacenters in Denmark, Germany and Norway",
+    "authors": [
+      "Can Hankendi",
+      "Ayse K. Coskun",
+      "Benjamin K. Sovacool"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104839",
+    "url": "https://doi.org/10.1016/j.erss.2026.104839",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Serious games for energy applications in the built environment: A systematic review",
+    "authors": [
+      "Abdollah Baghaei Daemei",
+      "Nima Izadyar",
+      "Ehsanolah Assareh",
+      "Heide Karen Lukosch",
+      "Matthaios Santamouris",
+      "Mona Abd Al Salam",
+      "Amirhosein Ghaffarianhoseini",
+      "Ali GhaffarianHoseini"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104826",
+    "url": "https://doi.org/10.1016/j.erss.2026.104826",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Indigenous community-led energy governance as environmental sustainability",
+    "authors": [
+      "John Bosco Acharibasam",
+      "Ranjan Datta",
+      "Kevin wâsakâyâsiw Lewis ᐊᐧᓴᑲᔭᓯ"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104829",
+    "url": "https://doi.org/10.1016/j.erss.2026.104829",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "When models outrun politics: Biofuels as a stress test for scenario plausibility",
+    "authors": [
+      "Fredrik Hedenus"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104840",
+    "url": "https://doi.org/10.1016/j.erss.2026.104840",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "The power behind the prompt: Generative Artificial Intelligence (GenAI) and the United States Electricity Grid",
+    "authors": [
+      "Conor Harrison"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104837",
+    "url": "https://doi.org/10.1016/j.erss.2026.104837",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Stealing the wind: wake effects, spatial lock-in, and the teleological incoherence of green extractivism",
+    "authors": [
+      "Greg Grant",
+      "Ashley D. Lloyd"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104834",
+    "url": "https://doi.org/10.1016/j.erss.2026.104834",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "More than megawatts: The uneven socio-environmental returns from renewable electricity Contracts for Difference in the United Kingdom",
+    "authors": [
+      "Vahid Ghorbani Pashakolaie",
+      "Matthew Cotton",
+      "Malte Jansen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "138",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104842",
+    "url": "https://doi.org/10.1016/j.erss.2026.104842",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "Information receivers or change makers? Citizen representations in co-created energy transition pathways",
+    "authors": [
+      "Satu Lähteenoja",
+      "Kaisa Savolainen",
+      "Tatu Marttila",
+      "Sampsa Hyysalo"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "61",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101168",
+    "url": "https://doi.org/10.1016/j.eist.2026.101168",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "From ambition to action: A systematic review of empirical literature on transformative innovation policy implementation",
+    "authors": [
+      "Nicole Dujany",
+      "Mohammad Taghi Ramezan Zadeh",
+      "Alberto Ferraris"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "61",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101171",
+    "url": "https://doi.org/10.1016/j.eist.2026.101171",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "Adopters in ecologies of intermediation: evaluating support for residential solar PV adoption",
+    "authors": [
+      "Lisa Bastås",
+      "Hanna Cardol",
+      "Björn Lantz"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "61",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101172",
+    "url": "https://doi.org/10.1016/j.eist.2026.101172",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science as Culture",
+    "title": "Ecologies of time: interdisciplinarity and temporal misalignments in data-mediated environmental research collaboration",
+    "authors": [
+      "Virginia Vargolskaia",
+      "Ulrike Felt"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-11",
+    "publication_date_clean": "2026-07-11",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09505431.2026.2688850",
+    "url": "https://doi.org/10.1080/09505431.2026.2688850",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Intraparty polarization on climate change in Republican Party discourse, 1987–2016",
+    "authors": [
+      "Jesse Callahan Bryant"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-11",
+    "publication_date_clean": "2026-07-11",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2701573",
+    "url": "https://doi.org/10.1080/09644016.2026.2701573",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [
+      "climate change",
+      "polarization"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "When People See Themselves in Science: A New Relational Model of Science Engagement",
+    "authors": [
+      "Joana M. Bordalo",
+      "Matilde Gonçalves",
+      "Joana A. Moscoso"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-10T12:16:01Z",
+    "publication_date_clean": "2026-07-10",
+    "volume": "",
+    "issue": "",
+    "abstract": "Science Communication and Education often still operate as linear transactions: experts deliver information, audiences receive it, interaction ends, and resources are not reused. We argue that moving from deficit to dialogue and participation is necessary but insufficient, introducing a fourth model – the Relational Engagement – where engagement is maximized if participants share a common background and build upon cultural, emotional and social connections. Through two case studies, we show how circular design applied to Science Communication and Education can strengthen belonging, learning, and long-term engagement. We propose to use circularity principles as a design lens for Relational Engagement interventions.",
+    "doi": "10.1177/10755470261466992?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261466992?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-13",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Rethinking party environmentalism: the environmental politics expert survey",
+    "authors": [
+      "Ville Haapanen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-10",
+    "publication_date_clean": "2026-07-10",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2700731",
+    "url": "https://doi.org/10.1080/09644016.2026.2700731",
+    "collection_date": "2026-07-13",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Science Popularization Writing in the Age of Generative AI: Efficiency, Authorship, Trust, and Fidelity",
+    "authors": [
+      "Tianyuan Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-09T12:11:12Z",
+    "publication_date_clean": "2026-07-09",
+    "volume": "",
+    "issue": "",
+    "abstract": "Generative artificial intelligence is rapidly entering science popularization writing. It can support topic development, audience adaptation, language simplification, and multilingual communication, but it also creates risks involving factual hallucination, excessive simplification, stylistic homogenization, unclear authorship, and weakened public trust. This commentary argues that generative artificial intelligence (AI) should be understood not as an autonomous science communicator but as a conditional writing infrastructure requiring human judgment. It proposes a human-led, AI-assisted workflow centered on source grounding, expert verification, uncertainty preservation, transparent disclosure, and editorial accountability.",
+    "doi": "10.1177/10755470261467012?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261467012?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-13",
+    "grade": "A",
+    "keyword_matches": [
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Political polarization of trust in science",
+    "authors": [
+      "Byron Hyde"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-08T07:34:21Z",
+    "publication_date_clean": "2026-07-08",
+    "volume": "",
+    "issue": "",
+    "abstract": "Contrary to widespread claims of a crisis in public trust in science, this article argues that recent pandemic-era trends reflect a long-term pattern of bilateral political polarization rather than a universal decline in scientific confidence. Recent empirical data show that trust and distrust in science have both increased – producing an apparent “pandemic paradox” – driven by ideological bias operating within gaps in public understanding. The study identifies a misunderstanding of how science works as the fundamental cause of politicized trust, where misconceptions create space for ideological bias to shape which claims individuals find credible. Critically, the article argues that existing interventions – improved science communication and increased science education – are insufficient. The core problem is not the quantity of science education but its type. Only by teaching the methodological and institutional limitations of science can the field depolarize public trust and build politically stable confidence in scientific institutions.",
+    "doi": "10.1177/09636625261458088?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261458088?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-13",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "polarization",
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science as Culture",
+    "title": "How the tech oligarchy colonizes our futures",
+    "authors": [
+      "Jennifer Chubb",
+      "Richard Tutton"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-08",
+    "publication_date_clean": "2026-07-08",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09505431.2026.2688841",
+    "url": "https://doi.org/10.1080/09505431.2026.2688841",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Communicating scientific findings with the public: The effects of phrasing on correcting health misconceptions",
+    "authors": [
+      "Renee Hunsberger",
+      "Lisa Geraci",
+      "Jyotsna Vaid"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-08T04:44:15Z",
+    "publication_date_clean": "2026-07-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "By its nature, scientific understanding is subject to change, as methods to study a phenomenon become more refined. How can scientific findings be conveyed to the general public when segments of the public may hold on to beliefs unsupported by science? We examined this problem by considering how individuals correct health misconceptions in response to differently phrased explanations of scientific knowledge. The results from two experiments showed that while explanations containing more tentative phrases characteristic of scientific communication (e.g., evidence suggests ) were effective, those containing more assertive phrases (e.g., this is proven ) were the most effective for updating lay knowledge. Furthermore, relative to the more tentative phrasing, the more assertive phrasing was judged as more convincing and conveying higher confidence. These findings demonstrate the need to determine more effective methods of communicating and conveying confidence in scientific findings.",
+    "doi": "10.1177/09636625261455611?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261455611?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-13",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "What Makes COVID-19 Charts Understandable? A Visualization Complexity Framework for Evaluating Data Visualizations in Pandemic Media Coverage",
+    "authors": [
+      "Yilang Peng"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-07T01:19:00Z",
+    "publication_date_clean": "2026-07-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "As citizens increasingly rely on data to navigate complex scientific issues, effective visualization has become essential. This study proposes a multidimensional framework to assess visualization complexity. We collected 6,641 COVID-19 visualizations from 29 media outlets over 18 months and recruited U.S. participants ( N = 905) to evaluate a subset ( N = 640). Results indicate that traditional measures of visual complexity had limited effects on audience perceptions, whereas data encodings, particularly advanced chart types and higher variable count, significantly shaped audience evaluations. These findings offer practical insights for enhancing the clarity and effectiveness of data visualizations in science communication.",
+    "doi": "10.1177/10755470261460330?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261460330?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-13",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "valuation"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "When Experts Speak Too Often: How Frequent Authority Appeals Shape Public Climate Action Intentions",
+    "authors": [
+      "Zhanyu Liu",
+      "Jun Yang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-07T01:22:00Z",
+    "publication_date_clean": "2026-07-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "Effective climate change communication requires persuasion strategies that align with the public’s cognitive modes of thinking, and authority appeal has shown promise. However, the impact of frequent authority appeals on communication effectiveness remains unclear. Two experimental studies were conducted to investigate the effect of frequent (vs. non-frequent) authority appeals on public climate action intentions. Study 1 revealed that frequent authority appeals diminished climate action intentions, including both climate-friendly behavior and support for mitigation policies, with psychological reactance as a mediator. It further found that this effect was moderated by political ideology: frequent authority appeals did not trigger significant reactance among conservatives. This neutralized the negative impact and even resulted in a significant positive effect on climate-friendly behavior. Study 2 replicated the negative effect of frequent authority appeals on climate action intentions and the mediating role of psychological reactance, and additionally found that rationale provision accompanying frequent authority appeals neutralized psychological reactance and turned the effect of frequent authority appeals on climate action intentions positive. Recommendations are provided for improving strategies to enhance public climate action intentions.",
+    "doi": "10.1177/10755470261459901?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261459901?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-07-13",
+    "grade": "A",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "rss",
     "crossref_enriched": true
   },
   {
@@ -19603,6 +20381,52 @@
     ]
   },
   {
+    "journal_name": "ECO",
+    "title": "쓰레기가 만들어내는 권력과 배제, 그리고 돌봄 Doherty, J. 2021. University of California Press. Waste Worlds: Inhabiting Kampaa’s Infrastructures of Disposability",
+    "authors": [
+      "신승연"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "30",
+    "issue": "1",
+    "pages": "347-359",
+    "keywords": [],
+    "abstract_ko": "",
+    "abstract_en": "",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003360587",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false
+  },
+  {
+    "journal_name": "ECO",
+    "title": "다중위기 시대, 사회(이론)는 어떻게 복잡성을 감축하는가? 정태석. 2026. 피어나 『사회이론의 두 환원주의를 넘어서 — 프레이저와 무페의 정치철학 비판』",
+    "authors": [
+      "박순열"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "30",
+    "issue": "1",
+    "pages": "361-376",
+    "keywords": [],
+    "abstract_ko": "",
+    "abstract_en": "",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003360584",
+    "collection_date": "2026-07-13",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false
+  },
+  {
     "journal_name": "Science as Culture",
     "title": "Manufacturing the Leviathan: Palantir’s ‘Technological republic’ and the nationalist faction of the tech oligarchy",
     "authors": [
@@ -26087,47 +26911,6 @@
     "abstract": "",
     "doi": "10.1080/09505431.2024.2375208",
     "url": "https://doi.org/10.1080/09505431.2024.2375208",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "crossref",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "Science theater on stage: Review of the play The Right Way, written by Torbjörn Lindberg, produced by Teater Sagohuset (www.sagohuset.nu), 2019-2020.",
-    "authors": [
-      "Karl Palmås"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-07-12",
-    "publication_date_clean": "2024-07-12",
-    "volume": "33",
-    "issue": "4",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2368016",
-    "url": "https://doi.org/10.1080/09505431.2024.2368016",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "crossref",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "A hermeneutic dialogical understanding of data reuse across different access regimes",
-    "authors": [
-      "Inma Aleixos-Borrás",
-      "José Julián López"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-07-09",
-    "publication_date_clean": "2024-07-09",
-    "volume": "34",
-    "issue": "1",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2375218",
-    "url": "https://doi.org/10.1080/09505431.2024.2375218",
     "collection_date": "2026-07-07",
     "grade": "B",
     "keyword_matches": [],
