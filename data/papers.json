@@ -3252,6 +3252,73 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Research Policy",
+    "title": "Equity crowdfunding exemptions, industrial structure, and new venture creation",
+    "authors": [
+      "Wanxiang Cai",
+      "Haneul Choi",
+      "Tianshu Zhao",
+      "Max Munday"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "55",
+    "issue": "8",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105578",
+    "url": "https://doi.org/10.1016/j.respol.2026.105578",
+    "collection_date": "2026-07-27",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "When stars hold power: The impact of returnee deans on academic publications in Chinese universities",
+    "authors": [
+      "Liecheng Qiao",
+      "Xiaofang Dong"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "55",
+    "issue": "8",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105576",
+    "url": "https://doi.org/10.1016/j.respol.2026.105576",
+    "collection_date": "2026-07-27",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Temporary technology and the maintenance of technological sovereignty",
+    "authors": [
+      "Susanna Mansikkamäki",
+      "Antti Sihvonen",
+      "Mirva Peltoniemi",
+      "Kalle Pajunen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "55",
+    "issue": "8",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105577",
+    "url": "https://doi.org/10.1016/j.respol.2026.105577",
+    "collection_date": "2026-07-27",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Global Environmental Change",
     "title": "The “twin transition” towards sustainability: Synergistic impact of information infrastructure on firms’ digital and green transformations",
     "authors": [
@@ -6600,6 +6667,116 @@
     "url": "https://doi.org/10.1016/j.eist.2026.101170",
     "collection_date": "2026-07-20",
     "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "Socio-technical pathways of automotive decarbonization: evidence from patent network analysis in Germany and Japan",
+    "authors": [
+      "Anna Maria Dzienis",
+      "Katarzyna Kamińska",
+      "Artur F. Tomeczek"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "61",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101177",
+    "url": "https://doi.org/10.1016/j.eist.2026.101177",
+    "collection_date": "2026-07-27",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "The dynamics of participation: A complex adaptive systems perspective",
+    "authors": [
+      "Annemiek de Looze",
+      "Eefje Cuppen",
+      "Antonella Maiello",
+      "Igor Nikolic"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "61",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101175",
+    "url": "https://doi.org/10.1016/j.eist.2026.101175",
+    "collection_date": "2026-07-27",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "Governing urban low-carbon transitions: A configurational study of policy instrument mixes for China's new energy vehicle transition",
+    "authors": [
+      "Conghui Yin",
+      "Ye Li",
+      "Minghan Sun",
+      "Dong Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "61",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101176",
+    "url": "https://doi.org/10.1016/j.eist.2026.101176",
+    "collection_date": "2026-07-27",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Climate Obstruction in the Digital Far-Right: Mapping the Climate Countermovement in German-, Danish-, and Swedish-Speaking Digital Information Environments",
+    "authors": [
+      "Frederik Weber Henriksen",
+      "Eva Mayerhöffer",
+      "Jakob Bæk Kristensen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-21",
+    "publication_date_clean": "2026-07-21",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2701866",
+    "url": "https://doi.org/10.1080/17524032.2026.2701866",
+    "collection_date": "2026-07-27",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Lagos Is Drowning: Media, Resistance, and Climate Coloniality in Flooding Narratives",
+    "authors": [
+      "Olarotimi Ogungbemi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-21",
+    "publication_date_clean": "2026-07-21",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2706163",
+    "url": "https://doi.org/10.1080/17524032.2026.2706163",
+    "collection_date": "2026-07-27",
+    "grade": "A",
     "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
