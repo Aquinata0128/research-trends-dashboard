@@ -3763,6 +3763,75 @@
   },
   {
     "journal_name": "Global Environmental Change",
+    "title": "Aspirations in a warming world: Modeling migration and education decisions under climate risk in Senegal",
+    "authors": [
+      "Nicolas Choquette-Levy",
+      "Fabien Cottier",
+      "Ndèye Coumba Diouf",
+      "Aboubakr Gambo Boukary",
+      "Véronique Petit",
+      "Etienne Piguet",
+      "Seynabou Sall",
+      "Corentin Visée",
+      "Alex de Sherbinin",
+      "Andrew Reid Bell"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103215",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103215",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Resisting resilience? Negotiating responsibility, counter conduct and agency in participatory risk management",
+    "authors": [
+      "Paul O'Hare"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103218",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103218",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [
+      "responsibility"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Editorial Board",
+    "authors": [],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "55",
+    "issue": "8",
+    "abstract": "",
+    "doi": "10.1016/s0048-7333(26)00185-x",
+    "url": "https://doi.org/10.1016/s0048-7333(26)00185-x",
+    "collection_date": "2026-08-10",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
     "title": "The “twin transition” towards sustainability: Synergistic impact of information infrastructure on firms’ digital and green transformations",
     "authors": [
       "Quan Wen",
@@ -6093,6 +6162,539 @@
   },
   {
     "journal_name": "Energy Research & Social Science",
+    "title": "Sceptical, pragmatic, and innovative teleworkers: Exploring commuting carbon footprints and subjective well-being",
+    "authors": [
+      "Thao Vu",
+      "Timo Ohnmacht",
+      "Bernadette Sütterlin",
+      "Debora Frei"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104894",
+    "url": "https://doi.org/10.1016/j.erss.2026.104894",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Get out of her kitchen: A feminist critique of voluntary carbon markets for cookstoves in India",
+    "authors": [
+      "Meena R. Khandelwal"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104883",
+    "url": "https://doi.org/10.1016/j.erss.2026.104883",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [
+      "carbon market",
+      "carbon markets"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Bridging the social license gap: How community-directed communication shapes risk perception and acceptance of carbon capture and storage in the United States",
+    "authors": [
+      "Jordana W. Composto",
+      "Chris Greig",
+      "Elke U. Weber"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104905",
+    "url": "https://doi.org/10.1016/j.erss.2026.104905",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "When energy transition needs negotiation: How multiple stakeholders communicate for a just transition in China",
+    "authors": [
+      "Fanxu Zeng",
+      "Xiaotong Chen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104896",
+    "url": "https://doi.org/10.1016/j.erss.2026.104896",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Beyond top-down and bottom-up: Hybrid governance in renewable energy communities in Italy",
+    "authors": [
+      "Giulia Chiara Ceresa",
+      "Federico Martellozzo",
+      "Stefano Clò",
+      "Sara Lombardi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104904",
+    "url": "https://doi.org/10.1016/j.erss.2026.104904",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Would you let your car feed the grid? Comparing vehicle-to-grid smart charging preferences across six European countries",
+    "authors": [
+      "Anders Fjendbo Jensen",
+      "Stefan Eriksen Mabit",
+      "Jeppe Rich"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104855",
+    "url": "https://doi.org/10.1016/j.erss.2026.104855",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Fighting the (gas) power: Activists' experiences of injustice shape tactics to resist fossil hegemony along the United States Mountain Valley Pipeline",
+    "authors": [
+      "Alaina Kinol"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104899",
+    "url": "https://doi.org/10.1016/j.erss.2026.104899",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "From collaboration to high-quality evidence for the energy transition: A total experimental field trial error framework",
+    "authors": [
+      "C. Kacperski",
+      "M. Bielig",
+      "F. Lange",
+      "R. Ulloa",
+      "F. Kutzner"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104876",
+    "url": "https://doi.org/10.1016/j.erss.2026.104876",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Energy poverty, women's empowerment and intimate partner violence: Evidence of a backlash effect in sub-Saharan Africa",
+    "authors": [
+      "Joseph Sani Bikah",
+      "Amira Berriche"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104909",
+    "url": "https://doi.org/10.1016/j.erss.2026.104909",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Embedding social sustainability into practice: Institutional insights for off-grid rural electrification in the Philippines",
+    "authors": [
+      "Allen Lemuel G. Lemence",
+      "Jordi C. Cravioto",
+      "Benjamin C. McLellan"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104897",
+    "url": "https://doi.org/10.1016/j.erss.2026.104897",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "‘Towards electric vehicle misinformation communities: Shared narratives, networked validation, and reassurance among Australian consumers",
+    "authors": [
+      "Celina McEwen",
+      "Theresa Harada",
+      "Ross Gordon",
+      "Scott Dwyer"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104902",
+    "url": "https://doi.org/10.1016/j.erss.2026.104902",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Funds, fairs, and fire departments: Social license, rural interests and community benefit mechanisms for wind projects in the United States",
+    "authors": [
+      "Matilda Kreider",
+      "Suzanne MacDonald"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104823",
+    "url": "https://doi.org/10.1016/j.erss.2026.104823",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Negotiating comfort and conservation: Household energy sufficiency for advancing energy transition during the energy crisis",
+    "authors": [
+      "Maria Kola-Bezka",
+      "Krzysztof Leki"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104912",
+    "url": "https://doi.org/10.1016/j.erss.2026.104912",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Uncovering the directionality of innovation in artificial intelligence for energy transitions: A global perspective on the twin transition using patent analysis",
+    "authors": [
+      "Sumit Kumar",
+      "Francesco Pasimeni",
+      "Mitzi Bolton",
+      "Paris Hadfield",
+      "Rob Raven"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104895",
+    "url": "https://doi.org/10.1016/j.erss.2026.104895",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Shared values, shared acceptance? Towards an acceptance milieu framework illustrated by renewable energy research",
+    "authors": [
+      "Patrick Stuhm",
+      "Dirk Scheer"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104908",
+    "url": "https://doi.org/10.1016/j.erss.2026.104908",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Energy insecurity and air conditioning in urban environments: Structural constraints, coping practices, and wellbeing in Hong Kong",
+    "authors": [
+      "Laurence L. Delina",
+      "Sharon Feliza Ann Macagba",
+      "Kim-Pong Tam",
+      "Chloe Chan"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "139",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104911",
+    "url": "https://doi.org/10.1016/j.erss.2026.104911",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "From Storytelling to Truth-Telling: Narrative Integrity in Science Communication",
+    "authors": [
+      "Tom van Laer",
+      "Anne-Sophie Chaxel"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-06T11:59:03Z",
+    "publication_date_clean": "2026-08-06",
+    "volume": "",
+    "issue": "",
+    "abstract": "Science storytelling can make evidence intelligible, memorable, and culturally resonant, yet persuasive narratives may still misrepresent how scientific knowledge is produced. This commentary argues that communicators need a standard beyond narrative trust: narrative integrity. The concept evaluates whether a story preserves science’s uncertainty, multicausality, collective labor, provisional conclusions, and capacity for revision. Drawing on research on transportation, framing, anecdotal bias, and processing fluency, we explain how narrative form can outrun evidence even when individual claims are accurate. We then propose six principles for designing stories that remain engaging while representing scientific inquiry honestly, transparently, and responsibly to diverse public audiences.",
+    "doi": "10.1177/10755470261475623?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261475623?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-10",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Beyond the Greenwash: Understanding and Mitigating the Impact of Misleading Native Advertisements from Fossil Fuel Companies",
+    "authors": [
+      "Arunima Krishna",
+      "Michelle A. Amazeen",
+      "Chris F. Wells"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-05",
+    "publication_date_clean": "2026-08-05",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2714124",
+    "url": "https://doi.org/10.1080/17524032.2026.2714124",
+    "collection_date": "2026-08-10",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Climate imagination. Dispatches from hopeful futures",
+    "authors": [
+      "Philippe Blanchard"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-05",
+    "publication_date_clean": "2026-08-05",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2709209",
+    "url": "https://doi.org/10.1080/09644016.2026.2709209",
+    "collection_date": "2026-08-10",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "When Moral Appeals Backfire and Discourage the Adoption of Plant-Based Meat Alternatives",
+    "authors": [
+      "Yuanke Zhou",
+      "Wanjun Li",
+      "Liudmila Tarabashkina",
+      "Zhiyuan Wang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-04T07:03:45Z",
+    "publication_date_clean": "2026-08-04",
+    "volume": "",
+    "issue": "",
+    "abstract": "Public campaigns use moral appeals to promote a plant-based meat diet, but such appeals can also backfire. We found that the animal welfare appeal prompted higher purchase intention only among individuals with lower meat attachment and was damaging among consumers with higher meat attachment, with meat attachment moderating the pathway from meat-related cognitive dissonance to the adoption of plant-based meat. The best strategy to appeal to consumers with higher meat attachment was a description that did not contain any messages. Our study clarifies when and why moral appeals may backfire when promoting plant-based meat, delineating the limits of their persuasiveness.",
+    "doi": "10.1177/10755470261459832?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261459832?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-10",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science as Culture",
+    "title": "Islands of uncertainty: promises, time, and nuclear test sites",
+    "authors": [
+      "Anton Öhman"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-04",
+    "publication_date_clean": "2026-08-04",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09505431.2026.2709164",
+    "url": "https://doi.org/10.1080/09505431.2026.2709164",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "When academic leaders disconnect from social media in Finland: Situational rationality, silent resistance",
+    "authors": [
+      "Leena Ripatti-Torniainen",
+      "Karoliina Talvitie-Lamberg"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-03T07:00:26Z",
+    "publication_date_clean": "2026-08-03",
+    "volume": "",
+    "issue": "",
+    "abstract": "This qualitative study, conducted at Finland’s research universities, analyses high-profile academic leaders who have chosen to be disconnected from social media. We conducted individual interviews with 19 leaders and performed a situational analysis to investigate the rationale for abstaining from social media. Academic leaders rationalised disconnection by reasons related to personality, sociability, critical rationality, and health and security. The leaders’ intensive involvement in three social worlds intensified the individual rationale for disconnection and enabled the leaders to work successfully despite disconnection. These social worlds were research and science, sensitive academia, and insider networks in society. In the context of the managerial neoliberal university, its promotional communication culture, and competition for visibility, the leaders’ disconnection from social media has a dissident, resistant characteristic. The study contributes to prior research through its comprehensive approach to academic leaders’ operational environment. Future research should elaborate on the systemic approach to social media in universities.",
+    "doi": "10.1177/09636625261469511?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261469511?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-10",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Accuracy and Defense Motives: Exploring Types of Information Insufficiency in the Risk Information Seeking and Processing (RISP) Model",
+    "authors": [
+      "Timothy K. F. Fung",
+      "Ho Man Leung",
+      "Po Yan Lai",
+      "Robert J. Griffin"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-03T07:02:54Z",
+    "publication_date_clean": "2026-08-03",
+    "volume": "",
+    "issue": "",
+    "abstract": "This study reconceptualizes information insufficiency as a goal-contingent construct within the Risk Information Seeking and Processing model. In multifaceted risk contexts, individuals confront health threats alongside challenges to deep-seated values and beliefs, producing different judgmental demands within a single risk event. Survey data from 858 Hong Kong adults show two distinct forms of information insufficiency, one oriented toward accurate safety judgments and another toward defending deep-seated values and beliefs. Each form is associated with distinct patterns of information seeking and processing. This study demonstrates how multiple goal-based information insufficiencies operate within the same individual in response to different judgmental demands.",
+    "doi": "10.1177/10755470261465788?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261465788?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-10",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "State narratives of shale gas development: evidence from a text-as-data study of the United States and China",
+    "authors": [
+      "Kate Hua-Ke Chi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-03",
+    "publication_date_clean": "2026-08-03",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2710466",
+    "url": "https://doi.org/10.1080/09644016.2026.2710466",
+    "collection_date": "2026-08-10",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
     "title": "The COVID-19 legacy: Indoor air quality, thermal comfort and energy use in english classrooms",
     "authors": [
       "Iman Hussain",
@@ -8078,6 +8680,28 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Global Environmental Change",
+    "title": "Corrigendum to “Pathways to conventional and radical climate action: The role of temporal orientation, environmental cognitive alternatives, and eco-anxiety” [Glob. Environ. Change 87 (2024) 102886]",
+    "authors": [
+      "Charlie R. Pittaway",
+      "Kelly S. Fielding",
+      "Winnifred R. Louis"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103216",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103216",
+    "collection_date": "2026-08-10",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Environmental Communication",
     "title": "Communicating Climate Change in Africa: Role Perception and Role Shifting among Environmental Journalists in Nigeria",
     "authors": [
@@ -8170,6 +8794,26 @@
     "url": "https://doi.org/10.1093/scipol/scag067",
     "collection_date": "2026-08-03",
     "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science as Culture",
+    "title": "Rite to mine: Bitcoin, ritual, and oligarchy",
+    "authors": [
+      "Owen Marshall"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-30",
+    "publication_date_clean": "2026-07-30",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09505431.2026.2710284",
+    "url": "https://doi.org/10.1080/09505431.2026.2710284",
+    "collection_date": "2026-08-10",
+    "grade": "B",
     "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
@@ -8483,6 +9127,26 @@
     "url": "https://doi.org/10.1080/17524032.2026.2706163",
     "collection_date": "2026-07-27",
     "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science as Culture",
+    "title": "Tech oligarchy is not tech",
+    "authors": [
+      "Shahpour Akhavi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-07-20",
+    "publication_date_clean": "2026-07-20",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09505431.2026.2668476",
+    "url": "https://doi.org/10.1080/09505431.2026.2668476",
+    "collection_date": "2026-08-10",
+    "grade": "B",
     "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
