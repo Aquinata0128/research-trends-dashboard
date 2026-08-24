@@ -2127,6 +2127,99 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Research Policy",
+    "title": "Global market integration, national security salience, and new product development alliances in aircraft manufacturing",
+    "authors": [
+      "João Albino-Pimentel",
+      "Pierre Dussauge",
+      "Louis Mulotte",
+      "Elie Sung",
+      "Stephen Tallman"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "55",
+    "issue": "9",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105583",
+    "url": "https://doi.org/10.1016/j.respol.2026.105583",
+    "collection_date": "2026-08-24",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Citations in 280 characters: Is social media presence worth it for elite journals?",
+    "authors": [
+      "Philipp Lucas Wähler",
+      "Christos Kolympiris",
+      "Nicos Nicolaou"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "55",
+    "issue": "9",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105581",
+    "url": "https://doi.org/10.1016/j.respol.2026.105581",
+    "collection_date": "2026-08-24",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Data and methods for identifying artificial intelligence-related patents",
+    "authors": [
+      "Tianjun Wu",
+      "Chao Min",
+      "Waverly W. Ding",
+      "Guolong Wang",
+      "Kunpeng Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "55",
+    "issue": "9",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105599",
+    "url": "https://doi.org/10.1016/j.respol.2026.105599",
+    "collection_date": "2026-08-24",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Science under sanctions: The impact of the entity list on Chinese academic research",
+    "authors": [
+      "Xiaodie Pu",
+      "Xintong Wang",
+      "Di Tong",
+      "Alain Yee Loong Chong"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "55",
+    "issue": "9",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105584",
+    "url": "https://doi.org/10.1016/j.respol.2026.105584",
+    "collection_date": "2026-08-24",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Ecological Economics",
     "title": "Analyzing citizens' preferences for sufficiency policy in municipalities — An experimental approach",
     "authors": [
@@ -4240,6 +4333,35 @@
     "doi": "10.1016/j.erss.2026.104921",
     "url": "https://doi.org/10.1016/j.erss.2026.104921",
     "collection_date": "2026-08-17",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Integrating science for water security governance",
+    "authors": [
+      "Kristen M. Whitney",
+      "Rebecca M. Peters",
+      "Anil Mishra",
+      "Annalise G. Blum",
+      "Perry C. Oddo",
+      "Kate A. Brauman",
+      "Angelica L. Gutierrez",
+      "John D. Bolten",
+      "Matthew J. McCarthy",
+      "Andrés Sánchez"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103222",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103222",
+    "collection_date": "2026-08-24",
     "grade": "B",
     "keyword_matches": [],
     "source_type": "crossref",
@@ -7191,6 +7313,114 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Public Understanding of Science",
+    "title": "Stop pushing junk science! User corrections of misinformation in science are common and sophisticated",
+    "authors": [
+      "Tuomas Heikkilä"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-22T12:11:21Z",
+    "publication_date_clean": "2026-08-22",
+    "volume": "",
+    "issue": "",
+    "abstract": "Misinformation is often equated with blatant falsehoods from dubious sources, overlooking that scientific sources, too, can accidentally publish inaccurate information to large online audiences. This article explores how social media users share, evaluate and address misinformation in science, defined as unreliable research rejected by relevant experts for violating scientific integrity. Using a mixed-methods analysis of Twitter discussions on retracted COVID-19 studies (33,730 tweets and 13,743 replies), the study found that, while most users accepted retracted science at face value, they were also disputed often, with user corrections accounting for nearly half of all replies. Corrections also closely mirrored established experimental recommendations, being mostly elaborative, non-confrontational, and commonly employed one or more debunking strategies. In contrast, polarising and overly convoluted language was rare. The results highlight the significant role that ordinary users play in countering unreliable science ‘in the wild’ and the need for researchers and policymakers to strengthen support for bottom-up corrective practices.",
+    "doi": "10.1177/09636625261470329?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261470329?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-24",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Believing What We Want? Myside Bias and the Role of Open Science Practices in Public Trust in Science",
+    "authors": [
+      "Hilmar Brohmer",
+      "Fabian Gehm",
+      "Sarah von Götz"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-20T02:31:17Z",
+    "publication_date_clean": "2026-08-19",
+    "volume": "",
+    "issue": "",
+    "abstract": "Public trust in science may depend not only on the quality of the research but also on laypersons’ attitudes toward the underlying topic. Although Open Science practices are meant to signal credibility, their influence on laypersons remains unclear, especially for scientifically controversial topics. In this preregistered Austrian study ( N = 1,083), general trust in science and myside bias strongly predicted trust in certain popular-scientific summaries, while explicit Open Science cues did not show an effect. Exploratory analyses showed that participants’ optimistic conceptions of science were also linked to higher trust. Overall, biased beliefs appear more influential than transparency-related cues for trust in science.",
+    "doi": "10.1177/10755470261475540?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261475540?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-24",
+    "grade": "A",
+    "keyword_matches": [
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Symbolic Capital or Social Glue? Recognition in Collaborative High-Energy Physics Research",
+    "authors": [
+      "Helene Sorgner"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-18T07:08:19Z",
+    "publication_date_clean": "2026-08-18",
+    "volume": "",
+    "issue": "",
+    "abstract": "A trend towards more and larger research collaborations in the sciences raises questions about how individual scientists who work primarily in collaborations receive recognition. Experimental high-energy physics is known for exceptionally large research collaborations, with publications featuring thousands of authors in alphabetical order. Consequently, the question of how individual scientists receive recognition has been explicitly discussed in this discipline. In this article, I describe discussions and efforts to improve the recognition of individual researchers in the ATLAS collaboration at the European Laboratory for Particle Physics (CERN), based on an analysis of documents and interviews with collaboration members of all career stages. I analyze these accounts by introducing a conceptual framework distinguishing between elementary and institutionalized recognition, and recognition as appreciation and admiration , respectively. I show that articulations of recognition are mobilized by the collaboration to reproduce the experiment and the community. Drawing on these observations, I argue for a broader concept of recognition in the social studies of science. Beyond the notion of recognition as symbolic capital for individuals, we should also consider the reproductive and stabilizing capacity of recognition for scientific communities. I also show how receiving community-oriented appreciation creates a dilemma for early-career researchers who desire admiration to compete in academic labor markets. The need to value a broader range of contributions in collaborative research therefore requires structural changes in academic career systems.",
+    "doi": "10.1177/03063127261474439?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261474439?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-24",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "From Clues to Algorithms in Clinical Reasoning",
+    "authors": [
+      "David Armstrong"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-18T07:06:33Z",
+    "publication_date_clean": "2026-08-18",
+    "volume": "",
+    "issue": "",
+    "abstract": "Medicine has undergone a major shift in its dominant mode of clinical reasoning, a Kuhnian paradigm change centred on diagnostic method rather than disease theory. Until the mid-20 th century, clinical practice followed an experience-based model in which clinicians acted as detectives, assembling symptoms and signs as ‘clues’ to infer underlying pathology. This Holmesian style of reasoning relied on tacit judgment acquired through apprenticeship. In the mid-20 th century, this paradigm entered a crisis of confidence as empirical studies revealed extensive variability and error in clinical observations. These findings undermined faith in intuition and professional mystique. In response, medicine increasingly adopted numerical indexes, decision trees, flow charts, protocols, and guidelines. These tools replaced the spatial assemblage of clues with formalized, conditional ‘if–then’ logic that linked measurement directly to outcomes and action. The clinical algorithm has become the key exemplar of a new algorithmic paradigm, one that underpins contemporary evidence-based medicine and risk-factor management.",
+    "doi": "10.1177/03063127261467733?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261467733?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-08-24",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Framing Climate Change in Children’s Picture Books: A Qualitative Study of Authors and Illustrators",
+    "authors": [
+      "Tameka Shelford"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-17",
+    "publication_date_clean": "2026-08-17",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2716354",
+    "url": "https://doi.org/10.1080/17524032.2026.2716354",
+    "collection_date": "2026-08-24",
+    "grade": "A",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Social Studies of Science",
     "title": "Chemical Governmentality: Manufacturing Politics in Oil Refineries",
     "authors": [
@@ -9636,6 +9866,28 @@
     "url": "https://doi.org/10.1016/j.gloenvcha.2026.103216",
     "collection_date": "2026-08-10",
     "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Corrigendum to “Connectivity infrastructure and innovation: The effects of headquarters versus subsidiary management” [Res. Policy Volume 55, Issue 8, 2026, 105542]",
+    "authors": [
+      "Catherine Magelssen",
+      "Luis Ballesteros",
+      "Casidhe Troyer"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105589",
+    "url": "https://doi.org/10.1016/j.respol.2026.105589",
+    "collection_date": "2026-08-24",
+    "grade": "C",
     "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
@@ -25230,29 +25482,6 @@
   },
   {
     "journal_name": "과학기술학연구",
-    "title": "몸은 어떻게 성이 되는가: 『섹싱 더 바디』가 생물학과젠더 사이에 던진 질문",
-    "authors": [
-      "정우현"
-    ],
-    "publication_year": 2026,
-    "publication_date": "2026",
-    "publication_date_clean": "2026",
-    "volume": "26",
-    "issue": "2",
-    "pages": "193-200",
-    "keywords": [],
-    "abstract_ko": "",
-    "abstract_en": "",
-    "doi": "",
-    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003366316",
-    "collection_date": "2026-08-03",
-    "grade": "A",
-    "keyword_matches": [],
-    "source_type": "kci",
-    "crossref_enriched": false
-  },
-  {
-    "journal_name": "과학기술학연구",
     "title": "에너지 전환의 얽히고설킨 역사: “탄소스러운 삶”의 오래된 모습 발견하기",
     "authors": [
       "조승희"
@@ -31822,47 +32051,6 @@
     "keyword_matches": [
       "STS"
     ],
-    "source_type": "crossref",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "An anticipatory regime of multiplanetary life: on SpaceX, Martian colonisation and terrestrial ruin",
-    "authors": [
-      "David Young",
-      "Niall Docherty"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-08-22",
-    "publication_date_clean": "2024-08-22",
-    "volume": "34",
-    "issue": "2",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2393096",
-    "url": "https://doi.org/10.1080/09505431.2024.2393096",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "crossref",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "Strategic science performance and the illusion of consensus about Fukushima’s health effects",
-    "authors": [
-      "Elicia Mayuri Cousins"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-08-22",
-    "publication_date_clean": "2024-08-22",
-    "volume": "34",
-    "issue": "2",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2393723",
-    "url": "https://doi.org/10.1080/09505431.2024.2393723",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
   },
