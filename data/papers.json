@@ -1,6 +1,48 @@
 [
   {
     "journal_name": "Ecological Economics",
+    "title": "Beyond circularity: Topological and temporal limits of the circular economy",
+    "authors": [
+      "Nicolas Merveille"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109235",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109235",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Prescribed burning and localized human health: A stochastic bioeconomic model for wildfire mitigation",
+    "authors": [
+      "Ewa Z. Vick",
+      "Benjamin A. Jones",
+      "Shana McDermott"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109227",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109227",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
     "title": "Indiscriminate barriers: The trade effects of due diligence policies in global timber markets",
     "authors": [
       "Valentin Mathieu",
@@ -704,6 +746,164 @@
     "doi": "10.1016/j.eist.2026.101184",
     "url": "https://doi.org/10.1016/j.eist.2026.101184",
     "collection_date": "2026-09-07",
+    "grade": "C",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Distributional properties of cost allocation rules in multi-family energy retrofits: Evidence from 4 million apartments",
+    "authors": [
+      "Jakub Sokołowski",
+      "Stefan Bouzarovski"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "251",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109223",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109223",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Between toolkit and theory: A critical review of social metabolism",
+    "authors": [
+      "Manuel González de Molina",
+      "Juan Infante-Amate",
+      "Víctor M. Toledo"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "251",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109230",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109230",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Work “as if people mattered”: Reassessing the contribution of E. F. Schumacher",
+    "authors": [
+      "Franck Bailly",
+      "Benjamin Dubrion"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "251",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109229",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109229",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Beyond generation: Clean energy accommodation and health-related defensive expenditure among Chinese households",
+    "authors": [
+      "Jing-Yue Liu",
+      "Xiang-Jie Liu",
+      "Yue-Jun Zhang"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "251",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109228",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109228",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Participation builds trust, not framing: insights from a national energy-transition experiment",
+    "authors": [
+      "Kevin Goes",
+      "Louison Thépaut",
+      "Niek Mouter",
+      "Emile Chappin",
+      "Sjoerd Kluiving"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "251",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109232",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109232",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [
+      "trust"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "Toward a Canadian agenda for sustainability transition research",
+    "authors": [
+      "Daniel Rosenbloom",
+      "James Meadowcroft",
+      "Bruno Arcand",
+      "Martin Boucher",
+      "Marie Claire Brisbois",
+      "Sarah Burch",
+      "Runa Das",
+      "Andréanne Doyon",
+      "David Foord",
+      "Brendan Haley",
+      "Sara Hastings-Simon",
+      "Christina Hoicka",
+      "Margot Hurlbert",
+      "Amy Janzwood",
+      "Moe Kabbara",
+      "Tamara Krawchenko",
+      "Simon Langlois-Bertrand",
+      "Christopher Luederitz",
+      "Julie MacArthur",
+      "Heather Millar",
+      "Cameron Roberts",
+      "Maha Tantawy",
+      "Laura Tozer",
+      "Stephen Williams",
+      "Luis D. Virla"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "62",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101193",
+    "url": "https://doi.org/10.1016/j.eist.2026.101193",
+    "collection_date": "2026-09-14",
     "grade": "C",
     "keyword_matches": [
       "sustainability"
@@ -1709,6 +1909,189 @@
     "keyword_matches": [
       "ESG"
     ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Intimate partner violence in sub-Saharan Africa under climate change and socioeconomic scenarios",
+    "authors": [
+      "Jonas Peisker",
+      "Roman Hoffmann",
+      "Angela Baschieri",
+      "Chiagozie Udeh",
+      "Erich Striessnig"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103224",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103224",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "From academic lab to spinoff: How opportunity beliefs evolve from individual to venture during technology-market matching",
+    "authors": [
+      "Anurag Wasnik",
+      "Einar Rasmussen",
+      "Jon Thomas",
+      "Elicia Maine"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105585",
+    "url": "https://doi.org/10.1016/j.respol.2026.105585",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Measuring the production of scientific human capital: New data, methods, and evidence on the U.S. scientific training ecosystem",
+    "authors": [
+      "Dror Shvadron",
+      "Hansen Zhang",
+      "Lee Fleming",
+      "Daniel P. Gross"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105605",
+    "url": "https://doi.org/10.1016/j.respol.2026.105605",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [
+      "ecosystem"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Dynamic platform strategies in an interconnected ecosystem: Navigating standards and complements in the emerging smart home ecosystem",
+    "authors": [
+      "Hans Berends",
+      "Fleur Deken",
+      "Jochem T. Hummel"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105609",
+    "url": "https://doi.org/10.1016/j.respol.2026.105609",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [
+      "ecosystem"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "An (almost) free lunch? Symbolic recognition and knowledge-sharing behavior in online communities",
+    "authors": [
+      "Hyunwoo Park",
+      "Jeongsik (Jay) Lee"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105586",
+    "url": "https://doi.org/10.1016/j.respol.2026.105586",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "A note on the changing appropriability conditions and technological opportunities for innovation in Japan; 1994–2020",
+    "authors": [
+      "Akiya Nagata",
+      "Akira Goto"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105608",
+    "url": "https://doi.org/10.1016/j.respol.2026.105608",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Stronger patent law increases the allocation of resources to external relative to internal R&D: Empirical evidence",
+    "authors": [
+      "Yun Hou",
+      "Xi Xiong",
+      "I.P.L. Png"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105601",
+    "url": "https://doi.org/10.1016/j.respol.2026.105601",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Adoption survival frontiers: Artificial intelligence, financing frictions, and market structure",
+    "authors": [
+      "Dávid Zoltán Szabó",
+      "Péter Juhász"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105621",
+    "url": "https://doi.org/10.1016/j.respol.2026.105621",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
   },
@@ -2812,6 +3195,24 @@
     "doi": "10.1016/j.respol.2026.105600",
     "url": "https://doi.org/10.1016/j.respol.2026.105600",
     "collection_date": "2026-09-07",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Editorial Board",
+    "authors": [],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "55",
+    "issue": "9",
+    "abstract": "",
+    "doi": "10.1016/s0048-7333(26)00207-6",
+    "url": "https://doi.org/10.1016/s0048-7333(26)00207-6",
+    "collection_date": "2026-09-14",
     "grade": "C",
     "keyword_matches": [],
     "source_type": "crossref",
@@ -5870,6 +6271,608 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Global Environmental Change",
+    "title": "Editorial Board",
+    "authors": [],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "100",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/s0959-3780(26)00118-4",
+    "url": "https://doi.org/10.1016/s0959-3780(26)00118-4",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Digitalization and energy poverty in Europe: Evidence from arrears, home warmth, and income group differences",
+    "authors": [
+      "Teresa Magina",
+      "Inês Carrilho-Nunes",
+      "Margarida Catalão-Lopes",
+      "Luiz Pires"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104964",
+    "url": "https://doi.org/10.1016/j.erss.2026.104964",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Of smoke and silence: Energy poverty, digital exclusion, and the rural–urban divide in Eastern Europe",
+    "authors": [
+      "Rossella Bardazzi",
+      "Dorothée Charlier",
+      "Berangère Legendre",
+      "Maria Grazia Pazienza"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104953",
+    "url": "https://doi.org/10.1016/j.erss.2026.104953",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Win-win or window dressing? Opportunity and opposition to agrivoltaics in the United States",
+    "authors": [
+      "Caspar L. Donnison",
+      "Alexander Stanley",
+      "Whitney Kirkendall",
+      "Tao Dai",
+      "Kimberley K. Mayfield"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104940",
+    "url": "https://doi.org/10.1016/j.erss.2026.104940",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Understanding involvement in energy communities: the role of energy citizenship and community factors",
+    "authors": [
+      "Lynette A.M.H. Germes",
+      "Carina J. Wiekens",
+      "Henny J. van der Windt"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104963",
+    "url": "https://doi.org/10.1016/j.erss.2026.104963",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Mitigation deterrence in emissions trading schemes: Managing low quality demand for carbon removal",
+    "authors": [
+      "Nils Markusson",
+      "Alina Brad",
+      "Etienne Schneider"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104962",
+    "url": "https://doi.org/10.1016/j.erss.2026.104962",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Framing the transition: How consultants shape public energy governance in Sweden",
+    "authors": [
+      "Katharina Reindl",
+      "Ella Alfredsson Jofs",
+      "Jenny Palm"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104959",
+    "url": "https://doi.org/10.1016/j.erss.2026.104959",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "The end of EU–Russia energy cooperation: A geopolitical discursive perspective",
+    "authors": [
+      "Lukáš Tichý",
+      "Zbyněk Dubský"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104957",
+    "url": "https://doi.org/10.1016/j.erss.2026.104957",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Green promises, local conflicts: The political ecology of rare earth mining in Poços de Caldas, Brazil",
+    "authors": [
+      "Vitor Carvalho Gomes",
+      "Amanda Ribeiro Carolino",
+      "Thaís Castro Koch",
+      "Paula Ferreira Ribeiro",
+      "Valderí de Castro Alcântara"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104971",
+    "url": "https://doi.org/10.1016/j.erss.2026.104971",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Modern electric vehicle and battery manufacturing boomtowns: A just transition?",
+    "authors": [
+      "Sanya Carley",
+      "Sara Lepley",
+      "Charles Lane",
+      "Jeffrey Adams",
+      "Vincent Reina"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104960",
+    "url": "https://doi.org/10.1016/j.erss.2026.104960",
+    "collection_date": "2026-09-14",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Serving Epistemic Justice Through Critical Writing Pedagogies in Science and Technology Studies (STS)",
+    "authors": [
+      "Amanda Domingues",
+      "Marlise Schneider",
+      "Kylie Quave"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-12T06:07:19Z",
+    "publication_date_clean": "2026-09-12",
+    "volume": "",
+    "issue": "",
+    "abstract": "Writing in Science and Technology Studies (STS) reproduces STS knowledge, yet ways of writing remain invisible and normative within a discipline committed to epistemological openness. Ways of knowing and languaging are inextricably linked: written knowledge plays a central role in scholars’ entry and advancement. We argue that recalibrating norms in teaching STS writing could decentralize dominant, colonial ways of thinking in the field. Although STS scholars are from many geographic and cultural backgrounds and possess diverse “languaging” repertoires, scholarship in White Mainstream English (WME) remains most valued. Constructed linguistic hierarchies disadvantage “non-native” speakers, especially English-language learners (ELLs), thereby marginalizing other ways of knowing. Concurrently, students are also STS-language learners (STSLLs), requiring assimilation to succeed in the field. We propose a critical approach to teaching that prioritizes diverse ways of knowing to liberate the writing and publication process from exclusionary tendencies experienced intersectionally by ELLs and STSLLs. We argue that developing writing skills in STS should involve reflection on presumptions and norms around language, and purposive instruction in STS language learning. Our approach empowers STSLLs and ELLs in this language acquisition, integrating writers of various backgrounds and resisting tendencies to rank and devalue languaging that diverges from WME.",
+    "doi": "10.1177/01622439261481578?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261481578?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies",
+      "STS"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Visualizando la Amazonía: Periodismo de Datos, Mapeo y Audiencia del Periodismo Ambiental",
+    "authors": [
+      "Isabella Gonçalves",
+      "Mathias-Felipe de-Lima-Santos"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-11",
+    "publication_date_clean": "2026-09-11",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2730628",
+    "url": "https://doi.org/10.1080/17524032.2026.2730628",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Noisy Listening: Climate Change as Vibratory Milieu",
+    "authors": [
+      "Marina Peterson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-10T02:28:13Z",
+    "publication_date_clean": "2026-09-10",
+    "volume": "",
+    "issue": "",
+    "abstract": "“Noisy listening” explores resonances between sound and climate change by listening to and thinking with noise, being in noise as conditions shift more or less dramatically, taking form and becoming palpable or legible, or remaining indeterminate. Noise as a way of knowing is at once phenomenal and epistemological, its materio-semiotic status providing an opening for conceptualizing climate change as a vibratory milieu. I develop a reading of the concept of milieu as participatory, supporting an understanding of anthropogenic climate change as immanent rather than external to sensing subjects. This reading is sustained through a discussion of ways in which noise resonates with key aspects of climate change: as atmospheric or generalizable, as emergent, and as uncertain. While vibration provides a starting point for understanding sound as immanent, the article treats noise as capacious. Its forms, definitions, and operations emerge across a range of cases, writings, artworks, and musical compositions as low-frequency sound, noise pollution, loudness, the uncertainty of unknowability, and a capacity to rework existing logics from within.",
+    "doi": "10.1177/01622439261478464?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261478464?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Recognized but restricted: environmental norms, structural position, and the politics of carbon constraint",
+    "authors": [
+      "Yookyung Lee",
+      "Seungwoo Han"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-10",
+    "publication_date_clean": "2026-09-10",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2731576",
+    "url": "https://doi.org/10.1080/09644016.2026.2731576",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Shifting configurations of nationalism, populism, and conservatism: far-right environmental discourse on agriculture, climate, and energy",
+    "authors": [
+      "Gijs Lambrechts",
+      "Benjamin De Cleen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-10",
+    "publication_date_clean": "2026-09-10",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2728447",
+    "url": "https://doi.org/10.1080/09644016.2026.2728447",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Assembling Topic Models: Material Political Economy and the Genealogy of an Algorithm",
+    "authors": [
+      "Bolun Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-09T07:07:35Z",
+    "publication_date_clean": "2026-09-09",
+    "volume": "",
+    "issue": "",
+    "abstract": "Natural Language Processing (NLP) technologies—ranging from topic models to today’s large language models like GPT—have rapidly entered the social sciences, reshaping methodological practice. Yet researchers often overlook the stark political-economic contrasts between academia and the AI research-industry symbiosis. Identical algorithms, once embedded in different institutional settings, acquire different meanings and standards of evaluation. This paper shows the divergence by examining topic modeling, a classical NLP technique in computational social science. Social scientists grapple with the instability of applying topic models to the same corpus, whereas in the AI industry such variability matters little, given different evaluative priorities. Through a comparative analysis of topic modeling’s trajectory across AI and social science, I show how organizational contexts and goals shape the development of the same algorithms, and why framing instability as a purely technical issue is problematic in the social sciences. The findings reveal that algorithms are not simply technical tools but products of material political-economic regimes. Recognizing this, I argue that STS scholars have a vital role to play in computational social science: not only by critically examining and developing methods, but also by interrogating the material-political-economic regimes in which algorithms are enacted, and by working toward more just alternatives.",
+    "doi": "10.1177/03063127261469570?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261469570?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "STS",
+      "valuation"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "What Can an STS Journal Do?",
+    "authors": [
+      "Courtney Addison",
+      "Timothy Neale",
+      "Kari Lancaster",
+      "Matthew Kearnes"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-09T02:56:14Z",
+    "publication_date_clean": "2026-09-09",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1177/01622439261485047?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261485047?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "The political economy of China’s electric vehicle transition: eco-authoritarianism and policy durability",
+    "authors": [
+      "James Jackson",
+      "Mathias Larsen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-09",
+    "publication_date_clean": "2026-09-09",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2728362",
+    "url": "https://doi.org/10.1080/09644016.2026.2728362",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Fabulating the Environmental Villain: Technocultures, African Cultural Rhetorics and Community Literacies of Ecological Justice in the #StopGalamseyNow Campaign",
+    "authors": [
+      "Gabriel Opare",
+      "Sandra Boateng"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-08",
+    "publication_date_clean": "2026-09-08",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2723743",
+    "url": "https://doi.org/10.1080/17524032.2026.2723743",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Remediation Practices in Environmental Communication: The Case of the Chilean Civil Organisations",
+    "authors": [
+      "Sebastián Aravena-Ortiz"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-08",
+    "publication_date_clean": "2026-09-08",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2727930",
+    "url": "https://doi.org/10.1080/17524032.2026.2727930",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "environmental communication"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Political embeddedness and corporate strategies in environmental enforcement: evidence from China",
+    "authors": [
+      "Wenya Zhang",
+      "Jing Vivian Zhan"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-08",
+    "publication_date_clean": "2026-09-08",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2730779",
+    "url": "https://doi.org/10.1080/09644016.2026.2730779",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Imaginaries of Writing and Pain: The Backstage of a Ghostwritten Paper",
+    "authors": [
+      "Maud Bernisson",
+      "Willem Halffman"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-08T05:59:26Z",
+    "publication_date_clean": "2026-09-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "Ghostwritten medical papers are a cornerstone of pharmaceutical marketing. We trace how one manuscript written under the instructions and supervision of opioid producer Mallinckrodt was produced and eventually published in a medical journal to present a marketing message. We systematically analyse an archive of internal communications made public after litigation through the lens of Ricœur’s work on imaginaries. Along his first analytic axis, we show how the ghostwriting process shapes and reshapes identities, ascribing agency and portraying social order. Along the second, legitimacy was constructed by the expert voice of a peer-reviewed article ‘authored’ by researchers, but written by backstage medical writers. Third, the result was a twisted phantasmagory of both academic writing and pain management. Professional medical writers generated an imaginary of pain management to expand the prescription of opioids by redefining pain categories and reassigning agency and responsibility of actors in pain treatment. Meanwhile, backstage writers also reproduced an imaginary of scientific writing, with efficient writing as an editorial service that misrepresents authorial contribution and responsibility. We suggest that Ricœur’s analytic scheme could also be used to disentangle technoscientific imaginaries in other settings.",
+    "doi": "10.1177/03063127261474457?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261474457?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "responsibility"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "The social limits of state capacity: the kang , social heat, and coal-to-electricity transition in rural North China",
+    "authors": [
+      "Yuan Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-07",
+    "publication_date_clean": "2026-09-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2730780",
+    "url": "https://doi.org/10.1080/09644016.2026.2730780",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Climate nationalism: Modi, the RSS, and the Hindutva in India’s climate politics",
+    "authors": [
+      "Mukul Sharma"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-07",
+    "publication_date_clean": "2026-09-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2728366",
+    "url": "https://doi.org/10.1080/09644016.2026.2728366",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Scaling Dialogic Science Communication Training With Large Language Models",
+    "authors": [
+      "Elad Yacobson",
+      "Ayelet Baram-Tsabari",
+      "Ofra Amir"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-06T05:43:29Z",
+    "publication_date_clean": "2026-09-06",
+    "volume": "",
+    "issue": "",
+    "abstract": "This research note explores the potential of artificial intelligence (AI) to support scalable training in science communication. Training scientists in science communication is increasingly being recognized as important, yet existing programs face scalability challenges and often prioritize one-way knowledge dissemination over dialogue. This study explores whether these challenges can be mitigated by integrating AI into the training process. We developed and empirically evaluated DiaLogic – an AI-based communication simulator. In all, 37 students engaged in two simulated dialogues and received AI-generated feedback between sessions. The results showed significant improvements in students’ performance. These findings highlight the promise of AI-based tools to support scalable science communication training.",
+    "doi": "10.1177/10755470261482040?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261482040?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Worldviews and public attitudes toward gene-edited foods in Japan",
+    "authors": [
+      "Tomiko Yamaguchi",
+      "Ildeung Na"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-04T08:15:32Z",
+    "publication_date_clean": "2026-09-04",
+    "volume": "",
+    "issue": "",
+    "abstract": "This study examines public attitudes toward gene-edited foods in Japan, focusing on how underlying worldviews shape these responses. Drawing on a national survey and a latent class segmentation model based on 23 worldview variables, we identify four distinct segments: Communitarian, Environmentalist, Governmentalist, and Individualist. The findings indicate modest rather than sharply polarized differences in attitudes, with the Communitarian and Environmentalist segments expressing greater caution than the Governmentalist and Individualist segments. Across all four segments, gene-edited foods are broadly perceived as unnatural, yet support for commercialization remains comparatively high, suggesting that perceptions of unnaturalness do not necessarily translate into strong opposition to commercialization. This pattern suggests that evaluations of gene-edited foods are shaped by multiple normative considerations, in which moral or symbolic concerns coexist with pragmatic judgments about societal benefits and technological governance. These findings suggest that similar levels of support or skepticism can emerge from differing normative orientations.",
+    "doi": "10.1177/09636625261479618?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261479618?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "STS",
+      "valuation"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "A Causal Inference on the Effects of Attention to Media Content About Autonomous Vehicles in the Influence of Presumed Media Influence Model",
+    "authors": [
+      "Tong Jee Goh",
+      "Hongjie Tang",
+      "Shirley S. Ho"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-04T07:18:00Z",
+    "publication_date_clean": "2026-09-04",
+    "volume": "",
+    "issue": "",
+    "abstract": "Applying the influence of presumed media influence model into an autonomous vehicle (AV) context, this study examines how media viewers’ attention to content about risks and benefits of AVs affects their presumptions of influence of the content on others, perceptions of trustworthiness of the technology, and intention to ride in AVs. Through cross-lagged analyses of two-wave panel data (n wave1 = 1,306; n wave2 = 650), this study found causal evidence for the projection effect and impersonal impact. Notably, this study also found causal evidence for the consonance effect: viewers perceiving trustworthiness of AVs after developing intention to ride in AVs.",
+    "doi": "10.1177/10755470261479250?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261479250?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Environmental Politics",
     "title": "NGOs and enforcement of EU environmental law: the case of ClientEarth",
     "authors": [
@@ -8879,6 +9882,28 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Research Policy",
+    "title": "Connectivity infrastructure and innovation: The effects of headquarters versus subsidiary management",
+    "authors": [
+      "Catherine Magelssen",
+      "Luis Ballesteros",
+      "Casidhe Troyer"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_clean": "2026-09-01",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105588",
+    "url": "https://doi.org/10.1016/j.respol.2026.105588",
+    "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Environmental Politics",
     "title": "When beliefs meet technology: conservatism, climate denialism, and support for solar geoengineering",
     "authors": [
@@ -8922,6 +9947,52 @@
     "grade": "C",
     "keyword_matches": [],
     "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Once Upon a Genome: A Content Analysis of Narratives and Narrativity in News About Genomic Research",
+    "authors": [
+      "Helena Bilandzic",
+      "Susanne Kinnebrock",
+      "Markus Schug",
+      "Theresa Engstler"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-31T03:15:05Z",
+    "publication_date_clean": "2026-08-30",
+    "volume": "",
+    "issue": "",
+    "abstract": "This content analysis investigates the functions and types of narratives in German science news about genomic research as well as their degree of narrativity. The results show that nearly half of all articles contained at least one narrative. They were used predominantly to corroborate scientific findings. Narratives about the research process were most common, followed by narratives about researchers and personal fates of affected individuals. Personal-fate narratives displayed the highest levels of narrativity, research-process narratives the lowest. The findings highlight the value of a differentiated approach to studying narratives in science communication.",
+    "doi": "10.1177/10755470261475308?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261475308?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Beyond Factual Correction: Integrating Meta-Cognitive Deficits Into the Risk Information Seeking and Processing Model to Address HPV Misperception",
+    "authors": [
+      "Yuchen Wang",
+      "Yuan Zhong"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-08-31T03:17:38Z",
+    "publication_date_clean": "2026-08-30",
+    "volume": "",
+    "issue": "",
+    "abstract": "Overconfidence, explained by the Dunning–Kruger effect (DKE), hinders engagement with corrective health information. Integrating the DKE with Risk Information Seeking and Processing (RISP) model, a 2 (meta-cognitive vs. informational intervention) × 2 (simple rebuttal vs. factual elaboration) experiment examined human papillomavirus misperceptions. Results show that meta-cognitive interventions limited subjective knowledge, effectively boosting information insufficiency. Conversely, informational inoculation increased subjective knowledge, inadvertently suppressing the insufficiency gap essential for motivation. Path modeling confirmed that information insufficiency predicts seeking and preventive intentions. We demonstrate that overcoming overconfidence requires recalibrating knowledge perceptions rather than merely providing facts, establishing meta-cognition as a contingent condition for RISP.",
+    "doi": "10.1177/10755470261480068?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261480068?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
     "crossref_enriched": true
   },
   {
@@ -11974,6 +13045,24 @@
     "doi": "10.1016/j.respol.2026.105606",
     "url": "https://doi.org/10.1016/j.respol.2026.105606",
     "collection_date": "2026-09-07",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "Editorial Board",
+    "authors": [],
+    "publication_year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_clean": "2026-08-01",
+    "volume": "61",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/s2210-4224(26)00090-0",
+    "url": "https://doi.org/10.1016/s2210-4224(26)00090-0",
+    "collection_date": "2026-09-14",
     "grade": "C",
     "keyword_matches": [],
     "source_type": "crossref",
@@ -28623,6 +29712,42 @@
     "source_type": "kci",
     "crossref_enriched": false,
     "abstract": "본 연구는 디지털 미디어 리터러시를 기능적 소비, 비판적 소비, 기능적 생산, 비판적 생산의 네 차원으로 측정하고, 잠재프로파일분석(LPA)을 통해 만 20~84세 성인 1,200명의 리터러시 유형을 도출하였다. 분석 결과, 디지털 저활용형(27.5%), 수동적 소비형(20.1%), 소비우위 활용형(29.8%), 균형적 활용형(22.7%)의 네 프로파일이 확인되었고, 각 프로파일의 분포는 세대별로 다르게 나타났다. 후기 노년의 60.8%는 디지털 저활용형에 속한 반면, 전기 노년에서는 수동적 소비형이 30.8%, 청년에서는 소비우위 활용형이 55.0%로 가장 높은 비중을 차지하였다. 이는 세대 간 차이뿐 아니라 동일 세대 내부에도 상당한 이질성이 존재함을 보여준다. 프로파일 소속을 예측하는 요인을 분석한 결과, 연령이 높을수록 디지털 저활용형에 속할 가능성이 커졌으며, 교육수준과 주관적 건강상태가 높을수록 다른 프로파일에 속할 가능성이 증가하였다. 또한 프로파일에 따라 세대소통 방법에 대한 인식, 세대교류 경험의 질, 세대연대 인식에 차이가 나타났으며, 특히 SNS와 메시지 앱 등 디지털 소통 채널에 대한 평가에서 프로파일 간 차이가 두드러졌다. 이러한 차이는 세대의 주효과를 함께 고려한 분석에서도 유지되었고, 프로파일과 세대 간 상호작용은 나타나지 않았다. 본 연구는 세대 간 디지털 격차가 연령에 따른 평균적 수준 차이만으로 설명되기보다, 소비와 생산, 기능적 능력과 비판적 능력이 결합되는 리터러시 구조의 차이로도 나타날 수 있음을 보여준다. 이를 바탕으로 연령집단에 따른 일률적 접근을 넘어, 리터러시 유형별 특성과 취약 역량을 고려한 맞춤형 교육과 정책적 지원이 필요함을 제안한다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "검열의 구조를 그래프로 읽다: 신군부 보도검열 기사 4,629건의 도메인 특화 지식그래프 분석",
+    "authors": [
+      "이민규",
+      "이종혁"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "4",
+    "pages": "39-82",
+    "keywords": [
+      "보도검열",
+      "신군부",
+      "도메인 특화 지식그래프",
+      "비상계엄",
+      "5·18 광주",
+      "news censorship",
+      "new military regime",
+      "domain-specific knowledge graph",
+      "emergency martial law",
+      "5·18 Gwangju"
+    ],
+    "abstract_ko": "본 연구는 10·26 사태 이후부터 제5공화국 출범 이전까지(1979~1981) 비상계엄하 계엄사령부 보도검열단에 의해 삭제된 기사 4,629건을 분석하였다. 대규모 언어모델(large language model [LLM])을 활용해 인물·조직·사건·이슈를 추출하고, 10,522개 노드와 86,587개 엣지로 구성된 도메인 특화 지식그래프를 구축하여 검열의 구조와 내용을 규명하였다. 분석 결과, 보도검열 네트워크는 단일 약연결 컴포넌트로 나타나 검열이 통합적 시스템으로 작동했음을 보여주었다. 또한 ‘정권승계’·‘민주화’뿐 아니라 ‘경제위기’ 관련 보도가 대규모로 차단되었으며, 비정치 이슈의 전삭(전체삭제)률이 정치 이슈보다 높고, 통신사 검열이 신문사보다 강했다. 카터 미국 대통령 관련 기사에 대한 높은 검열 비율과 5·18 광주민주화운동 관련 보도에서 김대중이 전두환보다 더 많이 등장한 현상도 확인되었다. 전두환 관련 검열 빈도는 권력 장악 시점과 함께 급증했으며, 제5공화국 초기에는 보도검열 기사 빈도 감소에도 불구하고 전삭 비율이 상승해 자기검열 정착의 가능성을 포함한 통제 양식 전환의 징후가 포착되었다. 본 연구는 신군부 보도검열 자료와 기사를 단독으로 수집해 분석하고 지식그래프를 적용함으로써 신군부 검열의 실체를 실증적으로 재조명하였다.",
+    "abstract_en": "This study analyzes 4,629 newspaper, broadcasting, and wire-service news articles deleted by the Press Censorship Corps of the Martial Law Command during the period of emergency martial law from the aftermath of the October 26 Incident to the inauguration of the Fifth Republic (1979-1981). Using a large language model (LLM) to extract persons, organizations, events, and issues from the censored corpus, we constructed a domain-specific knowledge graph comprising 10,522 nodes and 86,587 edges to elucidate both the structure and substance of state-directed news censorship. This approach enables a systematic, multidimensional cross-analysis that moves beyond case-based or topic-specific examinations of individual censorship episodes. The analysis yields five principal findings. First, the censorship network formed a single weakly connected component, indicating that censorship operated not as a set of isolated interventions but as an integrated, centrally coordinated system. Second, suppression extended well beyond politically sensitive topics such as regime succession and democratization; coverage of the economic crisis was censored on a comparable scale, and the full-deletion rate for non-political issues exceeded that for political issues, revealing the breadth of the regime’s information control. Third, censorship of wire services was more severe than that of newspapers, suggesting that the regime prioritized upstream control of news distribution channels. Fourth, articles related to U.S. President Jimmy Carter exhibited a notably high censorship rate, and in coverage of the 5·18 Gwangju, Kim Dae-jung appeared more frequently than Chun Doo-hwan—indicating that the censorship apparatus was oriented more toward suppressing opposition figures than concealing the actions of those in power. Fifth, the frequency of censorship related to Chun Doo-hwan surged in tandem with his consolidation of power, and in the early Fifth Republic the overall full-deletion rate rose even as the frequency of censored articles declined, pointing to the possible entrenchment of self-censorship among news organizations. By conducting the first comprehensive, full-corpus analysis of news articles censored under the New Military regime and applying a knowledge-graph methodology that captures the relational structure among censored entities, this study empirically re-illuminates the actual workings of press censorship during this period. The findings demonstrate that censorship functioned as a systemic mechanism of information control encompassing political, economic, and diplomatic domains, and that its effects persisted beyond direct intervention through the internalization of censorship norms by media organizations themselves.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003373954",
+    "collection_date": "2026-09-14",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 10·26 사태 이후부터 제5공화국 출범 이전까지(1979~1981) 비상계엄하 계엄사령부 보도검열단에 의해 삭제된 기사 4,629건을 분석하였다. 대규모 언어모델(large language model [LLM])을 활용해 인물·조직·사건·이슈를 추출하고, 10,522개 노드와 86,587개 엣지로 구성된 도메인 특화 지식그래프를 구축하여 검열의 구조와 내용을 규명하였다. 분석 결과, 보도검열 네트워크는 단일 약연결 컴포넌트로 나타나 검열이 통합적 시스템으로 작동했음을 보여주었다. 또한 ‘정권승계’·‘민주화’뿐 아니라 ‘경제위기’ 관련 보도가 대규모로 차단되었으며, 비정치 이슈의 전삭(전체삭제)률이 정치 이슈보다 높고, 통신사 검열이 신문사보다 강했다. 카터 미국 대통령 관련 기사에 대한 높은 검열 비율과 5·18 광주민주화운동 관련 보도에서 김대중이 전두환보다 더 많이 등장한 현상도 확인되었다. 전두환 관련 검열 빈도는 권력 장악 시점과 함께 급증했으며, 제5공화국 초기에는 보도검열 기사 빈도 감소에도 불구하고 전삭 비율이 상승해 자기검열 정착의 가능성을 포함한 통제 양식 전환의 징후가 포착되었다. 본 연구는 신군부 보도검열 자료와 기사를 단독으로 수집해 분석하고 지식그래프를 적용함으로써 신군부 검열의 실체를 실증적으로 재조명하였다."
   },
   {
     "journal_name": "Science as Culture",
