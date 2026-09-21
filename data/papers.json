@@ -43,6 +43,103 @@
   },
   {
     "journal_name": "Ecological Economics",
+    "title": "The inclusion of transaction costs in conservation compensation schemes as illustrated with tigers",
+    "authors": [
+      "V. Prakash",
+      "Y. Zhang",
+      "R.A. Gitzen",
+      "C.A. Lepczyk"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109239",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109239",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Can a wealth tax reduce CO2 emissions in Europe?",
+    "authors": [
+      "Alexander Guschanski",
+      "Rafael Wildauer"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109231",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109231",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Effects of out-migration on local deforestation: Evidence from rural Myanmar",
+    "authors": [
+      "Wentian Jiang",
+      "Mateusz Filipski",
+      "Susana Ferreira"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109215",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109215",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Barriers and innovation pathways for Europe's circular bioeconomy: grassroots stakeholder insights from 43 multi-actor workshops",
+    "authors": [
+      "Bas Paris",
+      "Athanasios T. Balafoutis",
+      "Clio Christopoulou",
+      "João Santos",
+      "Natasha Ristovska",
+      "Luka Juvančič",
+      "Maja Berden Zrimec",
+      "Boglárka Vajda",
+      "Dimitris Michas",
+      "George Papadakis"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109233",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109233",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
     "title": "Indiscriminate barriers: The trade effects of due diligence policies in global timber markets",
     "authors": [
       "Valentin Mathieu",
@@ -904,6 +1001,95 @@
     "doi": "10.1016/j.eist.2026.101193",
     "url": "https://doi.org/10.1016/j.eist.2026.101193",
     "collection_date": "2026-09-14",
+    "grade": "C",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Decoupling economic growth from environmental degradation: a global analysis of land, water, and emissions",
+    "authors": [
+      "Maksym Chepeliev",
+      "Ebad Ebadi",
+      "Richard Damania",
+      "Farzad Taheripour",
+      "Esha Dilip Zaveri",
+      "Jason Daniel Russ"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "251",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109224",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109224",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "From coal dependency to coal phase-out: Empirical multi-level policy examination in an urban energy system",
+    "authors": [
+      "Amanda Pasanen",
+      "Kaisa Matschoss"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "62",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101195",
+    "url": "https://doi.org/10.1016/j.eist.2026.101195",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "Mobilising values in municipal governance? A case study of Gothenburg’s Sustainable Lifestyles Strategy",
+    "authors": [
+      "Hanna Eggestrand"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "62",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101194",
+    "url": "https://doi.org/10.1016/j.eist.2026.101194",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Innovation and Societal Transitions",
+    "title": "How socio-political streams shape sustainability transitions: the case of a European rail network",
+    "authors": [
+      "Toon Meelen",
+      "Tessa Dool"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "62",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.eist.2026.101181",
+    "url": "https://doi.org/10.1016/j.eist.2026.101181",
+    "collection_date": "2026-09-21",
     "grade": "C",
     "keyword_matches": [
       "sustainability"
@@ -2096,6 +2282,164 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Global Environmental Change",
+    "title": "Exploring European forest management futures: a stakeholder-informed spatial scenario modeling approach",
+    "authors": [
+      "Niek Scherpenhuijzen",
+      "Thales A.P. West",
+      "Daniel Di Marzo",
+      "Peter H. Verburg"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103236",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103236",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Living with extreme weather: Health vulnerabilities and everyday adaptations of informal outdoor workers in urban Vietnam",
+    "authors": [
+      "Anh Ngoc Vu",
+      "Loc Duc Nguyen",
+      "Jonathan Rigg"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103235",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103235",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Bridging the gap: A scalable approach to measuring social innovation capacity",
+    "authors": [
+      "Johannes Carl",
+      "Nils Grashof",
+      "Matthias Menter"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105629",
+    "url": "https://doi.org/10.1016/j.respol.2026.105629",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Between expectations and outcomes: Technology adopters' narratives and technology discourse dynamics",
+    "authors": [
+      "Raluca Bunduchi",
+      "Marina Candi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105622",
+    "url": "https://doi.org/10.1016/j.respol.2026.105622",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Towards a theory of industrial modernity",
+    "authors": [
+      "Laur Kanger",
+      "Aro Velmet",
+      "Liina Maurer",
+      "Anna Helena Liiv",
+      "Phil Johnstone"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105625",
+    "url": "https://doi.org/10.1016/j.respol.2026.105625",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Automation and employment over the technology life cycle: Evidence from European regions",
+    "authors": [
+      "Florencia Jaccoud",
+      "Fabien Petit",
+      "Tommaso Ciarli",
+      "Maria Savona"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105611",
+    "url": "https://doi.org/10.1016/j.respol.2026.105611",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Local implementation of transformative innovation policies: Ambiguities, strategic responses, and intertemporal conflicts",
+    "authors": [
+      "Brittney (Britt) Regal",
+      "Damian Grimshaw",
+      "Marcela Miozzo",
+      "Jonatan Pinkse"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "55",
+    "issue": "10",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105624",
+    "url": "https://doi.org/10.1016/j.respol.2026.105624",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Ecological Economics",
     "title": "The impact of climate on Indian households' living costs",
     "authors": [
@@ -3214,6 +3558,182 @@
     "url": "https://doi.org/10.1016/s0048-7333(26)00207-6",
     "collection_date": "2026-09-14",
     "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Activation through opposition: Indigenous contestation and state institutions in the just energy transition",
+    "authors": [
+      "Kathryn Chelminski"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104966",
+    "url": "https://doi.org/10.1016/j.erss.2026.104966",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Governance and social cohesion in micro-hydropower systems: Pathways to improved livelihoods and environmental sustainability under climate change",
+    "authors": [
+      "Ayat Ullah",
+      "Tereza Pilařová",
+      "Vladimir Verner",
+      "Miroslava Bavorova"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104980",
+    "url": "https://doi.org/10.1016/j.erss.2026.104980",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [
+      "climate change",
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Governing green enabling megaprojects: reconciling transformative risk-taking with megaproject delivery discipline",
+    "authors": [
+      "Tyler A. Hansen",
+      "Lena Kitzing"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104967",
+    "url": "https://doi.org/10.1016/j.erss.2026.104967",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Enhancing system understanding in CCUS development using causal loop diagrams",
+    "authors": [
+      "Rikke Drustrup",
+      "Ivar Lyhne",
+      "Thomas Elliot",
+      "Mads Pagh Nielsen"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104987",
+    "url": "https://doi.org/10.1016/j.erss.2026.104987",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Core benefits, peripheral risks: Multinational energy justice of nuclear waste siting on the Croatia–Bosnia and Herzegovina border",
+    "authors": [
+      "Emina Veljović",
+      "Aliaksandr Novikau"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104974",
+    "url": "https://doi.org/10.1016/j.erss.2026.104974",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Invisible costs and cloud ruins: An integrated impact assessment framework for large-scale data centres",
+    "authors": [
+      "Alessandro Marra",
+      "Giulia Di Giorgio"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104986",
+    "url": "https://doi.org/10.1016/j.erss.2026.104986",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "What shapes public investment in private housing? The political economy of retrofit in the UK",
+    "authors": [
+      "Madeleine Pauker"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104977",
+    "url": "https://doi.org/10.1016/j.erss.2026.104977",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Perceptions and priorities for residential heat pump adoption in the rural northern US",
+    "authors": [
+      "Yi Wang",
+      "Chelsea Schelly",
+      "Nelly Aghaei"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-11-01",
+    "publication_date_clean": "2026-11-01",
+    "volume": "141",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104973",
+    "url": "https://doi.org/10.1016/j.erss.2026.104973",
+    "collection_date": "2026-09-21",
+    "grade": "B",
     "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
@@ -6489,6 +7009,307 @@
     "url": "https://doi.org/10.1016/j.erss.2026.104960",
     "collection_date": "2026-09-14",
     "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "What moves people to act for nature and against wind farms? Elicitors and consequences of anger and being moved in the context of environmental protests",
+    "authors": [
+      "Helen Landmann",
+      "Mariam Katsarava",
+      "Anette Rohmann",
+      "Robert Gaschler"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104970",
+    "url": "https://doi.org/10.1016/j.erss.2026.104970",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Energy Research & Social Science",
+    "title": "Distributional implications of selection into heating-system retrofit subsidies",
+    "authors": [
+      "Selina Clarke",
+      "Jouni Räihä",
+      "Hanna-Liisa Kangas"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-01",
+    "publication_date_clean": "2026-10-01",
+    "volume": "140",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.erss.2026.104958",
+    "url": "https://doi.org/10.1016/j.erss.2026.104958",
+    "collection_date": "2026-09-21",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "The Effects of Online Harassment of Scientists on Bystander Scientists",
+    "authors": [
+      "Jana Laura Egelhofer",
+      "Christina Seeger",
+      "Alice Binder"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-18T05:27:06Z",
+    "publication_date_clean": "2026-09-17",
+    "volume": "",
+    "issue": "",
+    "abstract": "Scientists who share research on social media increasingly face harassment, which is visible to many bystanders, including other scientists. We report a preregistered experiment testing how exposure to such harassment affects bystander scientists ( N = 846). Drawing on social identity approaches, we argue that bystander scientists may react similarly to directly targeted scientists. Results show that exposure to harassment increases anxiety and risk perceptions but does not reduce willingness to engage in science communication; it slightly increases perceived trustworthiness of targeted scientists. Presumed influence shapes some of these effects. Shifting attention to bystanders, we highlight broader societal consequences of harassment against scientists.",
+    "doi": "10.1177/10755470261481083?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261481083?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-21",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Dreamy Stacks: Digital Public Infrastructure, Futurity, and Failure in Startup India",
+    "authors": [
+      "Sandeep Mertia"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-18T01:48:39Z",
+    "publication_date_clean": "2026-09-17",
+    "volume": "",
+    "issue": "",
+    "abstract": "This article develops the concept of Dreamy Stacks to analyze how India's Digital Public Infrastructures (DPIs) and the Startup India program are reconfiguring relations between the state, citizens, and techno-capitalism. It shows how the post-Aadhaar state increasingly renders itself as a stack of data layers that promises digital and financial inclusion, interoperability, and innovation, even as these infrastructures remain materially fragmented, failure-prone, and dependent on public subsidy. Through a relational and intermedial ethnographic approach to data infrastructures, the article maps how the promise of DPIs depends on tethering data-driven governance to entrepreneurial aspiration. Drawing on long-term ethnographic research in Rajasthan, it examines how “Rajasthan Stack”—a regional analogue of India Stack—is imagined, circulated, and only partially materialized as a set of Application Programming Interfaces and platforms. Attending to the disjuncture between promissory visions and lived experience, the article shows how the state-driven expansion of start-ups, incubators, and data centers in small cities re-spatializes global techno-futurity beyond metropolitan centers. Challenging universalist accounts that privilege scale, seamless platforms, formal markets, and stable data-value relations, Dreamy Stacks names a coeval, speculative, state-mediated architecture of futurity and failure through which global techno-capitalism is made unevenly, partially, and in practice.",
+    "doi": "10.1177/01622439261485054?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261485054?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-21",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Valuation and Its Problems: Economics and Markets for Environmental Concerns and Their Failure",
+    "authors": [
+      "Kristin Asdal",
+      "Einar Lie"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-18T01:47:58Z",
+    "publication_date_clean": "2026-09-17",
+    "volume": "",
+    "issue": "",
+    "abstract": "Science and Technology Studies scholars have in recent years made a major impact on the conjoining field of Social Studies of Markets, demonstrating how economics is performative and actively takes part in shaping markets. Research has shown how markets emerge through processes of economization, organization, and design, in which economic theory becomes inscribed through devices and material arrangements. But economics do not always perform and often fail to be realized. A prominent example of a grand failure is the idea of handling environmental problems by ascribing a price to nature. Despite being seen as the perfect theoretical answer and spearheaded by economists, market prices that reflect the value of nature are rarely realized. To understand such failures, this paper suggests a more relational approach than that offered by the predominantly realization-oriented performativity paradigm. This is to better observe that there is more than one version of economics and economization and how different “versions of economization” may compete and conflict. To enable this move, the analysis turns the attention beyond the organization of markets alone and toward other organizational forms, namely bureaucracy and public administration as key sites for the enactment of markets and the contestation over economics.",
+    "doi": "10.1177/01622439261470136?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261470136?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-21",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies",
+      "STS",
+      "valuation"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Do parties respond to voters on environmental issues and are responses responsive?",
+    "authors": [
+      "Nathan Fioritti"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-16",
+    "publication_date_clean": "2026-09-16",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2721055",
+    "url": "https://doi.org/10.1080/09644016.2026.2721055",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Affective divisions and climate policy polarization",
+    "authors": [
+      "Hanna Bäck",
+      "Royce Carroll",
+      "Emma Renström",
+      "Alexander Ryan"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-16",
+    "publication_date_clean": "2026-09-16",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2731596",
+    "url": "https://doi.org/10.1080/09644016.2026.2731596",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [
+      "polarization"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Commercial entanglements and online visibility: University priorities and the making of scientific legitimacy",
+    "authors": [
+      "Alexis Walker",
+      "Hanna Goldberg"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-16T03:15:11Z",
+    "publication_date_clean": "2026-09-15",
+    "volume": "",
+    "issue": "",
+    "abstract": "Universities in many parts of the world now encourage faculty to patent inventions, launch start-ups, and promote their work via online platforms. Through commercialization support and the inclusion of social media metrics in tenure reviews, they have cultivated forms of scientific life oriented toward market ties and Internet visibility. Technology transfer offices support the development of discoveries from academic labs into faculty-led ventures and (often exclusive) licensing partnerships—as in the case of epigenetic age tests examined here. The paper traces how these research tools were transformed into consumer products promoted on social media by researchers at elite US universities. In doing so, it shows how university policies and programs enable forms of scientific authority rooted in public performance and market traction. These developments are reshaping academic legitimacy, as forms of authority most easily amplified online gain institutional validation through engagement and impact metrics—often promoting charismatic, entrepreneurial, gendered performances of expertise.",
+    "doi": "10.1177/09636625261475481?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261475481?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-21",
+    "grade": "A",
+    "keyword_matches": [
+      "STS",
+      "expertise"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Communicating scientific uncertainty: Exploring science journalists’ understandings, challenges, and strategies",
+    "authors": [
+      "Finja Isabel Augsburg",
+      "Fabian Prochazka",
+      "Eva Thomm",
+      "Johannes Bauer"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-16T03:36:31Z",
+    "publication_date_clean": "2026-09-15",
+    "volume": "",
+    "issue": "",
+    "abstract": "Science journalists are central intermediaries in communicating the uncertainties of science to the public. Socio-scientific issues like COVID-19 and climate change highlight the importance of addressing uncertainties to support informed decision-making while underscoring the complexities involved. Based on 13 semi-structured interviews with science journalists, this study links their conceptual understanding of scientific uncertainty to the strategies and challenges they face in communicating it. Results suggest that journalists primarily see uncertainty as the inability of science to provide simple answers to complex questions due to limited or conflicting evidence. They emphasize uncertainty’s dual role: it helps explain how science generates knowledge and fosters trust when communicated effectively, yet it also causes confusion, frustration, and loss of trust if communicated poorly. Maintaining trust in science and journalism thus emerges as the meta-challenge in reporting uncertainty, for which journalists describe nine strategies, including contextualizing uncertainty and prioritizing realistic assessments over amplifying controversy.",
+    "doi": "10.1177/09636625261484418?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261484418?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-21",
+    "grade": "A",
+    "keyword_matches": [
+      "scientific uncertainty",
+      "STS",
+      "climate change",
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Green party vote shares and public support for climate policy",
+    "authors": [
+      "Justin Melnick"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-15",
+    "publication_date_clean": "2026-09-15",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2732571",
+    "url": "https://doi.org/10.1080/09644016.2026.2732571",
+    "collection_date": "2026-09-21",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Understanding the Effects of Message Complexity and Epistemic Uncertainty on Attitudinal, Cognitive, and Behavioral Responses to Messages About Microplastics",
+    "authors": [
+      "Zhuling Liu",
+      "Xiaodong Yang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-15T05:23:03Z",
+    "publication_date_clean": "2026-09-14",
+    "volume": "",
+    "issue": "",
+    "abstract": "This study examined how message complexity and epistemic uncertainty affect attitudes toward science, information overload, and behavioral intention using a 2 × 2 factorial design. Although no main effects were detected, the interaction between complexity and uncertainty on information overload depended on intolerance of uncertainty (IU): uncertainty reduced information overload for low-IU individuals but increased it for high-IU individuals. Moreover, the conditional indirect effect of uncertainty on behavioral intention through information overload was significant under high message complexity at specific levels of IU. When message complexity was low, this indirect effect was not significant at any level of IU.",
+    "doi": "10.1177/10755470261484088?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261484088?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-09-21",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Is Deep-Sea Mining the New “Green Frontier”? A Corpus-assisted Discourse Analysis of Arguments on the Climate Crisis and Deep-Sea Mining in the Pacific",
+    "authors": [
+      "Nicolai Skiveren",
+      "Pascale Hatcher",
+      "Luisa Leo Tupuana'i",
+      "Geoffrey Ford"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-14",
+    "publication_date_clean": "2026-09-14",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2723746",
+    "url": "https://doi.org/10.1080/17524032.2026.2723746",
+    "collection_date": "2026-09-21",
+    "grade": "A",
+    "keyword_matches": [
+      "climate crisis"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "The Earth Intoxicated on Imagination",
+    "authors": [
+      "Shubhakarini K S"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-09-14",
+    "publication_date_clean": "2026-09-14",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2731597",
+    "url": "https://doi.org/10.1080/09644016.2026.2731597",
+    "collection_date": "2026-09-21",
+    "grade": "C",
     "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
@@ -36067,26 +36888,6 @@
     "abstract": "This article considers how the widespread use of camera surveillance systems in dairy farming affects engagements between farmers and cows. While literatures on visual surveillance often cast monitoring technologies as cold and mechanical tools for enabling and reinforcing hegemonic power relationships, our research leads us to question this reductive formulation. Drawing on ethnographic research with dairy farmers, as well as archival materials from agricultural presses in the United Kingdom and France, we argue that applying camera surveillance on dairy farms extends emotional investments and affinities between farmers and cows. Challenging dominant critiques of visual surveillance, we consider cows as subjects and not just objects of the camera gaze and bring attention to the sensorial experiences of farmers relying on cameras as vital tools. We explore how experiencing visual images of cows, particularly real-time images displayed on computers and smartphones, engenders new sensations among farmers; and we speculate about how cows’ own material realities and sensory experiences of being farmed may change with the advent of remote-sensing cameras. Our study offers an innovative way of looking at human-animal relationships in agriculture, one focused on the evocative and sensorial experiences of remote visual monitoring, from human and nonhuman animal perspectives.",
     "doi": "10.1177/01622439241280177?ai=2b4&mi=ehikzz&af=R",
     "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241280177?ai=2b4&mi=ehikzz&af=R",
-    "collection_date": "2026-07-06",
-    "grade": "A",
-    "keyword_matches": [],
-    "source_type": "rss",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science, Technology, & Human Values",
-    "title": "What's in the Blood? Temporalities at Play in Diet-Related Risk Management Testing Practices",
-    "authors": [
-      "Myriam Durocher"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-09-17T07:29:23Z",
-    "publication_date_clean": "2024-09-17",
-    "volume": "",
-    "issue": "",
-    "abstract": "In this paper, I look at two different sets of practices that are part of the risk management apparatus in place in Québec & Canada to apprehend and control risks associated with food consumption. More specifically, I contrast diabetes and chemical contaminants risk management testing practices, so as to compare how both frame and approach risks, in a context where recent research in social sciences, epigenetics and environmental sciences increasingly points to “environmental” pathways of disease causation while many chronic conditions remain highly individualized in public and health discourses. The analysis pays close attention to the different temporalities discursively created, considered, and neglected in these practices in order to understand how risk is approached and worked on. This highlights the power relations that inform how we care (or not) for (certain) bodies, inflecting in particular ways their—uneven—becomings. I argue that the Canadian biotechnological apparatus of testing practices meant to apprehend and control diet-related risks contributes to foreclosing the temporalities of health and illness considered and acted upon. As such, the apparatus contributes to (re)producing inequalities, here mostly health related ones, as well as creating differentiated biological materialities.",
-    "doi": "10.1177/01622439241283058?ai=2b4&mi=ehikzz&af=R",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241283058?ai=2b4&mi=ehikzz&af=R",
     "collection_date": "2026-07-06",
     "grade": "A",
     "keyword_matches": [],
