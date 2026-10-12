@@ -321,6 +321,353 @@
   },
   {
     "journal_name": "Ecological Economics",
+    "title": "Driving impact? How imperfect displacement shapes heterogeneous rebound in carsharing",
+    "authors": [
+      "Tamar Meshulam",
+      "Jozef Cossey",
+      "David Font Vivanco",
+      "Tamar Makov"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109256",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109256",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Benefit-principle accounting of CO₂ emissions in the global textile and clothing value chain",
+    "authors": [
+      "Lila Ballav Bhusal"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109265",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109265",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Accounting for the risk of restoration failure in ecosystem service valuation",
+    "authors": [
+      "Moritz Ptacek",
+      "Terese Venus",
+      "Fabian Frick",
+      "Johannes Sauer"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109254",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109254",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [
+      "ecosystem",
+      "valuation"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Ethics, economics, and environmental stewardship: Religious moral frameworks as constraints for rational policy choice",
+    "authors": [
+      "Nir Becker",
+      "Frank A. Ward"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109263",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109263",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Trade-offs and transitions: A scoping review of structural and discursive power in post-growth interventions",
+    "authors": [
+      "Christopher Martin",
+      "Hiroe Ishihara"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109259",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109259",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Is Europe a laggard? Comparing the EU and the US using an interdisciplinary well-being framework",
+    "authors": [
+      "Annegeke Jansen",
+      "Ranran Wang",
+      "Jan-Emmanuel De Neve",
+      "Paul Behrens",
+      "Rutger Hoekstra"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109238",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109238",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "An agenda for plastics crisis research in the synthetic age",
+    "authors": [
+      "Borja Nogué-Algueró",
+      "Richard York",
+      "Stefano B. Longo",
+      "Ekaterina Chertkovskaya",
+      "Patrick Trent Greiner"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109264",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109264",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Spatial perspective on perceived fairness of climate-related fuel tax increases",
+    "authors": [
+      "Tikli Loivaranta",
+      "Piia Lundberg",
+      "Jukka Käyhkö"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109262",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109262",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Understanding conflict in protected areas: integrating justice considerations with economic perspectives",
+    "authors": [
+      "Ester Rita Lucia Sanna",
+      "Marta Meleddu"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109270",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109270",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Redistribution meets decarbonisation: Exploring universal basic income through an ecological macroeconomic integrated assessment model",
+    "authors": [
+      "Iñaki Arto",
+      "María Victoria Román",
+      "Simone D'Alessandro",
+      "Kurt Kratena",
+      "Guilherme Spinato Morlin",
+      "Manuel Tomás",
+      "Paola López-Muñoz",
+      "Ignacio Cazcarro",
+      "Ole van Allen"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109252",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109252",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Turning climate concern into climate courage: Female parliamentarians, environmental taxation and SDG13",
+    "authors": [
+      "Asif Saeed",
+      "Samreen Hamid",
+      "Ghulame Rubbaniy",
+      "Thanarerk Thanakijsombat"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109250",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109250",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "N-LAS-IAM: Climate change in a balance-of-payments framework",
+    "authors": [
+      "Wellington Santos de Amorim",
+      "Leonardo Flauzino de Souza",
+      "Marcelo C. Pereira"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109253",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109253",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Can natural capital accounting bring accountability for nature?",
+    "authors": [
+      "Rowan Alden Hull",
+      "Maree Fudge",
+      "Claire A. Horner",
+      "Leon A. Barmuta",
+      "Menna E. Jones",
+      "Elizabeth Pinkard",
+      "Emma tebrakunna country and Lee",
+      "Peat Leith"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109258",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109258",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Know its worth? Factors affecting the social acceptability of water reuse: A mixed methods planned behavior model",
+    "authors": [
+      "Pierre Rebesco",
+      "Mikaël Akimowicz"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109267",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109267",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Reassessing REDD+ project effectiveness using multiple synthetic control methods: Evidence on additionality and location bias in the Brazilian Amazon",
+    "authors": [
+      "Etienne Wijler",
+      "Marina Friedrich",
+      "Thales A.P. West"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-02-01",
+    "publication_date_clean": "2027-02-01",
+    "volume": "252",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109237",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109237",
+    "collection_date": "2026-10-12",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
     "title": "Indiscriminate barriers: The trade effects of due diligence policies in global timber markets",
     "authors": [
       "Valentin Mathieu",
@@ -2864,6 +3211,142 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Global Environmental Change",
+    "title": "Cross border consequences of responses to climate change: Risks and opportunities",
+    "authors": [
+      "Nathaniel Mason",
+      "Jodie Keane",
+      "Mark Miller",
+      "Nicholas P. Simpson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103245",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103245",
+    "collection_date": "2026-10-12",
+    "grade": "B",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Compound climatic extreme events amplify food insecurity",
+    "authors": [
+      "Weilu Wang",
+      "Xinyuan Cao",
+      "Shaobing Peng",
+      "Lewis H. Ziska",
+      "William J. Davies",
+      "Kees Jan van Groenigen",
+      "Bin Wang",
+      "Deli Liu",
+      "Alencar J. Zanon",
+      "Ke Liu",
+      "Fei Wang",
+      "Longlong Xia",
+      "Bin Wang",
+      "Feng Zhang",
+      "Jinfeng Chang",
+      "Puyu Feng",
+      "Daniel Forster",
+      "Carla Ferreira",
+      "Narasinha Shurpali",
+      "Xiaogang Yin",
+      "Jin Zhao",
+      "Weiyang Zhang",
+      "Hao Zhang",
+      "Lijun Liu",
+      "Fulu Tao",
+      "Nanyan Deng",
+      "Jianchang Yang",
+      "Matthew Tom Harrison"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103248",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103248",
+    "collection_date": "2026-10-12",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Geopolitical fragmentation and the green energy transition: systemic reconfiguration across energy and critical metal markets",
+    "authors": [
+      "Savaş Tarkun",
+      "Şerife Akıncı Tok"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103241",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103241",
+    "collection_date": "2026-10-12",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Weeds as teachers on country: Management through seasonal story calendars",
+    "authors": [
+      "Crystal Arnold"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103243",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103243",
+    "collection_date": "2026-10-12",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Global Environmental Change",
+    "title": "Is it (socially) contagious? Capturing spatial-temporal trends of pro-environmental gardening using hazard models",
+    "authors": [
+      "Claire Doll",
+      "Sharon Koitut",
+      "Michael Burton",
+      "Curtis Rollins"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-12-01",
+    "publication_date_clean": "2026-12-01",
+    "volume": "101",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.gloenvcha.2026.103242",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103242",
+    "collection_date": "2026-10-12",
+    "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Ecological Economics",
     "title": "The impact of climate on Indian households' living costs",
     "authors": [
@@ -4158,6 +4641,121 @@
     "url": "https://doi.org/10.1016/j.erss.2026.104973",
     "collection_date": "2026-09-21",
     "grade": "B",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Why research on science communication needs more meta-analyses",
+    "authors": [
+      "Niels G. Mede",
+      "Mike S. Schäfer",
+      "Elisa Tedaldi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-09T10:43:30Z",
+    "publication_date_clean": "2026-10-09",
+    "volume": "",
+    "issue": "",
+    "abstract": "Research on science communication has expanded and diversified. Correspondingly, an increasing number of literature reviews, handbooks, and bibliometric studies have taken stock of the field’s accumulated knowledge. However, it is still difficult to identify robust, consolidated answers to key questions on science communication—answers that may help scholars, practitioners, and decision-makers. Meta-analyses—the statistical aggregation of empirical results across multiple studies to determine average effect sizes—can provide some of those answers, complementing existing knowledge syntheses and addressing their shortcomings. Yet, meta-analyses in research on science communication are rare, whereas other disciplines are much closer to establishing a culture of meta-analyses and demonstrate the usefulness of meta-analyses for specific aspects of science communication research within and beyond our discipline. We therefore propose a meta-analytical research agenda of science communication scholarship and argue that it will increase the impact of our field in the social sciences and society.",
+    "doi": "10.1177/09636625261489946?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261489946?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-10-12",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "A Job Demands-Resources Perspective on Science Communication: How Public Engagement Shapes Scientist Communicators’ Well-Being",
+    "authors": [
+      "Anthony Dudo",
+      "Josh T. L. Anderson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-08T01:03:38Z",
+    "publication_date_clean": "2026-10-08",
+    "volume": "",
+    "issue": "",
+    "abstract": "Scientists are increasingly expected to engage public audiences, yet little is known about how this work shapes their well-being. Drawing on semi-structured interviews with scientist communicators and guided by the Job Demands-Resources (JD-R) model, this study examines demands and resources scientists associate with public communication. Findings reveal that demands including time pressure, harassment, reputational risk, and unsupportive institutional practices substantially outweigh available resources, including training and institutional support. Evidence of burnout and disengagement suggests these conditions are unsustainable. We discuss implications for science communication infrastructure, pedagogy, and the utility of the JD-R model as an organizing framework for this inquiry.",
+    "doi": "10.1177/10755470261489537?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261489537?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-10-12",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "public engagement"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "Big AI-Based Mathematics and the Redistribution of Epistemic Labor",
+    "authors": [
+      "Michael Friedman",
+      "Kati Kish Bar-On"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-08T04:28:06Z",
+    "publication_date_clean": "2026-10-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "The use of AI-based technologies is reshaping mathematics in ways that extend but also strain the classic Big Science analogy. As in Big Science, the new AI-based mathematical work relies on concentrated computation, specialized and hierarchical teams, sociopolitical justification, and large-scale collaboration. But AI also changes how epistemic labor is distributed and attributed: Systems now generate constructions, explore proof spaces, and formalize arguments, prompting mathematicians to renegotiate how credit, authority, and accountability are assigned across hybrid human–machine assemblages. This reconfiguration redistributes epistemic authority toward corporate labs and elite hubs that control models, data, compute, and narrative, thereby gating which problems appear tractable and legitimate. Analyzing four dimensions (resource concentration, division of labor, political embedding, and collaboration), and examining recent cases, we argue that AI-based mathematics constitutes a novel sociotechnical regime we call ‘Big AI Mathematics’, in which truth claims are increasingly mediated by opaque pipelines and institutional power, making the future of mathematical knowledge as much a governance problem as an epistemic one.",
+    "doi": "10.1177/03063127261482050?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261482050?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-10-12",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Police Narratives on Ethical Issues of Big Data: A Sociotechnical Approach",
+    "authors": [
+      "Laura Neiva"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-07T06:33:23Z",
+    "publication_date_clean": "2026-10-07",
+    "volume": "",
+    "issue": "",
+    "abstract": "Despite increasing integration of Big Data into law enforcement globally, few studies have examined how police officers construct ethical narratives around it. Drawing on Science and Technology Studies (STS), this article adopts a sociotechnical perspective to analyze how police officers in Portugal engage with ethical discourse on Big Data in policing and criminal investigations. Based on thirty-four interviews with members of the Judiciary Police (Polícia Judiciária) and the Public Security Police (Polícia de Segurança Pública), the article reveals how ethical considerations are strategically mobilized to legitimize Big Data adoption while minimizing external scrutiny. Though officers acknowledge risks, such as privacy violations and threats to human rights, these concerns are framed in ways that shift responsibility to lawmakers and information technology professionals. Furthermore, public engagement is not positioned as a tool for democratic deliberation but as a performative mechanism to secure societal acceptance of Big Data policing. These narratives exemplify a broader phenomenon of “ethics washing” where ethical discourse functions as a strategic tool to reinforce institutional legitimacy and facilitate technological adoption. By conceptually extending the notions of ethics washing and performativity to the field of policing, based on an empirical example, this article contributes to STS research on technology ethics and Big Data.",
+    "doi": "10.1177/01622439261487951?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261487951?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-10-12",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies",
+      "STS",
+      "public engagement",
+      "responsibility"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Legitimations of Consumer Purchases in Charitable Media: A Critical Discourse Analysis of Fundraising Appeals for Clean Water",
+    "authors": [
+      "Elaine Xu"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-06",
+    "publication_date_clean": "2026-10-06",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2741832",
+    "url": "https://doi.org/10.1080/17524032.2026.2741832",
+    "collection_date": "2026-10-12",
+    "grade": "A",
     "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
@@ -38209,47 +38807,6 @@
     "keyword_matches": [
       "expertise"
     ],
-    "source_type": "crossref",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "Introduction: participatory knowledge co-production",
-    "authors": [
-      "Jennifer Carrera",
-      "Les Levidow"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-10-08",
-    "publication_date_clean": "2024-10-08",
-    "volume": "34",
-    "issue": "1",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2410718",
-    "url": "https://doi.org/10.1080/09505431.2024.2410718",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "crossref",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "Clouded relationality",
-    "authors": [
-      "Dong Xia"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-10-08",
-    "publication_date_clean": "2024-10-08",
-    "volume": "34",
-    "issue": "2",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2411784",
-    "url": "https://doi.org/10.1080/09505431.2024.2411784",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
     "source_type": "crossref",
     "crossref_enriched": true
   },
