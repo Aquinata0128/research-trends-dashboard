@@ -1,6 +1,216 @@
 [
   {
     "journal_name": "Ecological Economics",
+    "title": "Government positions and climate change: paradigmatic conflict versus consensus in environmental performance",
+    "authors": [
+      "Detlef Jahn"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109284",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109284",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "climate change"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Do the trophic impacts which jaguars have on wildlife communities matter to farmers? Diverging farmer preferences for jaguar-associated benefits and costs",
+    "authors": [
+      "Alejandro M. Bellon"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109283",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109283",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "The power of tolerance: First environmental violation exemption and air quality",
+    "authors": [
+      "Shiyi Chen",
+      "Juan Lu",
+      "Jidan Yao"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109291",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109291",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Mapping the beyond GDP field: Canonical concentration and insular invisibility in three decades of multidimensional prosperity measurement (1995–2026)",
+    "authors": [
+      "Emilio Bonal",
+      "Serafin Corral"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109290",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109290",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Economic impacts of pasture degradation at the municipal level: Evidence from Minas Gerais, Brazil",
+    "authors": [
+      "Amanda Camargos de Moura",
+      "Diogo Nepomuceno Cosenza",
+      "Rafael Faria de Abreu Campos",
+      "José Marinaldo Gleriani",
+      "Talles Bhering de Matos",
+      "Vivian Silva Santos",
+      "Mikaely Vasconcelos Paulo"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109286",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109286",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Enjoying more years of good life while reducing resource use and emissions? A global panel analysis 1990–2019",
+    "authors": [
+      "Helmut Haberl",
+      "Juan Antonio Duro",
+      "Benedikt Grammer",
+      "Alejandro Perez-Laborda",
+      "Paul E. Brockway",
+      "Matthew K. Heun",
+      "Shonali Pachauri",
+      "Claudia Reiter",
+      "Erich Striessnig",
+      "Fridolin Krausmann",
+      "Jan Streeck",
+      "Dominik Wiedenhofer"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109292",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109292",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Ecological macroeconomics models? Caveat emptor",
+    "authors": [
+      "Lieke A. Melsen",
+      "Andrea Saltelli"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109278",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109278",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Estimating economy-wide mineral commodity consumption using hybrid input-output modeling: a case study of fluorspar",
+    "authors": [
+      "Miriam Stevens",
+      "Elisa Alonso",
+      "David Pineault",
+      "Nedal Nassar",
+      "Shweta Singh"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109285",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109285",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
+    "title": "Who pays for decarbonizing homes?",
+    "authors": [
+      "Teresa Lackner",
+      "Stefan Nabernegg"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-03-01",
+    "publication_date_clean": "2027-03-01",
+    "volume": "253",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1016/j.ecolecon.2026.109277",
+    "url": "https://doi.org/10.1016/j.ecolecon.2026.109277",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Ecological Economics",
     "title": "Beyond circularity: Topological and temporal limits of the circular economy",
     "authors": [
       "Nicolas Merveille"
@@ -2316,6 +2526,74 @@
     "doi": "10.1016/j.respol.2026.105642",
     "url": "https://doi.org/10.1016/j.respol.2026.105642",
     "collection_date": "2026-10-26",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
+    "authors": [
+      "Pelle Berkhout",
+      "Anne Rainville",
+      "Matthijs Janssen",
+      "Koen Frenken"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "56",
+    "issue": "1",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105657",
+    "url": "https://doi.org/10.1016/j.respol.2026.105657",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Beyond the clock: Submission timing and research impact",
+    "authors": [
+      "Guangyao Zhang",
+      "Lili Wang",
+      "Wencan Tian",
+      "Xianwen Wang"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "56",
+    "issue": "1",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105645",
+    "url": "https://doi.org/10.1016/j.respol.2026.105645",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Research Policy",
+    "title": "Science-Industry Collaborations over the Business Cycle: Evidence from European Regions",
+    "authors": [
+      "Aurelien Quignon"
+    ],
+    "publication_year": 2027,
+    "publication_date": "2027-01-01",
+    "publication_date_clean": "2027-01-01",
+    "volume": "56",
+    "issue": "1",
+    "abstract": "",
+    "doi": "10.1016/j.respol.2026.105643",
+    "url": "https://doi.org/10.1016/j.respol.2026.105643",
+    "collection_date": "2026-11-02",
     "grade": "C",
     "keyword_matches": [],
     "source_type": "crossref",
@@ -7108,6 +7386,505 @@
     "crossref_enriched": true
   },
   {
+    "journal_name": "Science and Public Policy",
+    "title": "Path dependence and digital-economy gaps in South Africa’s science, technology and innovation indicator system",
+    "authors": [
+      "Portia Raphasha",
+      "Anastassios Pouris"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-31",
+    "publication_date_clean": "2026-10-31",
+    "volume": "",
+    "issue": "",
+    "abstract": "Abstract National science, technology and innovation (STI) indicator systems are expected to track the economies they measure. This article demonstrates that they may not and explains why. This study benchmarks South Africa’s national STI indicator architecture against fifty-eight indicators recurring across twenty-four international knowledge-based and digital economy frameworks over four reporting phases (2002–2025). Coverage is strongly polarised: research and development investment and knowledge creation reach 75% or higher coverage, whereas digital technology use and digital public services fall below 10%, yielding weighted coverage of 41.4%. Three successive structural transitions across four architectural phases, including adoption of the European Innovation Scoreboard, did not change this distribution. Most critical-tier gaps have feasible data sources, pointing to coordination and mandate constraints not general data scarcity. The article develops a measurement governance diagnostic for assessing whether framework adoption in other national systems improves measurement content or produces only formal conformity.",
+    "doi": "10.1093/scipol/scag092",
+    "url": "https://doi.org/10.1093/scipol/scag092",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science and Public Policy",
+    "title": "Understanding regulatory preferences for GMOs and nanotechnology in USA, Israel, and Germany",
+    "authors": [
+      "Shira Bukchin-Peles",
+      "Stefan Wurster",
+      "Ronit Justo-Hanani",
+      "Felix Kurz"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-31",
+    "publication_date_clean": "2026-10-31",
+    "volume": "",
+    "issue": "",
+    "abstract": "Abstract Emerging technologies such as genetically modified organisms (GMOs) and nanotechnology are widely regarded as central to future economic growth, social progress, and environmental sustainability, particularly in industrialized countries. Yet they also raise concerns about potential health, environmental, and safety risks. This study investigates public regulatory preferences for GMOs and nanotechnology in the USA, Israel, and Germany, based on a cross-national online panel survey. We identify notable differences in attitudes: participants strongly favour hard regulation for GMOs, while support for similar regulation of nanotechnology is significantly weaker. These differences reflect both perceived risk levels and broader national contexts. Our findings underscore the need for regulatory approaches that are both technology-specific and context-sensitive, recognizing that public acceptance is shaped by the cultural and institutional environments in which technologies are introduced.",
+    "doi": "10.1093/scipol/scag091",
+    "url": "https://doi.org/10.1093/scipol/scag091",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "sustainability"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science and Public Policy",
+    "title": "When R&D workforce expansion does not translate into innovation capability: evidence from Türkiye’s Technopark ecosystem",
+    "authors": [
+      "Erşan Ciğerim"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-31",
+    "publication_date_clean": "2026-10-31",
+    "volume": "",
+    "issue": "",
+    "abstract": "Abstract Many emerging economies use science, technology and innovation policy to expand R&D personnel, but larger research workforces do not necessarily generate stronger innovation capability. This article examines this problem through Türkiye as an illustrative emerging-economy case, where R&D personnel and researcher numbers have grown rapidly while selected innovation-output indicators continue to signal unresolved capability gaps. Drawing on comparative secondary indicators and semi-structured interviews with 38 managers and engineers in eight technoparks and two R&D centres, the study uses absorptive capacity to interpret why headcount growth may produce uneven returns. Interviews point to four recurring constraints: practical project competence, digital capability, mid-career researcher retention and access to technopark knowledge flows. For science and public policy, the central implication is that workforce-expansion targets need complementary instruments that build and retain qualitative absorptive capacity in emerging-economy innovation systems.",
+    "doi": "10.1093/scipol/scag087",
+    "url": "https://doi.org/10.1093/scipol/scag087",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "ecosystem"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science and Public Policy",
+    "title": "The strategic rhetorics of research and technology organizations (RTOs): a comparative analysis of dominant discourses",
+    "authors": [
+      "Shohreh Nasri",
+      "Sepehr Ghazinoory"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-31",
+    "publication_date_clean": "2026-10-31",
+    "volume": "",
+    "issue": "",
+    "abstract": "Abstract Research and Technology Organizations (RTOs) are key actors in innovation systems connecting science, industry, and government. This study examines their discursive identity and institutional logics, addressing a gap in literature on how RTOs construct meaning and legitimacy. Using discourse analysis, it compares 19 RTOs from different countries and institutional contexts based on mission, vision, and strategic documents. The analysis examines identity, themes, legitimacy, and strategic orientations. Findings identify four dominant discourse types: (1) industrial competitiveness and applied innovation, (2) social welfare and sustainability, (3) technological governance and sovereignty, and (4) frontier science and scientific excellence. Drawing on the extensive literature reviewed and some comparative evidence highlighting orchestration roles, these findings suggest a broader evolution toward RTOs as network actors within innovation ecosystems across institutional contexts. Overall, it highlights the value of discursive and institutional perspectives for understanding RTO roles and legitimacy within the broader context of countries’ innovation development models.",
+    "doi": "10.1093/scipol/scag093",
+    "url": "https://doi.org/10.1093/scipol/scag093",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "sustainability",
+      "ecosystem"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Social Studies of Science",
+    "title": "The Nonhuman Unchained",
+    "authors": [
+      "Emma Dahlin",
+      "Steve Woolgar"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-30T11:12:17Z",
+    "publication_date_clean": "2026-10-30",
+    "volume": "",
+    "issue": "",
+    "abstract": "This article stages a methodological provocation. By experimentally voicing a nonhuman participant – an AI system in clinical practice – we explore what happens when nonhumans are allowed to interfere with how social scientific accounts are generated. What is at stake in this provocation is not whether machines can or should be granted a voice, but whether social scientific methods are willing to be unsettled by the nonhumans they already claim to include. The CyberKnife responds, interrupts, and irritates the account, unsettling the methodological arrangement through which it is made to speak. These contestations do not merely expose failures in technical performance; they forcibly reveal ways in which knowledge itself is stitched together from unruly encounters, failed translations and messy negotiations.",
+    "doi": "10.1177/03063127261496296?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03063127261496296?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Scalar Visions of Race: The Durability of Race Across Perceptual Scales in American Dermatology",
+    "authors": [
+      "Yesmar Semaj Oyarzun"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-30T01:21:45Z",
+    "publication_date_clean": "2026-10-30",
+    "volume": "",
+    "issue": "",
+    "abstract": "How to understand and attend to material differences in race and skin color in practice is a salient issue in American dermatology. For dermatologists, it is important to understand and articulate the material bases for differences in skin color, especially as they attempt not to reproduce disparities in care and attention along racial lines. In this paper, I present three scales through which dermatologists understand skin color and race: the clinical scale, the microscopic scale, and the geographic scale. I argue that across these scales, even as dermatologists attempt to evade talking about race explicitly, racialist logics about fundamental differences between racial groups continue to undergird the stories dermatologists tell about differences in skin color. One of the predominant ways dermatologists attempt to engage with skin color more ethically is through limiting explicitly racial language. However, I argue that these approaches can end up problematizing innate differences between people rather than problematizing the racism that produces material differences in outcomes. Moreover, I suggest that racialized narratives remain durable across perceptual scales that dermatologists shift between in their daily practices and that these narratives naturalize rather than challenge racialized differences.",
+    "doi": "10.1177/01622439261466339?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261466339?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Communication and science mediation services in French universities and research centers: When institutional reconfigurations become a way of asserting professional identity",
+    "authors": [
+      "Nicolas Brard",
+      "Elsa Poupardin"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-29T07:29:03Z",
+    "publication_date_clean": "2026-10-29",
+    "volume": "",
+    "issue": "",
+    "abstract": "This article examines how communication and science mediation services in French universities and research centers organize the public communication of science and how institutional reconfigurations affect professional identities. Based on 31 semi-structured interviews and a complementary questionnaire (n = 57) conducted in 2025, it analyzes how professionals define their roles, negotiate relationships with researchers and governance bodies, and interpret changes linked to funding, reporting, participation-oriented policies, and institutional visibility. The findings show that communication and science mediation are not merely different tasks but distinct professional identity orientations, grounded in different trajectories, values, methods, relationships to publics, and forms of legitimacy. Reconfigurations are often perceived less as a participatory turn than as processes of renaming, reporting, and adjustment. Finally, instability is incorporated differently into professional identities: communicators present adaptation as a core expertise, whereas science mediation professionals more often experience reconfigurations as threatening the specificity and public-service orientation of their work.",
+    "doi": "10.1177/09636625261497996?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261497996?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [
+      "expertise"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Public Understanding of Science",
+    "title": "Understanding how exposure to science content on social media shapes normative expectations of scientists’ communication: A social media affordances perspective",
+    "authors": [
+      "Annie Li Zhang"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-29T07:26:12Z",
+    "publication_date_clean": "2026-10-29",
+    "volume": "",
+    "issue": "",
+    "abstract": "As social media continue to shape where science is communicated and how it is consumed, this study adopts an affordances approach to advance our understanding of how audiences observe and make sense of online scientific content and evaluate science and scientists more broadly. By analyzing a two-wave survey ( N = 878) conducted in February and March 2025, this study reveals that online science content exposure is associated with increased normative expectations across a range of scientists’ communication behaviors, including political advocacy, warmth- and competence-oriented strategies, and public engagement. In addition, stronger expectations of competency-oriented communication and political advocacy were associated with greater trust in and vulnerability toward scientists. Political ideology was found to moderate the relationship between science observation and certain normative expectations. Findings underscore the role of social media in influencing science communication norms and (re)shaping what it means to be a trustworthy scientist in an increasingly visible and networked media environment.",
+    "doi": "10.1177/09636625261491265?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/09636625261491265?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [
+      "science communication",
+      "STS",
+      "public engagement",
+      "trust"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "The Communication Practice as a Right in Brazil: Resistance to Mercantilization/Existence in People’s Lives and Territories by Means of Socioenvironmental Educommunication",
+    "authors": [
+      "Thaís Brianezi",
+      "Gislene Moreira"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-29",
+    "publication_date_clean": "2026-10-29",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2750904",
+    "url": "https://doi.org/10.1080/17524032.2026.2750904",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Public support for net-zero climate policy packages under political party cues",
+    "authors": [
+      "Aaron Hoyle",
+      "Ekaterina Rhodes",
+      "Megan Egler"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-29",
+    "publication_date_clean": "2026-10-29",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2752535",
+    "url": "https://doi.org/10.1080/09644016.2026.2752535",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "The carbon divide: exploring economic and cultural dimensions of climate change attitudes and climate policy support in the Netherlands",
+    "authors": [
+      "Jaap van Slageren",
+      "Damion Bunders",
+      "Remko Voogd"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-29",
+    "publication_date_clean": "2026-10-29",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2752537",
+    "url": "https://doi.org/10.1080/09644016.2026.2752537",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "climate change",
+      "policy support"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science and Public Policy",
+    "title": "Understanding mission management: a multi-focal approach for mission-oriented innovation policy",
+    "authors": [
+      "Francesco Cappellano",
+      "Iacopo Gronchi",
+      "Mads Bruun Ingstrup",
+      "Steffen Korsgaard",
+      "Francesco Molica"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-29",
+    "publication_date_clean": "2026-10-29",
+    "volume": "",
+    "issue": "",
+    "abstract": "Abstract Mission-oriented innovation policy (MOIP) has emerged as a key approach to addressing complex societal challenges. Despite being widely adopted, MOIPs remain difficult to manage successfully. This paper proposes a new approach for mission management by integrating three complementary perspectives imported from strategic management—contingency theory, micro-foundations theory, and paradox theory. The paper demonstrates that each perspective illuminates a key dimension of mission management challenges while compensating for each other’s limitations. The paper further argues that mission management is best understood as a form of meta-governance under which diverse public, private, and societal actors pursue the transformative goals set within missions. This insight highlights a central normative tension in MOIP: exercising broad discretionary authority, mission managers can either entrench technocratic closure or deepen democratic ownership of the societal change sought by MOIP. The paper concludes by outlining a research agenda and implications for the practical success of mission management.",
+    "doi": "10.1093/scipol/scag078",
+    "url": "https://doi.org/10.1093/scipol/scag078",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Masokuna Llanchupi: Un Documental de Ciencia Ambiental Producido en Quechua a través de la Ética del Cuidado y en Favor de una Justicia Epistémica",
+    "authors": [
+      "Amanda Vilchez",
+      "Edwin E. Machaca",
+      "Juvenal Pumayali"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-28",
+    "publication_date_clean": "2026-10-28",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2750898",
+    "url": "https://doi.org/10.1080/17524032.2026.2750898",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Climate security narratives in transboundary river basins: the discursive politics of the Helmand River Basin",
+    "authors": [
+      "Reihane Nofeli",
+      "Hojjat Mianabadi"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-28",
+    "publication_date_clean": "2026-10-28",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2745335",
+    "url": "https://doi.org/10.1080/09644016.2026.2745335",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science Communication",
+    "title": "Conflict With Context: The Impact of Explanations of Scientific Uncertainty and Informant Differences on Responses to Conflicting Health Advice",
+    "authors": [
+      "Yanmengqian Zhou",
+      "Youzhen Su"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-27T07:48:24Z",
+    "publication_date_clean": "2026-10-27",
+    "volume": "",
+    "issue": "",
+    "abstract": "This experiment examined whether conflict explanations (informant-based, uncertainty-based, vs. none) and conflict framing (alternative vs. opposing) mitigate negative responses to conflicting health advice. Both explanations reduced perceived conflict, with informant-based explanations effective only among individuals with lower perceived knowledge. No significant effect of conflict framing was observed. Perceived conflict was subsequently associated with greater confusion, uncertainty, anger, and anxiety. Uncertainty, in turn, was more strongly associated with topic-specific attitude ambivalence, whereas anger was more strongly associated with generalized health confusion and backlash. Mediation analysis further supported several indirect effects of conflict explanations on downstream outcomes through these pathways.",
+    "doi": "10.1177/10755470261493143?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/10755470261493143?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [
+      "scientific uncertainty"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Carbon Consequentialism: Climate Technoscience and the Morality of Methane",
+    "authors": [
+      "Cameron Hu"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-27T08:33:42Z",
+    "publication_date_clean": "2026-10-27",
+    "volume": "",
+    "issue": "",
+    "abstract": "This essay examines the moral undertow of North Atlantic climate technoscience through a consideration of methane, or “natural gas.” From the late Cold War, a CO 2 -centric conception of global warming has valorized methane as a low-carbon energy resource whose extraction could secure the Earth's future. I trace this fantasy of a world-saving fossil fuel from the late 1980s to the present-day “methane crisis.” Reading documents of science and policy, I explore how dominant conventions of climate inquiry and intervention have advanced new frontiers of hydrocarbon violence—among them, US fracking. In turn, I identify a carbon consequentialism woven throughout North Atlantic climate praxis. This conceptualizes a planetary moral calculus that motivates destruction in the present through appeal to a forecast of future climatic devastation, which today's harms will supposedly preempt. As climate-altering methane now streams skyward from US fracking zones, an unusual question suggests itself: what does climate science do to the Earth?",
+    "doi": "10.1177/01622439261500634?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261500634?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "Whispers of Change: Positive Climate Communication Through ASMR and Its Potential for Climate Engagement",
+    "authors": [
+      "Janine N. Blessing",
+      "Anja Kalch"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-27",
+    "publication_date_clean": "2026-10-27",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2753498",
+    "url": "https://doi.org/10.1080/17524032.2026.2753498",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Communication",
+    "title": "African Environmental Knowledges: Challenging, Complementing, and (Re) Constituting Environmental Communication",
+    "authors": [
+      "Kundai Chirindo",
+      "Aby L. Sène"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-27",
+    "publication_date_clean": "2026-10-27",
+    "volume": "20",
+    "issue": "7",
+    "abstract": "",
+    "doi": "10.1080/17524032.2026.2746827",
+    "url": "https://doi.org/10.1080/17524032.2026.2746827",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [
+      "environmental communication"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "The Architecture of Impunity: The Presumption of State Obligation in Environmental Justice Theory",
+    "authors": [
+      "Kwabena Edusei"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-27",
+    "publication_date_clean": "2026-10-27",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2748164",
+    "url": "https://doi.org/10.1080/09644016.2026.2748164",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "environmental justice"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Environmental Politics",
+    "title": "Is public participation addressing just transition outcomes? Lithium extraction in the Chilean Maricunga salt flat",
+    "authors": [
+      "Francisca Soto-Monteverde",
+      "Camilo Cornejo-Martínez"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-27",
+    "publication_date_clean": "2026-10-27",
+    "volume": "",
+    "issue": "",
+    "abstract": "",
+    "doi": "10.1080/09644016.2026.2746197",
+    "url": "https://doi.org/10.1080/09644016.2026.2746197",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science and Public Policy",
+    "title": "One, two, many postdoctoral careers? Subjective and objective career perspectives in academia and beyond",
+    "authors": [
+      "Stefan Buechele",
+      "Guido Buenstorf",
+      "Tim Fenkner",
+      "Julian Hamann",
+      "Matthias Huegel",
+      "Johannes Koenig",
+      "Kathia Serrano-Velarde"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-27",
+    "publication_date_clean": "2026-10-27",
+    "volume": "",
+    "issue": "",
+    "abstract": "Abstract Using a convergent mixed-methods design, this study examines how labor-market conditions and subjective career experiences shape postdoctoral trajectories in Germany. We integrate employment biographies for 5,927 PhD holders with 60 interviews conducted with postdocs in experimental particle physics and modern history to trace transitions within and beyond academia. Quantitative analyses reveal strong disciplinary disparities five years after the PhD: physicists more often secure full-time, better-paid, permanent jobs outside academia, while historians face fragmented, lower-paid, and insecure paths. Qualitative findings complement these patterns: physicists anticipate and prepare for non-academic transitions, whereas historians experience ongoing uncertainty, hidden unemployment, and limited orientation toward alternatives. Across fields, fixed-term contracts compress time horizons and foster a gradual, drawn-out exit process, although strong commitment to research often delays departure. We conceptualize transitions as continuous, discipline-sensitive processes that begin early in the postdoc phase and highlight the need for employer recognition and institutional reforms to reduce precarity.",
+    "doi": "10.1093/scipol/scag089",
+    "url": "https://doi.org/10.1093/scipol/scag089",
+    "collection_date": "2026-11-02",
+    "grade": "C",
+    "keyword_matches": [
+      "STS"
+    ],
+    "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Bugs in the System: Techno-Environmental Entanglements in Ghana's Climate Data Infrastructure",
+    "authors": [
+      "James Merron",
+      "Alena Thiel"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-26T02:07:28Z",
+    "publication_date_clean": "2026-10-25",
+    "volume": "",
+    "issue": "",
+    "abstract": "This article interrogates techno-environmental interactions in Ghana's climate data infrastructure. Building on ethnographic explorations that blur the boundaries between “nature” and “apparatus” in the Environmental Monitoring System at the Ghana Space Station's remote-sensing operations, and the computation of disaster scenarios in Ghana's National Disaster Management Organisation , we illustrate how Ghanaian climate experts critically orient toward insect species both as threats to measurement apparatuses’ mainframes and as potential solutions in the form of sentinel species providing additional confidence in view of data gaps. While both cases feature imaginations of insect species as “unfitting” in a technoscientific realm and favor containment instead, we argue that the two moments of environmentalizing data practices—with their specific techno-environmental interactions—attune Ghanaian experts’ vision to the continuous unevenness of global technoscientific relations, and in particular to racialized arrangements of funding, infrastructure development, maintenance, and repair.",
+    "doi": "10.1177/01622439261491015?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261491015?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "rss",
+    "crossref_enriched": true
+  },
+  {
     "journal_name": "Environmental Communication",
     "title": "Consider it Done: Corporate Promises of Future Sustainability Targets May be Just as Persuasive as Evidence of Real Action",
     "authors": [
@@ -7132,6 +7909,31 @@
       "sustainability"
     ],
     "source_type": "crossref",
+    "crossref_enriched": true
+  },
+  {
+    "journal_name": "Science, Technology, & Human Values",
+    "title": "Coordinated Lunar Time, Space Colonialism, and the Emergence of the Moon as a Governance Object",
+    "authors": [
+      "Thomas Keating",
+      "Angelica Johansson",
+      "Graham Minenor-Matheson"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026-10-23T06:35:52Z",
+    "publication_date_clean": "2026-10-22",
+    "volume": "",
+    "issue": "",
+    "abstract": "In 2024, the US government formally proposed to establish time standards for celestial bodies around the Earth—including a distinct time reference system for the moon to be introduced by 2027 named Coordinated Lunar Time. In this paper, we consider how this proposal provides an opportune moment to draw parallels to the way temporal standards have previously been implemented on Earth, as well as opening questions about how time scales in outer space might be equitably implemented in the future. To do so, we develop two critical lenses through which the time and temporalities of the moon can be studied. First, we advance the notion of governance objects to think critically about the limits of understanding moon time as a universal standard developed by US and European actors. Second, we approach Coordinated Lunar Time as a technology of colonialization by studying the relationship between this proposal and the inception of Western timekeeping technologies by colonial states and actors. We conclude by arguing that Science and Technology Studies can offer much in critically examining emerging time standards intended for outer space territories, as well as offering critical entryways for considering how lunar time might be construed differently.",
+    "doi": "10.1177/01622439261495386?ai=2b4&mi=ehikzz&af=R",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439261495386?ai=2b4&mi=ehikzz&af=R",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [
+      "science and technology studies",
+      "colonialism"
+    ],
+    "source_type": "rss",
     "crossref_enriched": true
   },
   {
@@ -35521,6 +36323,724 @@
     "abstract": "기후위기로 폭염과 집중호우의 발생이 잦아지면서 두 위해가 같은 도시 공간에 중첩될 가능성이 커지고 있으나, 지자체의 대응은 여전히 위해별로 분리되어 있다. 본 연구의 목적은 주간 표면과열 강도와 불투수면 기반 지표유출 잠재성이 동시에 높은 구역을 식별하여 자연기반해법 적용 우선 검토구역을 찾아내는 것이다. 이를 위해 청주시를 대상으로 위성 지표면 온도에서 대기기온을 차감한 지표-대기 온도차를 표면과열 강도지표로, 불투수면 비율을 내수침수의 물리적 선행요인 지표로 각각 30m 격자 단위에서 산출하였다. 이후 두 지표가 모두 상위 5%에 해당하는 구역의 교집합을 자연기반해법 우선 검토구역으로 도출하였다. 분석 결과, 중첩 구역은 대상지 전체 면적의 약 1.8%에 해당하는 16.85㎢로 나타났으며, 오송･오창 산업단지와 중심 시가지에 집중되어 상위 5개 읍면동이 전체의 65.4%를 차지하였다. 이러한 결과는 청주시에서 표면 과열과 지표유출 잠재성이 높은 불투수면 밀집지가 특정 도시･산업공간에 집중되어 있음을보여준다. 본 연구는 지자체가 기후위기 적응대책, 도시계획, 방재계획에서 자연기반해법 적용 후보지를선별하는 데 활용가능한 공간적 의사결정 근거를 제공한다."
   },
   {
+    "journal_name": "기술혁신학회지",
+    "title": "국가 혁신역량과 지속가능발전목표(SDGs) 성과 간 관계에 관한 연구: 5P 프레임워크 기반 소득수준별 이질성 분석",
+    "authors": [
+      "조지현",
+      "Ji Hyun",
+      "박재민",
+      "Jaemin"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "945-975",
+    "keywords": [
+      "지속가능발전목표(SDGs)",
+      "5P 프레임워크",
+      "국가 혁신시스템",
+      "국가 혁신역량",
+      "소득수준",
+      "Sustainable Development Goals (SDGs)",
+      "5P Framework",
+      "National Innovation Systems",
+      "National Innovation Capacity",
+      "Income Level"
+    ],
+    "abstract_ko": "본 연구는 국가 혁신역량과 지속가능발전목표(SDGs) 성과 간 관계가 국가의 소득수준에 따라 어떻게 달라지는지 분석한다. 기존 연구에서 혁신의 역할을 평균적·보편적으로 가정하거나 특정 SDGs 또는 고소득국 중심으로 분석한 것과 달리, 본 연구는 국가 발전단계에 따른 구조적 이질성을 고려하였다. 이를 위해 2016–2022년 기간 동안 81개국을 대상으로 GII, SDG Index, World Bank 자료를 결합한 패널 데이터를 구축하고, 고정효과 모형과 소득수준별 분석을 수행하였다. 분석 결과, 혁신역량과 SDGs 성과 간 관계는 일관되지 않으며 발전단계와 5P 영역에 따라 선택적으로 나타났다. 이는 혁신이 보편적 성과 메커니즘으로 일관되게 나타나기보다, 국가의 제도적·구조적 조건에 따라 상이한 관련 양상을 보일 수 있음을 의미한다. 특히 SDGs 맥락에서 혁신과 성과 간 관계가 조건에 따라 상이하게 나타날 수 있다는 점을 제시한다.",
+    "abstract_en": "This study examines how the relationship between national innovation capacity and Sustainable Development Goal (SDG) performance varies across countries by income level. While prior research has often assumed a universal role of innovation or focused on specific SDGs or high-income countries, this study explicitly considers structural heterogeneity across stages of national development. Using panel data for 81 countries from 2016 to 2022, this study integrates the Global Innovation Index (GII), the SDG Index, and World Bank indicators, and applies a fixed-effects model with income-group analysis. The results show that the relationship between national innovation capacity and SDG performance is not uniform but varies across development stages and across domains structured around the 5P framework. Innovation is associated with SDG performance in different ways depending on structural conditions. The study also highlights that the relationship between innovation and SDG performance may be conditional rather than uniform across SDG dimensions. These findings highlight the need for differentiated innovation policy approaches in the SDG context.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399928",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 국가 혁신역량과 지속가능발전목표(SDGs) 성과 간 관계가 국가의 소득수준에 따라 어떻게 달라지는지 분석한다. 기존 연구에서 혁신의 역할을 평균적·보편적으로 가정하거나 특정 SDGs 또는 고소득국 중심으로 분석한 것과 달리, 본 연구는 국가 발전단계에 따른 구조적 이질성을 고려하였다. 이를 위해 2016–2022년 기간 동안 81개국을 대상으로 GII, SDG Index, World Bank 자료를 결합한 패널 데이터를 구축하고, 고정효과 모형과 소득수준별 분석을 수행하였다. 분석 결과, 혁신역량과 SDGs 성과 간 관계는 일관되지 않으며 발전단계와 5P 영역에 따라 선택적으로 나타났다. 이는 혁신이 보편적 성과 메커니즘으로 일관되게 나타나기보다, 국가의 제도적·구조적 조건에 따라 상이한 관련 양상을 보일 수 있음을 의미한다. 특히 SDGs 맥락에서 혁신과 성과 간 관계가 조건에 따라 상이하게 나타날 수 있다는 점을 제시한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "연구소기업 등록 취소의 유형별 분석: 출자기관 특성을 중심으로",
+    "authors": [
+      "이동호"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "977-991",
+    "keywords": [
+      "연구소기업",
+      "출자기관",
+      "등록취소",
+      "다항 로지스틱 회귀",
+      "포트폴리오 관리",
+      "Research Institute Company",
+      "Investor Institution",
+      "Registration Cancellation",
+      "Multinomial Logistic Regression",
+      "Portfolio Management"
+    ],
+    "abstract_ko": "본 연구는「연구개발특구의 육성에 관한 특별법」 제9조의3 출자 자격 유형을 기준으로 출자기관 특성과 연구소기업 등록 취소 간의 연관성을 실증 분석하였다. 2025년까지 등록된 연구소기업 2,240개 전수를 대상으로 기업 수준 자료에 출자기관 특성을 결합하고 주출자기관 수준의 클러스터 표준오차를 적용한 이항 및 다항 로지스틱 회귀를 수행하였다. 분석 결과 산학연협력기술지주가 출자한 기업은 공공연구기관 대비 등록취소 오즈가 1.72배 높았다(p<.01). 등록취소를 유지·졸업형 특구 외 이전·관리실패형으로 분해한 다항 분석에서, 이 효과는 졸업형이 아니라 관리실패형 취소유형에 집중되어 나타났다(상대위험비 1.87). 포트폴리오 규모는 등록시점 기준 사전변수로 측정하였을 때 약한 음의 연관을 보였다. 본 연구는 출자기관 특성을 기업 수준 분석에 결합하고 등록취소를 졸업과 관리실패로 분해함으로써 연구소기업 생태계의 질적 관리를 위한 실증적 기반과 정책적 시사점을 제공한다.",
+    "abstract_en": "This study examines the association between investor institution characteristics and the registration cancellation of research institute companies (RICs), based on the investor-eligibility types under Article 9-3 of the Act on the Promotion of Special R&D Zones. Using all 2,240 RICs registered through 2025 (1,412 active; 828 cancelled), we estimate binary and multinomial logistic regressions combining institution- and firm-level data, with cluster-robust standard errors at the primary-investor level. RICs invested by university-industry cooperation technology holding companies show higher cancellation odds than those invested by public research institutions (OR=1.72, p<.01). When the outcome is disaggregated into active, graduation-type exit, and management-failure cancellation, this effect is concentrated in the management-failure channel (RRR=1.87, p<.01) rather than graduation. Measuring portfolio size as an ex-ante variable yields only a weak negative association. By decomposing cancellation into graduation and management failure, this study provides an empirical basis and policy implications for the qualitative management of the RIC ecosystem.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399935",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는「연구개발특구의 육성에 관한 특별법」 제9조의3 출자 자격 유형을 기준으로 출자기관 특성과 연구소기업 등록 취소 간의 연관성을 실증 분석하였다. 2025년까지 등록된 연구소기업 2,240개 전수를 대상으로 기업 수준 자료에 출자기관 특성을 결합하고 주출자기관 수준의 클러스터 표준오차를 적용한 이항 및 다항 로지스틱 회귀를 수행하였다. 분석 결과 산학연협력기술지주가 출자한 기업은 공공연구기관 대비 등록취소 오즈가 1.72배 높았다(p<.01). 등록취소를 유지·졸업형 특구 외 이전·관리실패형으로 분해한 다항 분석에서, 이 효과는 졸업형이 아니라 관리실패형 취소유형에 집중되어 나타났다(상대위험비 1.87). 포트폴리오 규모는 등록시점 기준 사전변수로 측정하였을 때 약한 음의 연관을 보였다. 본 연구는 출자기관 특성을 기업 수준 분석에 결합하고 등록취소를 졸업과 관리실패로 분해함으로써 연구소기업 생태계의 질적 관리를 위한 실증적 기반과 정책적 시사점을 제공한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "기술드라이브 정책과 TDX 개발:국가혁신시스템 관점의 역사적 사례연구",
+    "authors": [
+      "김승회",
+      "윤영호"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "993-1009",
+    "keywords": [
+      "국가혁신시스템",
+      "TDX",
+      "기술드라이브 정책",
+      "전자산업",
+      "정보통신산업",
+      "National Innovation System",
+      "Technology-Drive Policy",
+      "Electronics Industry",
+      "Information and Communications Industry"
+    ],
+    "abstract_ko": "본 연구는 전전자교환기(TDX) 개발 사례를 통해 1980년대 한국 전자·정보통신산업의 도약을 국가혁신시스템(National Innovation System, NIS)의 형성과 작동 과정으로 재해석한다. 특히 정부의 전략적 정책 조정, 공공 수요의 형성, 출연연구기관의 기술축적, 민간기업의 생산·상용화 역량이 TDX 개발과 확산 과정에서 어떻게 결합되었는지를 분석하였다. 연구방법으로는 역사적 사례연구와 문헌분석을 적용하여 제도, 행위자, 상호작용, 성과의 네 차원에서 TDX 개발 과정을 검토하였다. 분석 결과, TDX의 성과는 단일 기술의 국산화에 그치지 않고, 기술드라이브 정책 아래 형성된 국가혁신시스템의 조정능력, 초기시장 제공, 기술이전 및 시험평가 체계, 기업의 흡수역량이 결합된 결과로 나타났다. 또한 TDX 개발은 전화 적체 해소와 통신망 현대화에 그치지 않고, 반도체·컴퓨터·이동통신·정보통신망 구축으로 이어지는 기술학습과 산업 확산의 기반을 제공하였다. 본 연구는 후발 산업국가의 전략기술 육성에서 연구개발 투자만이 아니라 제도적 조정, 공공 수요, 상용화 인프라, 행위자 간 학습 네트워크가 중요하다는 점을 제시한다.",
+    "abstract_en": "This study reinterprets Korea’s electronics and ICT industry growth in the 1980s through the development of the Time Division Exchange(TDX) from the perspective of the National Innovation System(NIS). It examines how government coordination, public demand, research institutes’ technological accumulation, and firms’ production and commercialization capabilities interacted in TDX development and diffusion. Using a historical case study and document analysis, it examines institutions, actors, interactions, and outcomes. The results show that TDX achievements went beyond technology localization and reflected the combined effects of NIS coordination under the Technology-Drive Policy, initial markets, technology transfer, testing and evaluation, and firms’ absorptive capabilities. TDX also alleviated telephone shortages and modernized networks while laying a foundation for technological learning and diffusion into semiconductors, computers, mobile communications, and information networks. The study highlights institutional coordination, public demand, commercialization infrastructure, and inter-actor learning networks alongside R&D investment in late-industrializing economies.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399943",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 전전자교환기(TDX) 개발 사례를 통해 1980년대 한국 전자·정보통신산업의 도약을 국가혁신시스템(National Innovation System, NIS)의 형성과 작동 과정으로 재해석한다. 특히 정부의 전략적 정책 조정, 공공 수요의 형성, 출연연구기관의 기술축적, 민간기업의 생산·상용화 역량이 TDX 개발과 확산 과정에서 어떻게 결합되었는지를 분석하였다. 연구방법으로는 역사적 사례연구와 문헌분석을 적용하여 제도, 행위자, 상호작용, 성과의 네 차원에서 TDX 개발 과정을 검토하였다. 분석 결과, TDX의 성과는 단일 기술의 국산화에 그치지 않고, 기술드라이브 정책 아래 형성된 국가혁신시스템의 조정능력, 초기시장 제공, 기술이전 및 시험평가 체계, 기업의 흡수역량이 결합된 결과로 나타났다. 또한 TDX 개발은 전화 적체 해소와 통신망 현대화에 그치지 않고, 반도체·컴퓨터·이동통신·정보통신망 구축으로 이어지는 기술학습과 산업 확산의 기반을 제공하였다. 본 연구는 후발 산업국가의 전략기술 육성에서 연구개발 투자만이 아니라 제도적 조정, 공공 수요, 상용화 인프라, 행위자 간 학습 네트워크가 중요하다는 점을 제시한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "국가 R&D 과제의 기술분류 신뢰성 개선을 위한 AI 기반 자동매핑 모델의 적용 가능성 연구",
+    "authors": [
+      "송영석",
+      "안세진",
+      "임종서",
+      "Jongseo"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1011-1032",
+    "keywords": [
+      "국가 R&D 투자 분석",
+      "기술분야 분류",
+      "KoELECTRA",
+      "자동 텍스트 매핑",
+      "하이브리드 검증 프로세스",
+      "National R&D Investment Analysis",
+      "Technology Domain Classification",
+      "Automatic Text Mapping",
+      "Hybrid Verification Process"
+    ],
+    "abstract_ko": "국가 R&D 투자 통계의 기술분야 분류는 연구책임자의 자가입력에 의존하나, 그 신뢰성은 충분히 검증되지 않은 채 정책 통계의 기초자료로 활용되고 있다. 본 연구는 자가입력 방식의 신뢰성 한계를 정량적으로 검증하고 AI 기반 자동매핑 모델의 적용 가능성을 검토하였다. 2022~2023년 태양광(n=549)·풍력(n=195) 과제를 대상으로 연구자 자가분류, KoELECTRA 기반 AI 분류, 전문가 검증 결과를 오차행렬로 비교하였다. 분석 결과, 1순위 자가분류는 정밀도는 높으나 재현율이 낮아 실제 해당 분야 과제의 약 24~29%가 누락되었고, 3순위까지 확장해도 이 한계는 충분히 개선되지 않았다. 반면 전문가 검증 기준 AI 분류는 자가분류보다 재현율을 크게 높이고 정밀도는 유사하거나 높은 수준을 유지하여, F1-Score가 10%p 이상 높게 나타났다. 이에 본 연구는 자가입력 체계를 유지하면서 두 분류가 불일치하는 과제를 전문가가 집중 검증하고 일치 과제 일부를 층화 표본으로 함께 검증하는 하이브리드 검증 프로세스를 제안하였다. 이 방식은 전수 검증 대비 검증 대상을 약 60~63% 절감하여 분류 신뢰성과 검증 효율을 함께 확보하는 실무적 대안이 될 수 있다.",
+    "abstract_en": "Technology domain classification in Korean national R&D statistics relies on researchers' self-reported codes, yet its reliability has rarely been verified despite its use in policy statistics. This study quantitatively examines the limitations of self-reported classification and evaluates an AI-based automatic mapping model as a complement. Using solar photovoltaic (n=549) and wind energy (n=195) projects from 2022-2023, we compared researcher self-classification, KoELECTRA-based classification, and expert validation through confusion matrices. First-priority self-classification showed high precision but low recall, omitting about 24-29% of relevant projects, and extending to third-priority codes did not resolve this limitation. The AI model achieved an F1-score more than 10 percentage points higher than self-classification, substantially improving recall while maintaining comparable or higher precision. We therefore propose a hybrid verification process that retains self-reporting while experts review projects on which the two classifications disagree, plus a stratified sample of agreement cases. This reduces the review workload by about 60-63% relative to full expert review, offering a practical alternative.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399949",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "국가 R&D 투자 통계의 기술분야 분류는 연구책임자의 자가입력에 의존하나, 그 신뢰성은 충분히 검증되지 않은 채 정책 통계의 기초자료로 활용되고 있다. 본 연구는 자가입력 방식의 신뢰성 한계를 정량적으로 검증하고 AI 기반 자동매핑 모델의 적용 가능성을 검토하였다. 2022~2023년 태양광(n=549)·풍력(n=195) 과제를 대상으로 연구자 자가분류, KoELECTRA 기반 AI 분류, 전문가 검증 결과를 오차행렬로 비교하였다. 분석 결과, 1순위 자가분류는 정밀도는 높으나 재현율이 낮아 실제 해당 분야 과제의 약 24~29%가 누락되었고, 3순위까지 확장해도 이 한계는 충분히 개선되지 않았다. 반면 전문가 검증 기준 AI 분류는 자가분류보다 재현율을 크게 높이고 정밀도는 유사하거나 높은 수준을 유지하여, F1-Score가 10%p 이상 높게 나타났다. 이에 본 연구는 자가입력 체계를 유지하면서 두 분류가 불일치하는 과제를 전문가가 집중 검증하고 일치 과제 일부를 층화 표본으로 함께 검증하는 하이브리드 검증 프로세스를 제안하였다. 이 방식은 전수 검증 대비 검증 대상을 약 60~63% 절감하여 분류 신뢰성과 검증 효율을 함께 확보하는 실무적 대안이 될 수 있다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "델파이 기법과 다지역 산업연관분석을 활용한 핀테크 산업의 경제적 파급효과 분석: 서울·경기·부산을 중심으로",
+    "authors": [
+      "손국호",
+      "이민규"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1033-1060",
+    "keywords": [
+      "핀테크",
+      "다지역 산업연관분석",
+      "경제적 파급효과",
+      "델파이 기법",
+      "Fintech",
+      "Multi-Regional Input-Output Analysis",
+      "Economic Ripple Effects",
+      "Delphi Method"
+    ],
+    "abstract_ko": "본 연구는 기존 핀테크 파급효과 연구가 전국·단일 지역에 한정되고 분류 기준의 재현 가능성이 부족하다는 한계에 주목하여 델파이 기법과 다지역 산업연관분석(MRIO)을 결합해 핀테크 기업이 집적된 서울, 경기, 부산 3개 지역의 파급효과를 분석하였다. 핀테크 전문가 17명 대상 2차 델파이 조사로 8개 부문의 핀테크 분류체계를 도출하여 한국은행 2020년 기준 지역산업연관표에 적용하였다. 분석 결과 생산유발 총량은 경기(1.5425)가 최고이지만 부가가치유발(0.9443)과 취업유발(7.9217명)은 부산이 수도권을 상회하였고 역내 귀속률은 서울이 최고·경기가 최저였다. ICT 인프라 역내 귀속에서 서울(5~8배)과 부산(0.05~0.15배)의 극단적 격차가 실증되었으며 감응도계수는 서울(7.6745), 경기(2.9854), 부산(1.5151)이 전국 1~3위를 독점하고 영향력계수는 17개 지역 모두 1 미만으로 핀테크가 전방주도형 기반산업임을 확인하였다. 본 연구는 델파이–MRIO 결합틀을 핀테크 산업에 적용하여 다지역으로 확장하고 PropTech를 최초 편입하였으며, 지역 산업구조를 반영한 차별화된 육성 전략의 필요성을 제시한다.",
+    "abstract_en": "Noting that prior studies on fintech's economic ripple effects were confined to national or single-region analyses with limited reproducibility in classification, this study combines the Delphi method and multi-regional input-output(MRIO) analysis to examine Seoul, Gyeonggi, and Busan, where fintech firms are concentrated. A two-round Delphi survey with 17 experts established an eight-sector fintech classification, applied to the Bank of Korea's 2020 regional input-output tables. Gyeonggi leads in production inducement(1.5425), but Busan surpasses the metropolitan regions in value-added(0.9443) and employment(7.9217 persons), while intra-regional retention is highest in Seoul and lowest in Gyeonggi. A structural ICT gap between Seoul(5-8x) and Busan(0.05-0.15x) is confirmed. Seoul(7.6745), Gyeonggi(2.9854), and Busan(1.5151) hold the top three sensitivity coefficients, and all 17 regions record influence coefficients below 1, confirming fintech as a forward-dominant industry. This study applies the Delphi-MRIO framework to fintech, extends it to a multi-regional setting, incorporates PropTech for the first time, and suggests regional policies reflecting industrial structure.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399954",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 기존 핀테크 파급효과 연구가 전국·단일 지역에 한정되고 분류 기준의 재현 가능성이 부족하다는 한계에 주목하여 델파이 기법과 다지역 산업연관분석(MRIO)을 결합해 핀테크 기업이 집적된 서울, 경기, 부산 3개 지역의 파급효과를 분석하였다. 핀테크 전문가 17명 대상 2차 델파이 조사로 8개 부문의 핀테크 분류체계를 도출하여 한국은행 2020년 기준 지역산업연관표에 적용하였다. 분석 결과 생산유발 총량은 경기(1.5425)가 최고이지만 부가가치유발(0.9443)과 취업유발(7.9217명)은 부산이 수도권을 상회하였고 역내 귀속률은 서울이 최고·경기가 최저였다. ICT 인프라 역내 귀속에서 서울(5~8배)과 부산(0.05~0.15배)의 극단적 격차가 실증되었으며 감응도계수는 서울(7.6745), 경기(2.9854), 부산(1.5151)이 전국 1~3위를 독점하고 영향력계수는 17개 지역 모두 1 미만으로 핀테크가 전방주도형 기반산업임을 확인하였다. 본 연구는 델파이–MRIO 결합틀을 핀테크 산업에 적용하여 다지역으로 확장하고 PropTech를 최초 편입하였으며, 지역 산업구조를 반영한 차별화된 육성 전략의 필요성을 제시한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "콘텐츠 산업 종사자의 AI 솔루션 수용 의도에 관한 연구-기술, 조직, 환경 요인을 중심으로",
+    "authors": [
+      "이유경",
+      "김영준",
+      "Young Jun"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1061-1081",
+    "keywords": [
+      "생성형 AI",
+      "AI 솔루션 수용",
+      "콘텐츠 산업",
+      "Generative AI",
+      "AI Solution Adoption",
+      "Content Industry"
+    ],
+    "abstract_ko": "본 연구는 AI 솔루션 도입이 빠르게 확산되는 가운데, 콘텐츠 산업 종사자를 대상으로 수용의도 및 사용빈도에 영향을 미치는 요인을 분석하였다. 이를 위해 기술수용모형(TAM)과 기술-조직-환경(TOE) 프레임워크를 통합하고, 기술적 요인(지각된 유용성·사용 용이성·산출 품질), 조직적 요인(조직 지원 인식), 환경적 요인(AI 거버넌스 성숙도·직무 불안 인식)이 지각된 신뢰도와 지각된 위험을 거쳐 수용의도와 사용빈도로 이어지는 경로를 구조방정식 모형으로 검증하였다. 분석 결과 기술적 요인과 AI 거버넌스 성숙도는 지각된 신뢰도와, 직무 불안 인식은 지각된 위험과 유의한 정(+)의 관계를 보였다. 이어 지각된 신뢰도는 수용의도와 정(+)적으로, 지각된 위험은 부(−)적으로 관련되었으며, 수용의도는 사용빈도와 유의하게 관련되었다. 반면 조직 지원 인식은 신뢰도와 유의한 관계를 보이지 않았다. 본 연구는 콘텐츠 산업의 AI 수용 메커니즘을 규명함으로써 이론적 확장과 실무적 시사점을 제공한다.",
+    "abstract_en": "This study examines factors influencing AI adoption intention and usage frequency among content industry professionals amid the rapid diffusion of AI solutions. Integrating TAM and the TOE framework, it uses structural equation modeling to test how technological factors (perceived usefulness, ease of use, and output quality), an organizational factor (perceived organizational support), and environmental factors (AI governance maturity and perceived job insecurity) relate to adoption intention and usage frequency through perceived trust and risk. Technological factors and AI governance maturity were positively associated with perceived trust, while perceived job insecurity was positively associated with perceived risk. Trust was positively associated with adoption intention, whereas risk was negatively associated with it. Adoption intention was significantly associated with usage frequency. Organizational support showed no significant association with trust. These findings extend theoretical understanding of AI adoption in the content industry and offer practical implications. Generative AI, AI Solution Adoption, Content Industry",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399959",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 AI 솔루션 도입이 빠르게 확산되는 가운데, 콘텐츠 산업 종사자를 대상으로 수용의도 및 사용빈도에 영향을 미치는 요인을 분석하였다. 이를 위해 기술수용모형(TAM)과 기술-조직-환경(TOE) 프레임워크를 통합하고, 기술적 요인(지각된 유용성·사용 용이성·산출 품질), 조직적 요인(조직 지원 인식), 환경적 요인(AI 거버넌스 성숙도·직무 불안 인식)이 지각된 신뢰도와 지각된 위험을 거쳐 수용의도와 사용빈도로 이어지는 경로를 구조방정식 모형으로 검증하였다. 분석 결과 기술적 요인과 AI 거버넌스 성숙도는 지각된 신뢰도와, 직무 불안 인식은 지각된 위험과 유의한 정(+)의 관계를 보였다. 이어 지각된 신뢰도는 수용의도와 정(+)적으로, 지각된 위험은 부(−)적으로 관련되었으며, 수용의도는 사용빈도와 유의하게 관련되었다. 반면 조직 지원 인식은 신뢰도와 유의한 관계를 보이지 않았다. 본 연구는 콘텐츠 산업의 AI 수용 메커니즘을 규명함으로써 이론적 확장과 실무적 시사점을 제공한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "정부 R&D 지원이 기업성과에 미치는 영향:혁신전략(탐색‧활용‧양손잡이) 조절효과를 중심으로",
+    "authors": [
+      "조상동",
+      "신준석",
+      "JUNSEOUK"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1083-1111",
+    "keywords": [
+      "정부 R&D 지원",
+      "혁신전략",
+      "탐색과 활용",
+      "양손잡이",
+      "기업성과",
+      "Government R&D Support",
+      "Innovation Strategy",
+      "Exploration and Exploitation",
+      "Ambidexterity",
+      "Firm Performance"
+    ],
+    "abstract_ko": "본 연구는 정부 R&D 지원이 기업 혁신전략(탐색·활용·양손잡이)의 조절효과를 통해 기업성과에 미치는 영향을 실증적으로 분석했다. 산업기술혁신사업에 참여한 290개 중소·중견기업을 대상으로 성과변수의 특성을 고려하여 Tobit, OLS 및 Logit 모형을 적용했다. 기존 연구가 정부 R&D 지원 또는 양손잡이 혁신전략의 기업성과에 대한 효과를 개별적으로 분석한 것과 달리, 두 요인의 상호작용을 고려해 성과에 대한 영향을 통합적으로 분석했다. 양손잡이 혁신전략은 활용형과 탐색형 대비 기업 매출성과에 긍정적 영향을 보였으나, 다른 성과에 대한 영향은 제한적이었다. 탐색적 혁신전략은 성과에 부정적 영향을 보였다. 정부출연금 규모와 비중은 경영성과에 유의한 영향을 미치지 않았다. 분석 결과는 정부 R&D 지원 정책이 지원 규모 중심의 접근으로는 성과 향상에 한계가 있으며, 나아가 지원 방식 및 제도 변화만으로도 충분하지 않다는 사실을 시사한다. 산업기술혁신사업과 같은 활용형 R&D 사업에도 양손잡이 혁신형 기업은 매출성과에서 우위를 보인다. 즉, 정부 R&D 지원 성과 개선을 위해서는 사업 수행 기업군도 양손잡이 혁신 관점에서 최적 구성을 모색할 필요가 있다.",
+    "abstract_en": "This study empirically examines how innovation strategies (exploration, exploitation, and ambidexterity) moderate the relationship between government R&D support and firm performance. Tobit, OLS, and Logit models are applied to 290 SMEs and mid-sized firms participating in the Industrial Technology Innovation Program, accounting for outcome characteristics. Unlike prior studies examining these factors separately, this study analyzes their interaction effects. Ambidextrous firms outperform exploitative and exploratory firms in sales, but effects on other outcomes are limited. Exploration is negatively associated with performance, while the amount and share of government R&D funding have no significant effects on managerial performance. The findings suggest that increasing funding or changing support schemes alone may not improve outcomes. Even in exploitation-oriented R&D programs, ambidextrous firms show superior sales performance. Improving government R&D outcomes thus requires optimizing the composition of participating firms from an ambidexterity perspective.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399962",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 정부 R&D 지원이 기업 혁신전략(탐색·활용·양손잡이)의 조절효과를 통해 기업성과에 미치는 영향을 실증적으로 분석했다. 산업기술혁신사업에 참여한 290개 중소·중견기업을 대상으로 성과변수의 특성을 고려하여 Tobit, OLS 및 Logit 모형을 적용했다. 기존 연구가 정부 R&D 지원 또는 양손잡이 혁신전략의 기업성과에 대한 효과를 개별적으로 분석한 것과 달리, 두 요인의 상호작용을 고려해 성과에 대한 영향을 통합적으로 분석했다. 양손잡이 혁신전략은 활용형과 탐색형 대비 기업 매출성과에 긍정적 영향을 보였으나, 다른 성과에 대한 영향은 제한적이었다. 탐색적 혁신전략은 성과에 부정적 영향을 보였다. 정부출연금 규모와 비중은 경영성과에 유의한 영향을 미치지 않았다. 분석 결과는 정부 R&D 지원 정책이 지원 규모 중심의 접근으로는 성과 향상에 한계가 있으며, 나아가 지원 방식 및 제도 변화만으로도 충분하지 않다는 사실을 시사한다. 산업기술혁신사업과 같은 활용형 R&D 사업에도 양손잡이 혁신형 기업은 매출성과에서 우위를 보인다. 즉, 정부 R&D 지원 성과 개선을 위해서는 사업 수행 기업군도 양손잡이 혁신 관점에서 최적 구성을 모색할 필요가 있다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "인구구조 변화에 대응한 기술혁신과 직업능력개발의 경제적 파급효과: 세대중첩 일반균형모형을 활용한 분석",
+    "authors": [
+      "여영준"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1113-1148",
+    "keywords": [
+      "인구구조 변화",
+      "기술혁신",
+      "직업능력개발",
+      "인적자본 투자",
+      "동태적 일반균형모형",
+      "Demographic Change",
+      "Technological Innovation Policy",
+      "Workforce Development Policy",
+      "Human Capital Investment",
+      "Overlapping Generations Model"
+    ],
+    "abstract_ko": "저출산·고령화에 따른 인구구조 변화는 노동공급 감소와 성장잠재력 약화를 초래하며 경제 전반에 구조적 영향을 미치고 있다. 이에 본 연구는 세대중첩 일반균형모형을 활용하여 인구구조 변화의 경제적 파급효과를 분석하고, 직업능력개발과 기술혁신 정책의 효과를 비교·평가하였다. 이를 위해 인구감소 심화, 직업능력개발, 정부 교육투자 확대 및 기술혁신을 반영한 정책 시나리오를 설계하여 경제 전반의 파급효과를 분석하였다. 분석 결과, 인구구조 변화는 경제성장 둔화, 산업 생산활동 위축 및 소득 감소를 초래하는 반면, 직업능력개발 정책은 이러한 부정적 영향을 완화하는 것으로 나타났다. 특히 교육훈련의 질적 개선은 고부가가치 산업과 청년층에서, 정부 교육투자 확대는 일반 산업과 중장년층에서 상대적으로 높은 정책효과를 보였다. 기술혁신 정책은 경제성장과 산업 생산성 제고에 기여하였으나, 노동공급 및 소득 감소를 완화하는 효과는 상대적으로 제한적이었다. 본 연구는 인구구조 변화에 대응한 정책효과의 산업별·세대별 이질성을 규명하고, 인적자본 투자와 기술혁신 정책의 상호보완적 연계 필요성을 제시한다.",
+    "abstract_en": "Declining fertility and population aging are reducing labor supply and weakening growth potential. Using an overlapping-generations computable general equilibrium model, this study examines the economy-wide effects of demographic change and compares workforce development and technological innovation policies. Scenarios incorporate accelerated population decline, improved training quality, increased public education investment, and technological innovation. Results indicate that demographic change slows growth, contracts industrial output, and reduces income. Workforce development mitigates these effects, with higher-quality training benefiting high-value-added industries and younger workers, while public education investment yields greater gains for other industries and middle-aged workers. Technological innovation boosts growth and industrial productivity but is less effective in offsetting labor supply and income losses. The findings reveal sectoral and generational differences in policy effectiveness and underscore the need to coordinate human capital investment with technological innovation.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399970",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "저출산·고령화에 따른 인구구조 변화는 노동공급 감소와 성장잠재력 약화를 초래하며 경제 전반에 구조적 영향을 미치고 있다. 이에 본 연구는 세대중첩 일반균형모형을 활용하여 인구구조 변화의 경제적 파급효과를 분석하고, 직업능력개발과 기술혁신 정책의 효과를 비교·평가하였다. 이를 위해 인구감소 심화, 직업능력개발, 정부 교육투자 확대 및 기술혁신을 반영한 정책 시나리오를 설계하여 경제 전반의 파급효과를 분석하였다. 분석 결과, 인구구조 변화는 경제성장 둔화, 산업 생산활동 위축 및 소득 감소를 초래하는 반면, 직업능력개발 정책은 이러한 부정적 영향을 완화하는 것으로 나타났다. 특히 교육훈련의 질적 개선은 고부가가치 산업과 청년층에서, 정부 교육투자 확대는 일반 산업과 중장년층에서 상대적으로 높은 정책효과를 보였다. 기술혁신 정책은 경제성장과 산업 생산성 제고에 기여하였으나, 노동공급 및 소득 감소를 완화하는 효과는 상대적으로 제한적이었다. 본 연구는 인구구조 변화에 대응한 정책효과의 산업별·세대별 이질성을 규명하고, 인적자본 투자와 기술혁신 정책의 상호보완적 연계 필요성을 제시한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "AI 네이티브 마이크로벤처의 탄생 :조직 역량의 외재화와 창업자 중심 오케스트레이션",
+    "authors": [
+      "최윤정",
+      "장중호"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1149-1190",
+    "keywords": [
+      "1인 AI 네이티브 창업",
+      "흡수 역량",
+      "창업자 중심 오케스트레이션",
+      "AI 네이티브 마이크로벤처",
+      "역할 밀도",
+      "Solo AI-native entrepreneurship",
+      "Absorptive capacity",
+      "Founder-centered orchestration",
+      "AI-native micro-venture",
+      "Role density"
+    ],
+    "abstract_ko": "본 연구는 창업자와 그가 운용하는 AI 에이전트 스택이 결합해 형성하는 ‘AI 네이티브 마이크로벤처’의 조직화 양식을 이론화한다. ‘1인’은 고정된 인원 범주가 아니라 핵심 판단권이 창업자에게 집중되고 산출 확대가 인력 증원보다 에이전트 확장에 의존하는 창업자 중심 조직화의 이상형이다. 핵심 주장은 AI 시대의 흡수 역량이 기능적 본질은 유지하되 수행 위치가 이동한다는 것이다. 지식의 동화·변형·실행은 AI 에이전트 스택으로 외재화될 수 있는 반면, 최종 가치 판단과 책임 있는 의사결정, 신뢰·정당성 확보는 창업자에게 남는다. 따라서 기업의 유효 흡수 역량은 창업자의 인지적 역량과 오케스트레이션 역량의 상호보완적 결합으로 형성된다. 실패 양상도 조직 규모에 따라 다르다. 대기업이 조율 복잡성에 직면한다면 마이크로벤처는 역할 밀도에 취약하며, 비위임적 신뢰 활동은 규제·관계집약 산업에서 조건부 성장 제약으로 작동한다. 또한 외재화는 서드파티 모델·API에 대한 역의존을 낳는다. 본 연구는 3단계 근거 위계와 공개 사례의 예시적 점검을 거쳐 이를 네 개의 반증 가능한 명제로 제시한다.",
+    "abstract_en": "This study develops a conceptual model of the AI-native micro-venture: an organizational configuration in which strategic judgment stays concentrated in a founder while output scaling relies primarily on an AI agent stack, with headcount growth secondary. Treating the solo firm as an analytical ideal type, the model advances one central claim: absorptive capacity is scale-invariant in function but scale-variant in locus. Machine-executable routines supporting assimilation, transformation, and execution can be externalized, whereas final valuation, accountability, trust, and legitimacy remain human-bound. A firm’s effective capacity therefore arises from the complementary combination of founder cognition and founder-centered orchestration capability. Using a three-tier evidence hierarchy and illustrative cases, the study derives four falsifiable propositions and specifies both the promise and the limits of this form: role density under scarce slack threatens early survival, non-delegable trust work becomes a conditional growth ceiling in regulated and relationship-intensive settings, and externalization creates reverse dependency on third-party models and APIs.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399974",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 창업자와 그가 운용하는 AI 에이전트 스택이 결합해 형성하는 ‘AI 네이티브 마이크로벤처’의 조직화 양식을 이론화한다. ‘1인’은 고정된 인원 범주가 아니라 핵심 판단권이 창업자에게 집중되고 산출 확대가 인력 증원보다 에이전트 확장에 의존하는 창업자 중심 조직화의 이상형이다. 핵심 주장은 AI 시대의 흡수 역량이 기능적 본질은 유지하되 수행 위치가 이동한다는 것이다. 지식의 동화·변형·실행은 AI 에이전트 스택으로 외재화될 수 있는 반면, 최종 가치 판단과 책임 있는 의사결정, 신뢰·정당성 확보는 창업자에게 남는다. 따라서 기업의 유효 흡수 역량은 창업자의 인지적 역량과 오케스트레이션 역량의 상호보완적 결합으로 형성된다. 실패 양상도 조직 규모에 따라 다르다. 대기업이 조율 복잡성에 직면한다면 마이크로벤처는 역할 밀도에 취약하며, 비위임적 신뢰 활동은 규제·관계집약 산업에서 조건부 성장 제약으로 작동한다. 또한 외재화는 서드파티 모델·API에 대한 역의존을 낳는다. 본 연구는 3단계 근거 위계와 공개 사례의 예시적 점검을 거쳐 이를 네 개의 반증 가능한 명제로 제시한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "벤처기업 인증과 이노비즈 인증은 무익한 중복인가:제조업 기업의 인증 취득 결정요인 분석",
+    "authors": [
+      "송명주",
+      "박재민",
+      "Jaemin"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1191-1223",
+    "keywords": [
+      "벤처기업 인증",
+      "이노비즈 인증",
+      "Pavitt 산업유형",
+      "신호이론",
+      "정책 환경",
+      "Venture Business Certification",
+      "Inno-Biz Certification",
+      "Pavitt’s Sectoral Taxonomy",
+      "Signaling Theory",
+      "Policy Environment"
+    ],
+    "abstract_ko": "본 논문은 제조업 기업의 벤처기업 인증과 이노비즈 인증 취득 결정요인을 분석하였다. 두 인증은 기술혁신형 중소기업을 대상으로 한다는 점에서 유사해 통합 논의가 이어져 왔으나, 각 인증을 취득한 기업이 다른지는 실증된 바가 드물다. 이에 한국기업혁신조사(KIS 2022) 제조업 4,000개사에 신호이론과 자원기반관점, 제도주의 및 Pavitt의 산업유형론을 결합해 분석하였다. 프로빗 모형으로 인증별 결정요인을, 다항로짓 모형으로 인증 간 취득기업 특성 차이를 확인하고, Wald 검정으로 세 인증기업군의 이질성을 검토하였다. 연구소 보유는 유형과 무관한 공통 기반이었으나, 과학기반형은 벤처기업 인증에서, 생산집약형은 두 유형 모두 유의하되 벤처기업 인증에서 더 강했다. 금융 정부지원은 유형과 무관하게 취득을 높였으나 경제적·행정적 규제는 벤처기업 인증을 억제하였고, 제도 정부지원의 효과는 사회적 규제가 강할수록 벤처기업 인증에서는 약해지고 이노비즈 인증에서는 강해졌다. 세 인증기업군 간 이질성이 유의하여, 두 인증이 동일한 결정구조를 갖는 제도라고 보기 어려우며, 성장 단계·산업유형·정책 환경에 따라 서로 다른 특성의 기업이 취득하는 제도일 가능성을 시사한다.",
+    "abstract_en": "This study examines which Korean manufacturing firms attain Venture Business Certification, Inno-Biz Certification, or both. Both certify technology-innovative SMEs, so consolidating them has been argued. However, whether the firms holding each actually differ has not been tested. It analyzes 4,000 firms in the Korean Innovation Survey (KIS 2022) using signaling theory, the resource-based view, institutionalism, and Pavitt’s taxonomy. Probit models identify determinants, and a multinomial logit and Wald test check group heterogeneity. An R&D center was common to all. Science-based firms were more likely to hold Venture Business Certification, while production-intensive firms were significant for both, more so for the venture one. Financial support mattered across all types. Economic and administrative regulations worked against venture certification, and institutional support weakened for venture but strengthened for Inno-Biz as social regulation increased. Given this heterogeneity, the two programs are unlikely to share an identical determinant structure. Firms with different characteristics appear to hold each certification depending on growth stage, industry, and policy.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399979",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 논문은 제조업 기업의 벤처기업 인증과 이노비즈 인증 취득 결정요인을 분석하였다. 두 인증은 기술혁신형 중소기업을 대상으로 한다는 점에서 유사해 통합 논의가 이어져 왔으나, 각 인증을 취득한 기업이 다른지는 실증된 바가 드물다. 이에 한국기업혁신조사(KIS 2022) 제조업 4,000개사에 신호이론과 자원기반관점, 제도주의 및 Pavitt의 산업유형론을 결합해 분석하였다. 프로빗 모형으로 인증별 결정요인을, 다항로짓 모형으로 인증 간 취득기업 특성 차이를 확인하고, Wald 검정으로 세 인증기업군의 이질성을 검토하였다. 연구소 보유는 유형과 무관한 공통 기반이었으나, 과학기반형은 벤처기업 인증에서, 생산집약형은 두 유형 모두 유의하되 벤처기업 인증에서 더 강했다. 금융 정부지원은 유형과 무관하게 취득을 높였으나 경제적·행정적 규제는 벤처기업 인증을 억제하였고, 제도 정부지원의 효과는 사회적 규제가 강할수록 벤처기업 인증에서는 약해지고 이노비즈 인증에서는 강해졌다. 세 인증기업군 간 이질성이 유의하여, 두 인증이 동일한 결정구조를 갖는 제도라고 보기 어려우며, 성장 단계·산업유형·정책 환경에 따라 서로 다른 특성의 기업이 취득하는 제도일 가능성을 시사한다."
+  },
+  {
+    "journal_name": "기술혁신학회지",
+    "title": "산학연협력기술지주회사의 운영모델 변화 분석:하이브리드 조직의 경로의존성과 정부지원의 마중물 효과를 중심으로",
+    "authors": [
+      "손희영",
+      "남기환",
+      "송종빈"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "29",
+    "issue": "5",
+    "pages": "1225-1246",
+    "keywords": [
+      "산학연협력기술지주회사",
+      "하이브리드 조직",
+      "운영모델",
+      "정책사업 수익",
+      "부가성 및 보완",
+      "University Technology Holding Company",
+      "Hybrid Organization",
+      "Operating Model",
+      "Policy-project Revenue",
+      "Additionality and Complementarity"
+    ],
+    "abstract_ko": "본 연구는 2020~2024년 전국 산학연협력기술지주회사 패널자료를 활용하여 정책사업 수익과 사업화·투자수익의 결합구조를 정책형, 사업형, 이중형 및 무수익형으로 유형화하고, 운영모델의 전이와 영향요인 및 정책사업 수익의 후속 효과를 분석하였다. 분석 결과, 이중형은 분석기간 동안 중심적인 비중을 차지했으며 다음 연도 유지확률은 82.8%로 가장 높고 무수익형으로의 전이는 2.9%에 그쳤다. 정책형의 50.0%는 다음 연도 이중형으로 이동하였다. 이항로짓 분석에서는 전담인력과 자회사 규모가 다음 연도 이중형 여부와 유의한 정(+)의 관계를 보였다. 또한 정책사업 수익은 다음 연도 전담인력, 신규 자회사 설립 및 이중형 여부와 유의한 정(+)의 관계를 나타냈다. 역방향 분석에서도 이중형 여부가 후속 정책사업 수익과 유의하게 관련되어, 기존 지원의 지속과 성과·역량에 따른 선별 가능성도 함께 고려할 필요가 있음을 시사하였다. 본 연구는 기술지주회사의 발전을 정책기능에서 시장기능으로의 일방적 전환이 아니라 두 기능이 결합되는 하이브리드 운영모델의 형성과 지속으로 해석하고, 정책사업 수익을 선택과 부가성이 결합된 조건부 마중물로 이해할 필요가 있음을 제시한다.",
+    "abstract_en": "This study examines the evolution of operating models among Korean university technology holding companies using panel data from 2020 to 2024. Companies are classified into four types based on policy-project and commercialization/investment revenues: policy-oriented, business-oriented, dual, and no-revenue. The dual model showed the highest one-year persistence (82.8%), while only 2.9% transitioned to no-revenue. Half of policy-oriented companies shifted to the dual model. Logit analysis revealed that dedicated personnel and subsidiary portfolio size were positively associated with subsequent dual status. Policy-project revenue was positively associated with future staffing, subsidiary formation, and dual status. Conversely, dual status predicted subsequent policy-project revenue, suggesting both continued support and potential performance-based selection. These findings indicate that university technology holding companies evolve through the formation and persistence of hybrid models integrating policy and market functions, with policy-project revenue potentially serving as a conditional seed resource.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003399983",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 2020~2024년 전국 산학연협력기술지주회사 패널자료를 활용하여 정책사업 수익과 사업화·투자수익의 결합구조를 정책형, 사업형, 이중형 및 무수익형으로 유형화하고, 운영모델의 전이와 영향요인 및 정책사업 수익의 후속 효과를 분석하였다. 분석 결과, 이중형은 분석기간 동안 중심적인 비중을 차지했으며 다음 연도 유지확률은 82.8%로 가장 높고 무수익형으로의 전이는 2.9%에 그쳤다. 정책형의 50.0%는 다음 연도 이중형으로 이동하였다. 이항로짓 분석에서는 전담인력과 자회사 규모가 다음 연도 이중형 여부와 유의한 정(+)의 관계를 보였다. 또한 정책사업 수익은 다음 연도 전담인력, 신규 자회사 설립 및 이중형 여부와 유의한 정(+)의 관계를 나타냈다. 역방향 분석에서도 이중형 여부가 후속 정책사업 수익과 유의하게 관련되어, 기존 지원의 지속과 성과·역량에 따른 선별 가능성도 함께 고려할 필요가 있음을 시사하였다. 본 연구는 기술지주회사의 발전을 정책기능에서 시장기능으로의 일방적 전환이 아니라 두 기능이 결합되는 하이브리드 운영모델의 형성과 지속으로 해석하고, 정책사업 수익을 선택과 부가성이 결합된 조건부 마중물로 이해할 필요가 있음을 제시한다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "한국 청소년이 직접 제작한 동영상의 공개 업로드 경험: 숏폼 시청 빈도와 플랫폼 이용 구성의 관련성",
+    "authors": [
+      "한영주"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "5-30",
+    "keywords": [
+      "청소년",
+      "직접 제작한 동영상",
+      "공개 업로드",
+      "숏폼 동영상",
+      "플랫폼 이용 구성",
+      "adolescents",
+      "self-produced video",
+      "public uploading",
+      "short-form video",
+      "platform-use configuration"
+    ],
+    "abstract_ko": "숏폼 동영상은 청소년의 일상적 미디어 환경으로 자리 잡았지만, 기존 연구와 공적 논의는 여전히 시청 빈도와 이용시간 같은 노출 지표에 크게 의존한다. 이러한 지표만으로는 청소년이 몇 개의 플랫폼을 병행하여 이용하는지, 어느 온라인 동영상 플랫폼을 주로 이용하는지, 직접 제작한 동영상을 공개적으로 게시한 경험이 있는지 파악하기 어렵다. 이 연구는 디지털 참여 격차와 미디어 레퍼토리 논의를 결합하여 숏폼 시청 빈도, 숏폼 이용 플랫폼 수, 주 이용 온라인 동영상 플랫폼을 구분하고, 이들이 공개 업로드 경험과 맺는 차별적 관련성을 검토하였다. 분석에는 한국언론진흥재단의 <2025 10대 청소년 미디어 이용 조사> 비식별 원자료를 활용했으며, 공개 업로드 분석은 지난 일주일간 온라인 동영상 플랫폼을 이용한 청소년 2,561명을 대상으로 하였다. 표본가중치를 적용한 일반화추정방정식 로지스틱 모형과 학교 단위 군집-강건 표준오차를 사용한 결과, 숏폼 시청 빈도는 공개 업로드 경험과 유의미한 관련을 보이지 않았다. 반면 이용한 숏폼 플랫폼 수가 1개 많을 때 공개 업로드 경험의 보정 승산은 29% 높았다(OR = 1.29, 95% CI [1.10, 1.51], p = .002). 유튜브 중심 이용자와 비교하면 인스타그램 릴스 중심 이용자와 틱톡 중심 이용자의 보정 승산은 유의미하게 높았으나, 유튜브 쇼츠 중심 이용자는 유의미한 차이를 보이지 않았다. 보정 전에는 중학생의 공개 업로드 경험률이 가장 높았으나, 다변량 모형에서는 중학생과 고등학생의 승산이 초등학생보다 낮았다. 이러한 학교급별 양상은 플랫폼 이용 구성 변수를 추가하기 전부터 나타났으며, 성별 계수도 해당 변수를 추가하기 전부터 유의미하지 않았다. 따라서, 이를 플랫폼 구성에 의한 격차의 변화로 해석할 수는 없다. 공개 업로드 경험자를 대상으로 한 탐색분석에서는 이용 플랫폼 수와 누적 5편 이상 업로드 경험 사이의 유의미한 관련성을 확인하지 못했다. 다만 누적 편수는 활동의 지속성을 나타내지 않으며, 분석 간 유의성 차이만으로 서로 다른 참여 기제가 작용한다고 판단할 수 없다. 본 연구는 최근 일주일의 이용 특성과 기간을 제한하지 않은 공개 업로드 경험 사이의 관련성을 분석한 것으로, 그 결과는 플랫폼 이용의 인과효과나 시청에서 제작으로의 전환을 의미하지 않는다. 나아가 본 연구는 시청 빈도만으로는 포착되지 않는 플랫폼 이용 양상과 공개 업로드 경험 간의 관련성을 규명하고, 공개 경험 유무와 누적 업로드 편수를 분리하여 분석했다는 점에서 차별화된다.",
+    "abstract_en": "Short-form video has become a routine element of adolescents’ media lives, but research and public debate still rely heavily on exposure measures such as viewing frequency and screen time. These measures do not indicate whether adolescents use one or several services, which platform anchors their online-video routines, or whether they publicly circulate videos they have produced themselves. Integrating research on digital participation inequalities with the media-repertoire perspective, this study distinguishes short-form viewing frequency, short-form platform breadth, and primary online-video platform, and examines their differential associations with public uploading of self-produced videos. The study uses deidentified data from Tweens’ and Teens’ Media Use in Korea 2025 (Korea Press Foundation), a national probability survey of students in grades 4 through 12 (N = 2,674). Analyses of public uploading include 2,561 respondents who had used an online-video platform during the previous week. Weighted population-averaged logistic models were estimated through generalized estimating equations with school-clustered robust standard errors. The models adjusted for total online-video time, social-media frequency, gender, school level, and media-education experience. Public uploading was defined as having ever publicly posted a video that the respondent had filmed or filmed and edited. An exploratory analysis among prior uploaders examined whether respondents had publicly uploaded at least five videos in total; this cumulative threshold does not measure temporal persistence. Among online-video users, 30.3% reported public-uploading experience. Short-form viewing frequency was not significantly associated with uploading. In contrast, each additional short-form platform used was associated with 29% higher odds of public uploading in the fully adjusted model (OR = 1.29, 95% CI [1.10, 1.51], p = .002). Primary-platform differences were also jointly significant. Compared with YouTube-centered users, Instagram Reels-centered users (OR = 1.53, 95% CI [1.08, 2.17], p = .018) and TikTok-centered users (OR = 2.55, 95% CI [1.58, 4.13], p < .001) had higher adjusted odds of public uploading, whereas YouTube Shorts-centered users did not differ significantly. Although middle school students had the highest unadjusted uploading rate, middle and high school students had lower adjusted odds than elementary students. This school-level pattern and the nonsignificant gender coefficient were already observed before platform-configuration variables were added. The findings therefore do not show that platform configuration explained the demographic differences. Among prior uploaders, platform breadth was not significantly associated with having at least five cumulative public uploads. Differences in significance between the main and uploader-only analyses do not establish distinct mechanisms of entry and continuation. The study links platform use during the previous week with uploading experience measured without a specified time window. Consequently, the findings describe associations between recent use and prior experience, rather than causal platform effects or transitions from viewing to production. Their contribution lies in distinguishing viewing frequency, platform-use configuration, and cumulative uploading experience without treating public posting as inherently beneficial.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398593",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "숏폼 동영상은 청소년의 일상적 미디어 환경으로 자리 잡았지만, 기존 연구와 공적 논의는 여전히 시청 빈도와 이용시간 같은 노출 지표에 크게 의존한다. 이러한 지표만으로는 청소년이 몇 개의 플랫폼을 병행하여 이용하는지, 어느 온라인 동영상 플랫폼을 주로 이용하는지, 직접 제작한 동영상을 공개적으로 게시한 경험이 있는지 파악하기 어렵다. 이 연구는 디지털 참여 격차와 미디어 레퍼토리 논의를 결합하여 숏폼 시청 빈도, 숏폼 이용 플랫폼 수, 주 이용 온라인 동영상 플랫폼을 구분하고, 이들이 공개 업로드 경험과 맺는 차별적 관련성을 검토하였다. 분석에는 한국언론진흥재단의 <2025 10대 청소년 미디어 이용 조사> 비식별 원자료를 활용했으며, 공개 업로드 분석은 지난 일주일간 온라인 동영상 플랫폼을 이용한 청소년 2,561명을 대상으로 하였다. 표본가중치를 적용한 일반화추정방정식 로지스틱 모형과 학교 단위 군집-강건 표준오차를 사용한 결과, 숏폼 시청 빈도는 공개 업로드 경험과 유의미한 관련을 보이지 않았다. 반면 이용한 숏폼 플랫폼 수가 1개 많을 때 공개 업로드 경험의 보정 승산은 29% 높았다(OR = 1.29, 95% CI [1.10, 1.51], p = .002). 유튜브 중심 이용자와 비교하면 인스타그램 릴스 중심 이용자와 틱톡 중심 이용자의 보정 승산은 유의미하게 높았으나, 유튜브 쇼츠 중심 이용자는 유의미한 차이를 보이지 않았다. 보정 전에는 중학생의 공개 업로드 경험률이 가장 높았으나, 다변량 모형에서는 중학생과 고등학생의 승산이 초등학생보다 낮았다. 이러한 학교급별 양상은 플랫폼 이용 구성 변수를 추가하기 전부터 나타났으며, 성별 계수도 해당 변수를 추가하기 전부터 유의미하지 않았다. 따라서, 이를 플랫폼 구성에 의한 격차의 변화로 해석할 수는 없다. 공개 업로드 경험자를 대상으로 한 탐색분석에서는 이용 플랫폼 수와 누적 5편 이상 업로드 경험 사이의 유의미한 관련성을 확인하지 못했다. 다만 누적 편수는 활동의 지속성을 나타내지 않으며, 분석 간 유의성 차이만으로 서로 다른 참여 기제가 작용한다고 판단할 수 없다. 본 연구는 최근 일주일의 이용 특성과 기간을 제한하지 않은 공개 업로드 경험 사이의 관련성을 분석한 것으로, 그 결과는 플랫폼 이용의 인과효과나 시청에서 제작으로의 전환을 의미하지 않는다. 나아가 본 연구는 시청 빈도만으로는 포착되지 않는 플랫폼 이용 양상과 공개 업로드 경험 간의 관련성을 규명하고, 공개 경험 유무와 누적 업로드 편수를 분리하여 분석했다는 점에서 차별화된다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "뉴스 지불과 후원의 정치적 동기: 정치적 소비주의, 당파적 미디어 신뢰, 그리고 유튜브·비유튜브 후원 경로의 비교",
+    "authors": [
+      "김균수"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "31-68",
+    "keywords": [
+      "뉴스 지불의사",
+      "뉴스 후원",
+      "정치적 소비주의",
+      "당파적 미디어 신뢰",
+      "유튜브",
+      "willingness to pay for news",
+      "news donation",
+      "political consumerism",
+      "partisan media trust",
+      "YouTube"
+    ],
+    "abstract_ko": "본 연구는 국내 뉴스 이용자의 뉴스 지불과 후원을 콘텐츠 효용에 대한 시장 교환이 아니라 정치적 소비의 관점에서 조명하고, 그 동기 구조가 효용 기반의 지불(유료 구독)과 표현적·정체성 기반의 후원(기부, 크라우드펀딩, 유튜브 후원 등)에서 어떻게 분화되는지 검증하였다. 전국 성인 뉴스 이용자 1,000명을 대상으로 한 온라인 설문조사 자료를 위계적 회귀분석으로 분석한 결과, 정치적 소비주의 성향과 정치적 효능감은 인구사회학적 변인과 일반 뉴스 신뢰를 통제한 뒤에도 지불 및 후원 의사를 정적으로 예측하였으며, 정치적 소비주의 성향의 영향력은 지불보다 후원에서 유의하게 컸다. 당파적 미디어 신뢰의 역할은 두 행위에서 상반되게 나타나, 지불 의사는 일반 뉴스 신뢰에 의해 가장 강하게 예측된 반면, 후원 의사에서는 이념 일치 매체 신뢰가 유의한 예측력을 보였고 일반 뉴스 신뢰는 유의성을 상실하였다. 매체군 기반 분석에서는 보수 계열 매체, 특히 보수 성향 유튜브 채널에 대한 신뢰만이 지불과 후원을 일관되게 예측하는 이념 진영 간 비대칭이 관찰되었다. 아울러 뉴스 중요성 인식의 두 차원(개인적 vs. 사회적)은 당파적 신뢰의 효과를 서로 반대 방향으로 조절하여, 개인적 중요성은 그 효과를 키우는 반면 사회적 중요성은 줄였다. 후원을 플랫폼 경로에 따라 구분한 결과, 정치적 소비주의와 당파적 신뢰라는 공통의 동기 구조는 비유튜브 후원과 유튜브 후원에서 동일하게 작동하였으나, 유튜브 후원은 일반 뉴스 신뢰와 사실상 무관한 대신 보수 유튜브 채널에 대한 신뢰 및 고연령층과 더 강하게 결합하였다. 이러한 결과는 뉴스에 대한 지불과 후원이 단일한 ‘지불의사’로 환원될 수 없으며, 시장 교환의 논리와 정치적 표현의 논리가 행위 유형에 따라 분화되어 작동함을 보여준다는 점에서, 뉴스 지불 연구의 이론적 틀을 정치적 소비주의의 관점으로 확장하는 함의를 지닌다.",
+    "abstract_en": "This study reframes news users' paying for and donating to news as acts of political consumption rather than as market exchanges for content utility, and examines how the motivational structure of these behaviors diverges between utility-based payment (paid subscriptions) and expressive, identity-based donation (giving, crowdfunding, Super Chat, and channel memberships). Drawing on political consumerism, partisan media trust, and perceived news importance, the study tested four hypotheses and two research questions using an online survey of 1,000 adult news users in South Korea. Partisan media trust was measured in two ways: trust in four media clusters identified by exploratory factor analysis (progressive-legacy, conservative-legacy, progressive-YouTube, and conservative-YouTube), and trust in ideologically congruent versus incongruent media among respondents with a clear ideological position. Hierarchical regression analyses showed that political consumerism and political efficacy positively predicted both willingness to pay and willingness to donate after controlling for demographics and general news trust, and the effect of political consumerism was significantly stronger on donation than on payment. Partisan media trust operated in opposite ways across the two behaviors. Willingness to pay was driven most strongly by general news trust, whereas for donation, trust in ideologically congruent media remained significant while general news trust lost significance. Media-cluster analyses revealed an ideological asymmetry: payment was predicted only by trust in conservative clusters, and trust in conservative YouTube channels was the strongest predictor of donation, a pattern that also held among ideologically moderate respondents. The two dimensions of perceived news importance moderated the effect of partisan trust in opposite directions: personal importance amplified it, whereas societal importance buffered it. The negative main effect of societal importance was identified as a suppression effect rather than a substantive relationship. When donation was disaggregated by platform pathway, the political motivational structure operated identically for non-YouTube and YouTube donation, and this result was robust to excluding the external-platform item from the YouTube donation index; however, YouTube donation was virtually unrelated to general news trust and was more strongly tied to trust in conservative YouTube channels and to elderly users. These findings indicate that paying for and donating to news do not form a monolithic construct but a differentiated set of behaviors in which the logic of market exchange governs payment and the logic of political expression governs donation. They help explain why donation can grow while payment stagnates in a portal-centered free news ecosystem, and they extend the theoretical framework of willingness-to-pay research toward political consumerism while showing that the two approaches are complementary rather than competing.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398594",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 국내 뉴스 이용자의 뉴스 지불과 후원을 콘텐츠 효용에 대한 시장 교환이 아니라 정치적 소비의 관점에서 조명하고, 그 동기 구조가 효용 기반의 지불(유료 구독)과 표현적·정체성 기반의 후원(기부, 크라우드펀딩, 유튜브 후원 등)에서 어떻게 분화되는지 검증하였다. 전국 성인 뉴스 이용자 1,000명을 대상으로 한 온라인 설문조사 자료를 위계적 회귀분석으로 분석한 결과, 정치적 소비주의 성향과 정치적 효능감은 인구사회학적 변인과 일반 뉴스 신뢰를 통제한 뒤에도 지불 및 후원 의사를 정적으로 예측하였으며, 정치적 소비주의 성향의 영향력은 지불보다 후원에서 유의하게 컸다. 당파적 미디어 신뢰의 역할은 두 행위에서 상반되게 나타나, 지불 의사는 일반 뉴스 신뢰에 의해 가장 강하게 예측된 반면, 후원 의사에서는 이념 일치 매체 신뢰가 유의한 예측력을 보였고 일반 뉴스 신뢰는 유의성을 상실하였다. 매체군 기반 분석에서는 보수 계열 매체, 특히 보수 성향 유튜브 채널에 대한 신뢰만이 지불과 후원을 일관되게 예측하는 이념 진영 간 비대칭이 관찰되었다. 아울러 뉴스 중요성 인식의 두 차원(개인적 vs. 사회적)은 당파적 신뢰의 효과를 서로 반대 방향으로 조절하여, 개인적 중요성은 그 효과를 키우는 반면 사회적 중요성은 줄였다. 후원을 플랫폼 경로에 따라 구분한 결과, 정치적 소비주의와 당파적 신뢰라는 공통의 동기 구조는 비유튜브 후원과 유튜브 후원에서 동일하게 작동하였으나, 유튜브 후원은 일반 뉴스 신뢰와 사실상 무관한 대신 보수 유튜브 채널에 대한 신뢰 및 고연령층과 더 강하게 결합하였다. 이러한 결과는 뉴스에 대한 지불과 후원이 단일한 ‘지불의사’로 환원될 수 없으며, 시장 교환의 논리와 정치적 표현의 논리가 행위 유형에 따라 분화되어 작동함을 보여준다는 점에서, 뉴스 지불 연구의 이론적 틀을 정치적 소비주의의 관점으로 확장하는 함의를 지닌다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "게임 문화의 여성 배제와 차별에 관한 성별 집단 상호지향성: 20대 대학생을 중심으로",
+    "authors": [
+      "김은진"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "69-99",
+    "keywords": [
+      "온라인 게임",
+      "상호지향성",
+      "여성 배제",
+      "젠더 차별",
+      "상호인식",
+      "online gaming",
+      "coorientation",
+      "gender discrimination",
+      "exclusion of women",
+      "mutual perception"
+    ],
+    "abstract_ko": "온라인 게임은 이용자 간 상호작용을 통해 관계와 문화를 형성하는 대표적인 디지털 문화공간이다. 여성의 게임 참여가 꾸준히 증가하고 있음에도 불구하고, 게임 공간에서는 성적 대상화, 성희롱, 성별 고정관념, 배제 등 다양한 형태의 성차별이 지속적으로 보고되고 있다. 그러나 기존 연구는 주로 여성 이용자의 차별 경험을 규명하거나 남녀 간 인식 차이를 비교하는 데 초점을 두었으며, 남성과 여성이 상대방의 인식을 어떻게 이해하고 있는지, 그리고 그러한 추정이 실제 인식과 얼마나 일치하는지에 대해서는 충분히 검토하지 못하였다. 이에 본 연구는 맥리오드와 채피(McLeod & Chaffee)의 상호지향성(coorientation) 모델을 적용하여 게임 공간의 여성 배제와 성차별에 대한 20대 대학생 성별 집단의 객관적 일치도, 주관적 일치도 및 정확도를 분석하였다. 연구를 위해 20대 대학생 436명(여성 281명, 남성 155명)을 대상으로 설문조사를 실시하였다. 선행연구와 두 차례의 사전조사를 토대로 자기인식과 상대인식을 측정하는 30개 문항을 개발하였으며, 신뢰도와 구성타당도를 검증하였다. 또한 성별 집단 간 측정구조의 비교 가능성을 확인하기 위해 측정동일성을 검증하였다. 객관적 일치도와 정확도는 독립표본 t-검정, 주관적 일치도는 대응표본 t-검정을 통해 분석하였으며, 추가적으로 게임 이용 특성의 주효과와 성별과의 상호작용 효과를 탐색적으로 분석하였다. 분석 결과, 첫째, 여성은 모든 문항에서 남성보다 게임 공간의 여성 배제와 성차별을 유의하게 높게 인식하여 두 집단 간 객관적 일치도가 낮은 것으로 나타났다. 둘째, 주관적 일치도 분석에서는 여성은 15개 문항 중 8개 문항에서 남성이 자신보다 문제를 덜 심각하게 인식할 것으로 추정한 반면, 남성은 15개 문항 모두에서 여성이 자신보다 문제를 더 심각하게 인식할 것으로 추정하여 상호인식의 양상이 비대칭적으로 나타났다. 셋째, 정확도 분석에서는 남성의 여성 인식 추정이 15개 문항 중 12개에서 여성의 실제 인식과 유의한 차이를 보이지 않은 반면, 여성은 10개 문항에서 남성의 인식을 실제보다 높게 추정하는 경향이 확인되었다. 또한 게임 이용 특성에 대한 탐색적 분석에서는 성별의 주효과는 일관되게 나타났으나, 게임 이용 특성과의 상호작용은 유의하지 않았다. 본 연구는 게임 문화의 젠더 문제를 단순한 인식 차이나 평균 비교를 넘어 상호이해의 구조라는 관점에서 분석하였다는 점에서 의의를 갖는다. 특히 상호지향성 모델을 온라인 게임 문화 연구에 적용하여 실제 인식 차이와 상대방에 대한 추정, 그리고 그 정확성을 함께 검증함으로써 게임 문화의 여성 배제와 차별에 대한 실제 인식 차이와 상호인식의 정확성이 서로 다른 차원이며, 그 양상이 성별과 방향에 따라 비대칭적으로 나타날 수 있음을 확인하였다. 이를 통해 상호지향성 연구의 적용 범위를 디지털 문화공간으로 확장하는 동시에, 보다 포용적인 게임 문화 조성을 위한 이용자 교육, 커뮤니티 운영 및 플랫폼 정책 수립에 실천적 시사점을 제공한다.",
+    "abstract_en": "Online games have become prominent digital cultural spaces in which users interact, cooperate, compete, and form social relationships. Although women’s participation in gaming has increased, previous research has repeatedly documented sexual objectification, gender stereotyping, verbal and sexual harassment, exclusion, and self-restrictive behaviors experienced by women in gaming environments. Existing studies, however, have focused mainly on women’s experiences or gender differences in mean scores, paying less attention to how each group perceives the other group’s views and how accurately those perceptions correspond to actual responses. To address this gap, this study applied McLeod and Chaffee’s coorientation model to examine agreement, congruency, and accuracy between gender groups among university students in their twenties regarding the exclusion of and discrimination against women in gaming spaces. A survey was conducted with 436 Korean university students in their twenties (281 women, 155 men). Based on previous literature and two preliminary studies, a 30-item instrument was developed to measure participants’ own perceptions and their estimates of the other gender’s perceptions. The instrument showed high internal consistency and acceptable construct validity. Measurement invariance across gender groups was also tested; metric invariance was supported, whereas full scalar invariance was not. Agreement and accuracy were examined using independent-samples t-tests, while congruency was tested using paired-samples t-tests. Exploratory two-way ANOVAs examined the main effects of gaming-related characteristics and their interaction with gender. Women perceived the exclusion of and discrimination against women significantly more strongly than men across all 15 items, indicating a consistent lack of agreement. In the congruency analysis, women expected men to perceive the issues less seriously than they themselves did on eight of the 15 items, whereas men expected women to perceive the issues more seriously than they themselves did on all 15 items, indicating an asymmetric pattern of mutual perceptions. Accuracy analysis revealed a more complex pattern. Men’s estimates of women’s perceptions did not differ significantly from women’s actual responses on 12 items, although men underestimated women’s perceptions of sexual objectification, appearance-centered representation, and gender stereotyping. In contrast, women estimated men’s perceptions at significantly higher levels than men actually reported on 10 items. Thus, the accuracy and direction of estimation errors differed between the two gender groups. Exploratory analyses showed consistently significant main effects of gender, whereas no significant interactions were found between gender and the gaming-related characteristics. This study extends gender and gaming research by moving beyond group comparisons to examine how men and women perceive each other’s views on the exclusion of and discrimination against women in gaming culture. By jointly examining actual perceptual differences, estimates of the other group’s perceptions, and the accuracy of those estimates, the study shows that actual perceptual differences and the accuracy of mutual perceptions are distinct dimensions and that patterns of mutual perception may be asymmetric across gender and direction. It also demonstrates the usefulness of the coorientation model for examining gendered mutual perceptions in digital gaming culture. The findings provide practical implications for user education, community management, and platform policies to foster a more inclusive gaming culture.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398595",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "온라인 게임은 이용자 간 상호작용을 통해 관계와 문화를 형성하는 대표적인 디지털 문화공간이다. 여성의 게임 참여가 꾸준히 증가하고 있음에도 불구하고, 게임 공간에서는 성적 대상화, 성희롱, 성별 고정관념, 배제 등 다양한 형태의 성차별이 지속적으로 보고되고 있다. 그러나 기존 연구는 주로 여성 이용자의 차별 경험을 규명하거나 남녀 간 인식 차이를 비교하는 데 초점을 두었으며, 남성과 여성이 상대방의 인식을 어떻게 이해하고 있는지, 그리고 그러한 추정이 실제 인식과 얼마나 일치하는지에 대해서는 충분히 검토하지 못하였다. 이에 본 연구는 맥리오드와 채피(McLeod & Chaffee)의 상호지향성(coorientation) 모델을 적용하여 게임 공간의 여성 배제와 성차별에 대한 20대 대학생 성별 집단의 객관적 일치도, 주관적 일치도 및 정확도를 분석하였다. 연구를 위해 20대 대학생 436명(여성 281명, 남성 155명)을 대상으로 설문조사를 실시하였다. 선행연구와 두 차례의 사전조사를 토대로 자기인식과 상대인식을 측정하는 30개 문항을 개발하였으며, 신뢰도와 구성타당도를 검증하였다. 또한 성별 집단 간 측정구조의 비교 가능성을 확인하기 위해 측정동일성을 검증하였다. 객관적 일치도와 정확도는 독립표본 t-검정, 주관적 일치도는 대응표본 t-검정을 통해 분석하였으며, 추가적으로 게임 이용 특성의 주효과와 성별과의 상호작용 효과를 탐색적으로 분석하였다. 분석 결과, 첫째, 여성은 모든 문항에서 남성보다 게임 공간의 여성 배제와 성차별을 유의하게 높게 인식하여 두 집단 간 객관적 일치도가 낮은 것으로 나타났다. 둘째, 주관적 일치도 분석에서는 여성은 15개 문항 중 8개 문항에서 남성이 자신보다 문제를 덜 심각하게 인식할 것으로 추정한 반면, 남성은 15개 문항 모두에서 여성이 자신보다 문제를 더 심각하게 인식할 것으로 추정하여 상호인식의 양상이 비대칭적으로 나타났다. 셋째, 정확도 분석에서는 남성의 여성 인식 추정이 15개 문항 중 12개에서 여성의 실제 인식과 유의한 차이를 보이지 않은 반면, 여성은 10개 문항에서 남성의 인식을 실제보다 높게 추정하는 경향이 확인되었다. 또한 게임 이용 특성에 대한 탐색적 분석에서는 성별의 주효과는 일관되게 나타났으나, 게임 이용 특성과의 상호작용은 유의하지 않았다. 본 연구는 게임 문화의 젠더 문제를 단순한 인식 차이나 평균 비교를 넘어 상호이해의 구조라는 관점에서 분석하였다는 점에서 의의를 갖는다. 특히 상호지향성 모델을 온라인 게임 문화 연구에 적용하여 실제 인식 차이와 상대방에 대한 추정, 그리고 그 정확성을 함께 검증함으로써 게임 문화의 여성 배제와 차별에 대한 실제 인식 차이와 상호인식의 정확성이 서로 다른 차원이며, 그 양상이 성별과 방향에 따라 비대칭적으로 나타날 수 있음을 확인하였다. 이를 통해 상호지향성 연구의 적용 범위를 디지털 문화공간으로 확장하는 동시에, 보다 포용적인 게임 문화 조성을 위한 이용자 교육, 커뮤니티 운영 및 플랫폼 정책 수립에 실천적 시사점을 제공한다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "과학기술 보도자료의 뉴스 가치와 주제가 신문의 기사화 및 논조에 미치는 영향",
+    "authors": [
+      "최인석",
+      "이준웅"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "100-136",
+    "keywords": [
+      "뉴스 가치",
+      "보도자료 기사화",
+      "과학기술 저널리즘",
+      "정보보조",
+      "LLM 내용분석",
+      "내포 지수",
+      "텍스트 분류",
+      "news values",
+      "science and technology journalism",
+      "information subsidies",
+      "computational content analysis",
+      "text classification using LLM"
+    ],
+    "abstract_ko": "이 연구는 과학기술 관련 정부 보도자료에 담긴 뉴스 가치와 주제가 신문 기사의 기사화와 논조에 미치는 영향을 알아보기 위해, 정부 및 정부출연연구소가 작성한 과학기술 관련 보도자료를 수집하여 그 보도자료와 관련한 기사들이 얼마나 그리고 어떻게 보도됐는지 정부 보도자료와 관련 기사 간 전산 기반 내용분석을 수행하여 검토했다. 이런 언론의 기사화 경향이 정권에 따라 달라질 것을 예상해서, 박근혜, 문재인, 윤석열 집권 초기 2년간 정부 및 정부출연연구소가 공표한 총 11,398건의 보도자료를 기초 자료로 삼았다. 이 보도자료를 기초로 작성된 신문 기사를 찾기 위해 독투벡(Doc2Vec) 모형을 적용한 학습을 활용해서 문서 간 유사성을 측정하는 코사인 유사도 지수와 더불어 텍스트 자료의 문자열을 비교해서 보도자료가 기사에 포함될 확률을 구하는 내포지수(containment index)를 함께 적용해 총 8,991건의 기사를 선별했다. 보도자료의 내용분석에서 뉴스 가치는 버트(BERT) 계열 언어 모형으로 학습한 분류기를 구성해서 코딩했고, 주제는 대형 언어 모형을 사용한 임베딩 모형을 기반으로 자료를 전처리한 뒤 군집분석을 적용해 분류했다. 신문 기사의 논조 분석도 대형 언어 모형으로 논조 분류기를 구축한 뒤 제로샷 프롬프팅으로 논조값을 구하는 방법을 사용했다. 연구 결과, 첫째, 과학기술 분야 정부 보도자료에 내포된 뉴스 가치의 개수는 보도자료의 기사화 정도에 유의미한 영향을 미치지 않았지만, 뉴스 가치 요인 중 유용성과 부정성이 포함되면 기사화 가능성이 유의하게 높아지고, 정치적 관련성이 포함되면 낮아지는 경향을 발견했다. 보도자료의 주제도 기사화에 긍정적 영향을 미치는 가운데 특히 뉴스 가치 중 부정성 요인은 주제의 효과를 통제한 후에도 기사화 가능성을 높이는 것으로 나타났다. 마지막으로, 신문 기사의 논조를 검토한 결과, 75.2%의 기사가 중립적으로 보도했고, 긍정적 논조는 전체의 24.2%를 차지한 가운데, 우주 탐사, 소재·에너지, 정보통신 분야의 연구 성과에 관한 보도자료를 활용한 기사는 연구 협력 및 연구개발 정책 관련 주제의 보도자료를 활용한 기사에 비해 사건을 더 긍정적인 논조로 보도했다는 것을 확인했다. 이 연구는 과학기술 분야 정부 보도자료의 기사화에 영향을 미치는 요인을 실증적으로 분석했다는 의의를 지닌다. 과학기술 관련 보도에서 언론은 정부 보도자료에 상당 부분 의존하는 경향을 보였으며, 보도자료의 주제적 성격과 내포된 뉴스 가치, 그리고 기자 전문성이 언론의 보도자료 활용 방식에 복합적인 영향을 미치는 것을 확인했다.",
+    "abstract_en": "This study examines how the news values and topics of government press releases in the science and technology sector shape both the extent and the tone of newspaper coverage. Research on information subsidies has long raised concerns about the quantity as well as the quality of news coverage derived from press releases supplied by government sources. Using a series of computational content analyses, we assessed the extent to which press releases issued by Korean government agencies and government-funded research institutes in the information and communication technology (ICT) sector were reflected in newspaper coverage. We collected 11,398 press releases issued during the first two years of the Park Geun-hye, Moon Jae-in, and Yoon Suk Yeol administrations. After data preprocessing, 8,991 releases remained for analysis. The correspondence between press releases and news articles was measured with two complementary indicators. The first was cosine similarity between document representations generated by a trained Doc2Vec model, which captures semantic resemblance. The second was a containment index, which estimates the proportion of textual strings from a press release that reappear verbatim in a news article. News values in the press releases were identified with a classifier built by fine-tuning a BERT-based language model. Press-release topics were derived through cluster analysis of embeddings produced by a large language model (LLM). The tone of the newspaper articles was classified by an LLM using zero-shot prompting. The results show that the total number of news values in a government press release was not significantly associated with the extent of subsequent media coverage. Specific news values, however, had significant effects: usefulness and negativity increased the likelihood of coverage, whereas political relevance decreased it. Three press-release topics were also significantly associated with the likelihood of media coverage. When news values and topics were entered into the model together, negativity was the only significant predictor of coverage. The tone analysis showed that 75.2% of the resulting news articles were neutral and 24.2% were positive. The tone of coverage also varied by press-release topic. News articles reporting research achievements in space exploration, materials and energy, and ICT were significantly more positive than articles concerning research collaboration and research and development policy. Finally, articles by members of the Korean Science Journalists Association were less likely to cover press releases positively. Overall, the findings demonstrate that science and technology journalism relies substantially on information subsidies produced by the government, yet journalists take up these materials selectively rather than uniformly. The extent to which government press releases are incorporated into news coverage, and the manner in which they are framed, are jointly shaped by their topics, the news values they contain, and the professional practices and expertise of journalists.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398596",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "이 연구는 과학기술 관련 정부 보도자료에 담긴 뉴스 가치와 주제가 신문 기사의 기사화와 논조에 미치는 영향을 알아보기 위해, 정부 및 정부출연연구소가 작성한 과학기술 관련 보도자료를 수집하여 그 보도자료와 관련한 기사들이 얼마나 그리고 어떻게 보도됐는지 정부 보도자료와 관련 기사 간 전산 기반 내용분석을 수행하여 검토했다. 이런 언론의 기사화 경향이 정권에 따라 달라질 것을 예상해서, 박근혜, 문재인, 윤석열 집권 초기 2년간 정부 및 정부출연연구소가 공표한 총 11,398건의 보도자료를 기초 자료로 삼았다. 이 보도자료를 기초로 작성된 신문 기사를 찾기 위해 독투벡(Doc2Vec) 모형을 적용한 학습을 활용해서 문서 간 유사성을 측정하는 코사인 유사도 지수와 더불어 텍스트 자료의 문자열을 비교해서 보도자료가 기사에 포함될 확률을 구하는 내포지수(containment index)를 함께 적용해 총 8,991건의 기사를 선별했다. 보도자료의 내용분석에서 뉴스 가치는 버트(BERT) 계열 언어 모형으로 학습한 분류기를 구성해서 코딩했고, 주제는 대형 언어 모형을 사용한 임베딩 모형을 기반으로 자료를 전처리한 뒤 군집분석을 적용해 분류했다. 신문 기사의 논조 분석도 대형 언어 모형으로 논조 분류기를 구축한 뒤 제로샷 프롬프팅으로 논조값을 구하는 방법을 사용했다. 연구 결과, 첫째, 과학기술 분야 정부 보도자료에 내포된 뉴스 가치의 개수는 보도자료의 기사화 정도에 유의미한 영향을 미치지 않았지만, 뉴스 가치 요인 중 유용성과 부정성이 포함되면 기사화 가능성이 유의하게 높아지고, 정치적 관련성이 포함되면 낮아지는 경향을 발견했다. 보도자료의 주제도 기사화에 긍정적 영향을 미치는 가운데 특히 뉴스 가치 중 부정성 요인은 주제의 효과를 통제한 후에도 기사화 가능성을 높이는 것으로 나타났다. 마지막으로, 신문 기사의 논조를 검토한 결과, 75.2%의 기사가 중립적으로 보도했고, 긍정적 논조는 전체의 24.2%를 차지한 가운데, 우주 탐사, 소재·에너지, 정보통신 분야의 연구 성과에 관한 보도자료를 활용한 기사는 연구 협력 및 연구개발 정책 관련 주제의 보도자료를 활용한 기사에 비해 사건을 더 긍정적인 논조로 보도했다는 것을 확인했다. 이 연구는 과학기술 분야 정부 보도자료의 기사화에 영향을 미치는 요인을 실증적으로 분석했다는 의의를 지닌다. 과학기술 관련 보도에서 언론은 정부 보도자료에 상당 부분 의존하는 경향을 보였으며, 보도자료의 주제적 성격과 내포된 뉴스 가치, 그리고 기자 전문성이 언론의 보도자료 활용 방식에 복합적인 영향을 미치는 것을 확인했다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "플랫폼 시대 공론장과 언론의 관계를 2차 사이버네틱스로 성찰하기: 루만 체계이론을 활용한 언론성의 개념화: 플랫폼방송체계와 저널리즘공론장을 중심으로",
+    "authors": [
+      "김영빈"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "137-172",
+    "keywords": [
+      "루만",
+      "하버마스",
+      "2차 사이버네틱스",
+      "플랫폼방송체계",
+      "저널리즘공론장",
+      "언론성",
+      "Luhmann",
+      "Habermas",
+      "second-order cybernetics",
+      "platform broadcasting systems",
+      "journalism public sphere",
+      "journalism-ness"
+    ],
+    "abstract_ko": "플랫폼 시대 공론장과 언론의 변화는 오늘날 ‘언론성’을 묻게 한다. 이 연구는 매스미디어체계가 사회 현실을 구성하는 자신의 기능을 어떻게 성찰할 수 있는지, 플랫폼방송체계는 이 성찰의 조건을 어떻게 바꾸는지 루만의 체계이론과 2차 사이버네틱스를 활용해 이론적으로 탐구한다. 연구는 세 단계를 밟는다. 첫 단계로 커뮤니케이션에서 ‘이해’란 무엇인지 살펴본다. 언론과 공론장의 현실을 비판하며, 우리는 상호이해에 실패한 커뮤니케이션들에 좌절한다. 하지만 하버마스적 관점 바깥에는 상호이해 실패를 커뮤니케이션의 정상적 상황으로 설명하며, 공론장과 언론의 관계를 이해 차이에 바탕을 두고 설명하는 이론도 있다. 본 연구는 언어의 예/아니오 문제와 이중의 우연성 문제를 중심으로 하버마스와 루만이 ‘이해’를 어떻게 다르게 개념화하는지 비교한다. 이를 통해 플랫폼 시대 공론장과 언론의 관계를 루만의 체계이론으로 탐구하는 이론적 가치를 설명한다. 두 번째 단계에서는 매스미디어체계의 기능적 역설을 2차 사이버네틱스의 관점에서 분석한다. 매스미디어체계는 사회의 자기관찰을 지휘하는 기능을 한다. 이 기능은 송신자와 수신자의 재귀적 선택에 준거한 커뮤니케이션으로 사회 현실을 구성하며 수행된다. 이 현실로 사회를 관찰하는 동안 송·수신자는 이 현실 구성에 자신이 관여한다는 사실을 인식하지 못한다. 인식하는 순간 관찰 대상이 사회 현실을 보여주는 정보에서 매스미디어가 정보를 구성하는 현실로 옮겨가기 때문이다. 이때 미디어의 현실 구성 자체가 관찰되고 비판될 수 있다. 다만 현실 구성을 비판하는 이 관찰 역시 송·수신자 자신의 선택 조건을 보지 못하는 맹점을 남긴다. 2차 사이버네틱스적 성찰은 그 비판 또한 현실 구성에 관여한다는 점을 다시 관찰하도록 요구한다. 재귀성의 맹점을 기능적 역설과 함께 보게 하는 것이다. 마지막 단계에서는 플랫폼이 초래한 변화와 함께 성찰의 가능성이 어떻게 달라지는지 논한다. 플랫폼은 방송자(송신자)와 구독자(수신자) 간 재귀적 선택의 속도와 밀도를 높이고 이를 사회 전체에 보여준다. 플랫폼 시대 매스미디어는 각기 재귀적 선택의 차이로 서로를 구별하는 여러 체계를 포함한다. 오늘날 사회의 자기관찰 지휘는 이들 간의 상호 참조와 비교 속에서 진행된다. 이 연구는 플랫폼 시대 매스미디어 내부의 이 기능적 부분체계들을 ‘플랫폼방송체계’로 개념화한다. 플랫폼 기업은 알고리즘과 수익화 조건을 수정하며 이들 체계에 개입한다. 플랫폼방송체계들의 이전과 이후 선택 차이가 사회 전체에 드러나고 비교되면서, 매스미디어체계는 자기교란에 직면한다. 이 교란이 자신의 현실 구성 기준과 언론적 자율성을 문제 삼는 관찰로 이어질 때, 성찰의 계기가 될 수 있다. 방송자와 구독자의 선택 및 그 기준을 매스미디어의 기능에 비추어 공개적으로 비교·검토하는 네트워크가 형성될 때, 매스미디어를 성찰하는 고유한 공론장이 출현한다. 이 거울을 본 연구는 ‘저널리즘공론장’으로 개념화한다. 저널리즘공론장은 현실 구성 기준을 합의하는 상호이해적 장소가 아니라 이해 차이를 보여주는 성찰매체다. 이 거울은 방송자와 구독자에게 자신들의 선택 기준이 무엇을 보게 하고 무엇을 보지 못하게 하는지, 그 기준을 어떻게 정당화할 수 있는지 되묻게 한다. 이 과정은 자신의 선택 기준과 그 결과를 매스미디어의 기능에 비추어 재검토한다는 의미에서 언론적 합리성을 모색할 가능성을 연다. 이 연구가 말하는 ‘언론성’은 무엇을 언론답다고 이해하고 선택하는지를 둘러싼 커뮤니케이션에서 구성되는 의미구성체를 가리킨다. 이로써 플랫폼 시대 언론 연구의 시야를 언론이냐 아니냐를 판단하는 데서, 서로 다른 언론성의 구성과 그 차이에 대한 성찰, 나아가 언론성의 진화 가능성으로 확장하는 데 기여한다. 플랫폼방송체계의 자기교란이 어떻게 성찰로 전환되는지, 이와 함께 매스미디어체계의 언론성은 어떻게 재구성되는지 등은 후속 연구의 과제로 남는다.",
+    "abstract_en": "Changes in the public sphere and journalism in the platform era prompt us to ask what “journalism-ness” means today. Drawing on Luhmann’s systems theory, this theoretical study explores how the mass media system can reflect, in light of its own function, on the conditions under which it constructs reality for society, and how platforms and the journalism public sphere reshape the structure of such reflection. The study first compares Habermas’s and Luhmann’s theories of communication through their concepts of understanding, distinguishing mutual understanding as a normative orientation from understanding as a selection constituting communication. For Luhmann, understanding distinguishes information from utterance without determining acceptance or rejection. Disagreement and misunderstanding can therefore sustain further communication. This distinction shifts analysis from information transfer and shared meanings toward reflexive connections between differing observations. Building on this theory of communication, the study uses second-order cybernetics to examine a paradox: the mass media system constructs a background reality that directs society’s self-observation while leaving its own conditions of selection unobserved. Platforms circulate content alongside responses and criticism, making content selections themselves available for further observation. Broadcasters observe subscribers’ responses when selecting subsequent content, while subscribers observe and respond to those selections. Selection and observation thus become objects of further selection and observation within the same communicative process. These reflexive processes depend on broadcasters’ and subscribers’ continuing attention and platform companies’ decisions about visibility and monetization. The study conceptualizes the communicative systems formed through these reflexive relations within mass media as platform broadcasting systems. As observations of their selections return as conditions for subsequent communication, these systems experience self-irritation: their construction of background reality becomes harder to leave unexamined. Such self-irritation, arising from recursive communication, can prompt reflection on journalistic autonomy. Here, autonomy concerns how the system processes these dependencies according to its own criteria for selecting information. When these criteria are publicly examined in light of the mass media system’s own function, a public sphere may emerge within that system. The study calls this the journalism public sphere: a communicative structure in which the system observes its own selections and the frames of reference guiding them. Its boundary is defined by taking the system’s own operations and function as objects of observation, rather than by observers’ organizational or professional membership. Here, reflection focuses on maintaining or revising the selection criteria constituting news reporting programs under the information/non-information binary code. Reflection on these criteria and routines takes shape through reflexive second-order observation among broadcasters, subscribers, and platforms. Further research should examine the concrete forms of the journalism public sphere and the ways journalism-ness evolves through it. The public sphere is thus understood both as an external object represented by the mass media system and as an internal medium for its self-reflection. The study contributes a perspective for analyzing how selections are recognized as journalistic and how the criteria for such recognition are constituted and contested. Conceptualizing this dimension of meaning as journalism-ness extends inquiry beyond news organizations toward reflection on selection criteria through reflexive communication and the evolutionary possibilities of news reporting programs through the journalism public sphere.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398597",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "플랫폼 시대 공론장과 언론의 변화는 오늘날 ‘언론성’을 묻게 한다. 이 연구는 매스미디어체계가 사회 현실을 구성하는 자신의 기능을 어떻게 성찰할 수 있는지, 플랫폼방송체계는 이 성찰의 조건을 어떻게 바꾸는지 루만의 체계이론과 2차 사이버네틱스를 활용해 이론적으로 탐구한다. 연구는 세 단계를 밟는다. 첫 단계로 커뮤니케이션에서 ‘이해’란 무엇인지 살펴본다. 언론과 공론장의 현실을 비판하며, 우리는 상호이해에 실패한 커뮤니케이션들에 좌절한다. 하지만 하버마스적 관점 바깥에는 상호이해 실패를 커뮤니케이션의 정상적 상황으로 설명하며, 공론장과 언론의 관계를 이해 차이에 바탕을 두고 설명하는 이론도 있다. 본 연구는 언어의 예/아니오 문제와 이중의 우연성 문제를 중심으로 하버마스와 루만이 ‘이해’를 어떻게 다르게 개념화하는지 비교한다. 이를 통해 플랫폼 시대 공론장과 언론의 관계를 루만의 체계이론으로 탐구하는 이론적 가치를 설명한다. 두 번째 단계에서는 매스미디어체계의 기능적 역설을 2차 사이버네틱스의 관점에서 분석한다. 매스미디어체계는 사회의 자기관찰을 지휘하는 기능을 한다. 이 기능은 송신자와 수신자의 재귀적 선택에 준거한 커뮤니케이션으로 사회 현실을 구성하며 수행된다. 이 현실로 사회를 관찰하는 동안 송·수신자는 이 현실 구성에 자신이 관여한다는 사실을 인식하지 못한다. 인식하는 순간 관찰 대상이 사회 현실을 보여주는 정보에서 매스미디어가 정보를 구성하는 현실로 옮겨가기 때문이다. 이때 미디어의 현실 구성 자체가 관찰되고 비판될 수 있다. 다만 현실 구성을 비판하는 이 관찰 역시 송·수신자 자신의 선택 조건을 보지 못하는 맹점을 남긴다. 2차 사이버네틱스적 성찰은 그 비판 또한 현실 구성에 관여한다는 점을 다시 관찰하도록 요구한다. 재귀성의 맹점을 기능적 역설과 함께 보게 하는 것이다. 마지막 단계에서는 플랫폼이 초래한 변화와 함께 성찰의 가능성이 어떻게 달라지는지 논한다. 플랫폼은 방송자(송신자)와 구독자(수신자) 간 재귀적 선택의 속도와 밀도를 높이고 이를 사회 전체에 보여준다. 플랫폼 시대 매스미디어는 각기 재귀적 선택의 차이로 서로를 구별하는 여러 체계를 포함한다. 오늘날 사회의 자기관찰 지휘는 이들 간의 상호 참조와 비교 속에서 진행된다. 이 연구는 플랫폼 시대 매스미디어 내부의 이 기능적 부분체계들을 ‘플랫폼방송체계’로 개념화한다. 플랫폼 기업은 알고리즘과 수익화 조건을 수정하며 이들 체계에 개입한다. 플랫폼방송체계들의 이전과 이후 선택 차이가 사회 전체에 드러나고 비교되면서, 매스미디어체계는 자기교란에 직면한다. 이 교란이 자신의 현실 구성 기준과 언론적 자율성을 문제 삼는 관찰로 이어질 때, 성찰의 계기가 될 수 있다. 방송자와 구독자의 선택 및 그 기준을 매스미디어의 기능에 비추어 공개적으로 비교·검토하는 네트워크가 형성될 때, 매스미디어를 성찰하는 고유한 공론장이 출현한다. 이 거울을 본 연구는 ‘저널리즘공론장’으로 개념화한다. 저널리즘공론장은 현실 구성 기준을 합의하는 상호이해적 장소가 아니라 이해 차이를 보여주는 성찰매체다. 이 거울은 방송자와 구독자에게 자신들의 선택 기준이 무엇을 보게 하고 무엇을 보지 못하게 하는지, 그 기준을 어떻게 정당화할 수 있는지 되묻게 한다. 이 과정은 자신의 선택 기준과 그 결과를 매스미디어의 기능에 비추어 재검토한다는 의미에서 언론적 합리성을 모색할 가능성을 연다. 이 연구가 말하는 ‘언론성’은 무엇을 언론답다고 이해하고 선택하는지를 둘러싼 커뮤니케이션에서 구성되는 의미구성체를 가리킨다. 이로써 플랫폼 시대 언론 연구의 시야를 언론이냐 아니냐를 판단하는 데서, 서로 다른 언론성의 구성과 그 차이에 대한 성찰, 나아가 언론성의 진화 가능성으로 확장하는 데 기여한다. 플랫폼방송체계의 자기교란이 어떻게 성찰로 전환되는지, 이와 함께 매스미디어체계의 언론성은 어떻게 재구성되는지 등은 후속 연구의 과제로 남는다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "리더의 독단적·사교적 의사소통 성향과 MZ세대 직장인의 번아웃: 심리적 안전감과 정서적 몰입의 순차매개효과",
+    "authors": [
+      "김강현",
+      "상윤모"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "173-209",
+    "keywords": [
+      "리더의 의사소통 성향",
+      "심리적 안전감",
+      "정서적 몰입",
+      "번아웃",
+      "MZ세대",
+      "leader communication styles",
+      "psychological safety",
+      "affective commitment",
+      "burnout",
+      "MZ generation"
+    ],
+    "abstract_ko": "오늘날 조직에서의 의사소통은 단순한 정보 전달로서가 아닌 구성원의 심리 상태와 조직태도를 결정짓고 나아가 조직성과에까지 영향을 미치는 요인으로 인식된다. 그중에서도 리더의 소통 방식은 구성원이 조직 안에서 관계를 경험하고 본인의 역할을 해석하는 과정에 영향을 미치는데, 부적절한 소통 방식이 반복될 땐 구성원의 심리적 이탈과 번아웃으로 이어질 수 있다. 따라서 본 연구를 통해 MZ세대 직장인을 대상으로 리더의 의사소통 성향이 번아웃에 미치는 영향과 그 과정에서 심리적 안전감과 정서적 몰입의 매개 역할을 검증하고자 한다. 본 연구는 리스와 브랜트(Reece & Brandt, 1984)의 의사소통 성향 모형을 토대로, 구성원이 지각한 리더의 독단적 의사소통과 사교적 의사소통을 각각 독립변수로 설정하였다. 그리고 심리적 안전감과 정서적 몰입을 매개변수로, 번아웃을 종속변수로 두었다. 직속 상사와 6개월 이상 함께 근무한 국내 MZ세대 직장인 300명을 대상으로 온라인 설문조사를 실시하고, 다변량 이상치를 제외한 최종 281명의 응답을 토대로 각 변수 간 직접효과와 매개효과를 구조방정식 모형과 부트스트래핑으로 분석하였다. 분석 결과 사교적 의사소통은 심리적 안전감과 정서적 몰입을 높이고, 심리적 안전감 역시 정서적 몰입을 높이는 것으로 확인되었다. 독단적 의사소통은 번아웃을 높였으나 심리적 안전감에는 유의한 영향을 미치지 않았다. 독단적 의사소통이 정서적 몰입에 미치는 영향에 대해서는 가설에서 예측한 부적 관계와 달리 유의한 정적 효과가 나타났다. 그 외 정서적 몰입은 번아웃을 유의하게 낮췄다. 매개효과의 경우, 심리적 안전감만을 거치는 경로는 유의하지 않았으나 정서적 몰입을 거치는 경로는 유의하였다. 한편 심리적 안전감과 정서적 몰입을 거치는 순차매개효과는 사교적 의사소통 성향과 번아웃의 관계에서만 확인되었다. 이러한 결과는 리더의 의사소통 성향이 구성원의 번아웃에 서로 다른 경로로 작용함을 보여준다. 독단적 의사소통은 번아웃을 직접 높이는 위험요인이었고, 사교적 의사소통은 심리적 안전감과 정서적 몰입을 거치는 간접 경로를 통해서만 번아웃 완화와 연결되었다. 독단적 의사소통은 가설과 달리 정서적 몰입과 정(+)의 관계를 보였다. 이는 의사소통 성향의 영향이 결과변인에 따라 단일한 방향으로 나타나지 않을 가능성을 시사한다. 다만 독단적 의사소통이 번아웃을 높이는 직접효과도 함께 확인되었으므로 이를 긍정적인 소통 방식으로 일반화할 수는 없다. 아울러 사교적 의사소통의 효과가 두 매개변수를 거쳐서만 나타났다는 점은, 번아웃 예방의 관건이 리더의 친화적 태도 자체가 아니라 구성원이 불이익 걱정 없이 발언할 수 있다는 인식과 조직에 대한 정서적 애착의 형성에 있음을 뜻한다. 따라서 리더십 교육은 친화적 표현에 그치지 않고 명확한 피드백과 구성원 의견에 대한 수용적 반응까지 포괄할 필요가 있다.",
+    "abstract_en": "Communication in organizations today is recognized not merely as information transfer but as a factor that determines members’ psychological states and organizational attitudes and, in turn, affects organizational performance. In particular, a leader’s communication style shapes how members experience relationships within the organization and interpret their own roles; when an inappropriate communication style is used repeatedly, it can lead to members’ psychological withdrawal and burnout. Focusing on MZ generation employees, this study therefore examines the effect of leaders’ communication styles on burnout and verifies the mediating roles of psychological safety and affective commitment in that process. Based on the communication style model of Reece and Brandt (1984), this study treated members’ perceptions of their leader’s dominant and sociable communication as separate independent variables. Psychological safety and affective commitment served as mediating variables, and burnout as the dependent variable. An online survey was conducted with 300 MZ generation employees in South Korea who had worked with their immediate supervisor for six months or longer. After multivariate outliers were excluded, the responses of the remaining 281 participants were analyzed using structural equation modeling and bootstrapping to test the direct and mediating effects among the variables. The analysis confirmed that sociable communication increased psychological safety and affective commitment, and that psychological safety likewise increased affective commitment. Dominant communication increased burnout but had no significant effect on psychological safety. Contrary to the hypothesized negative relationship, dominant communication had a significant positive effect on affective commitment. In addition, affective commitment significantly reduced burnout. Regarding mediating effects, the indirect path through psychological safety alone was not significant, whereas the path through affective commitment was. The sequential mediating effect through psychological safety and affective commitment was found only for the relationship between sociable communication and burnout. These results show that leaders’ communication styles affect members’ burnout through different paths. Dominant communication was a risk factor that directly increased burnout, whereas sociable communication was linked to reduced burnout only indirectly, through psychological safety and affective commitment. Contrary to the hypothesis, dominant communication showed a positive association with affective commitment. This suggests that the effect of a communication style may not operate in a uniform direction across outcomes. However, because dominant communication also directly increased burnout, it cannot be generalized as a positive communication style. In addition, the fact that the effects of sociable communication appeared only through the two mediating variables means that the key to preventing burnout lies not in a leader’s friendly attitude itself, but in fostering members’ perception that they can speak up without fear of negative consequences and their emotional attachment to the organization. Leadership training therefore needs to encompass not only friendly expression but also clear feedback and receptive responses to members’ opinions.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398598",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "오늘날 조직에서의 의사소통은 단순한 정보 전달로서가 아닌 구성원의 심리 상태와 조직태도를 결정짓고 나아가 조직성과에까지 영향을 미치는 요인으로 인식된다. 그중에서도 리더의 소통 방식은 구성원이 조직 안에서 관계를 경험하고 본인의 역할을 해석하는 과정에 영향을 미치는데, 부적절한 소통 방식이 반복될 땐 구성원의 심리적 이탈과 번아웃으로 이어질 수 있다. 따라서 본 연구를 통해 MZ세대 직장인을 대상으로 리더의 의사소통 성향이 번아웃에 미치는 영향과 그 과정에서 심리적 안전감과 정서적 몰입의 매개 역할을 검증하고자 한다. 본 연구는 리스와 브랜트(Reece & Brandt, 1984)의 의사소통 성향 모형을 토대로, 구성원이 지각한 리더의 독단적 의사소통과 사교적 의사소통을 각각 독립변수로 설정하였다. 그리고 심리적 안전감과 정서적 몰입을 매개변수로, 번아웃을 종속변수로 두었다. 직속 상사와 6개월 이상 함께 근무한 국내 MZ세대 직장인 300명을 대상으로 온라인 설문조사를 실시하고, 다변량 이상치를 제외한 최종 281명의 응답을 토대로 각 변수 간 직접효과와 매개효과를 구조방정식 모형과 부트스트래핑으로 분석하였다. 분석 결과 사교적 의사소통은 심리적 안전감과 정서적 몰입을 높이고, 심리적 안전감 역시 정서적 몰입을 높이는 것으로 확인되었다. 독단적 의사소통은 번아웃을 높였으나 심리적 안전감에는 유의한 영향을 미치지 않았다. 독단적 의사소통이 정서적 몰입에 미치는 영향에 대해서는 가설에서 예측한 부적 관계와 달리 유의한 정적 효과가 나타났다. 그 외 정서적 몰입은 번아웃을 유의하게 낮췄다. 매개효과의 경우, 심리적 안전감만을 거치는 경로는 유의하지 않았으나 정서적 몰입을 거치는 경로는 유의하였다. 한편 심리적 안전감과 정서적 몰입을 거치는 순차매개효과는 사교적 의사소통 성향과 번아웃의 관계에서만 확인되었다. 이러한 결과는 리더의 의사소통 성향이 구성원의 번아웃에 서로 다른 경로로 작용함을 보여준다. 독단적 의사소통은 번아웃을 직접 높이는 위험요인이었고, 사교적 의사소통은 심리적 안전감과 정서적 몰입을 거치는 간접 경로를 통해서만 번아웃 완화와 연결되었다. 독단적 의사소통은 가설과 달리 정서적 몰입과 정(+)의 관계를 보였다. 이는 의사소통 성향의 영향이 결과변인에 따라 단일한 방향으로 나타나지 않을 가능성을 시사한다. 다만 독단적 의사소통이 번아웃을 높이는 직접효과도 함께 확인되었으므로 이를 긍정적인 소통 방식으로 일반화할 수는 없다. 아울러 사교적 의사소통의 효과가 두 매개변수를 거쳐서만 나타났다는 점은, 번아웃 예방의 관건이 리더의 친화적 태도 자체가 아니라 구성원이 불이익 걱정 없이 발언할 수 있다는 인식과 조직에 대한 정서적 애착의 형성에 있음을 뜻한다. 따라서 리더십 교육은 친화적 표현에 그치지 않고 명확한 피드백과 구성원 의견에 대한 수용적 반응까지 포괄할 필요가 있다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "청년의 기성 언론 신뢰 유형: 신뢰, 불신, 비신뢰/비불신 태도의 형성 이유와 민주시민 역량",
+    "authors": [
+      "최지향",
+      "이재현",
+      "이슬기"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "210-246",
+    "keywords": [
+      "기성 언론",
+      "언론 신뢰",
+      "언론 불신",
+      "시민역량",
+      "청년",
+      "legacy news media",
+      "news trust",
+      "news distrust",
+      "civic competence",
+      "young adults"
+    ],
+    "abstract_ko": "연구자들은 대한민국 청년에 집중해 기성 언론을 신뢰하는 청년, 신뢰하지 않는 청년, 신뢰도 불신도 하지 않는 청년으로 구분해, 이들이 어떤 이유로 언론에 대한 각각의 태도를 형성하고 있는지 살펴봤다. 또한 이들 세 집단에 속한 청년들이 뉴스 이용 정도, 정치적 성향, 민주시민으로서 역량 측면에서 어떤 차이가 있는지도 살펴봤다. 분석을 위해 2023년 4월 18일부터 4월 21일까지 대한민국 청년(만 19세~만 35세)을 대상으로 실시한 온라인 설문조사 데이터를 이용했다. 응답자 중 기성 언론을 신뢰도 불신도 하지 않는다고 답한 청년(44.3%)과 신뢰하지 않는다고 답한 청년(37.8%)이 많았고, 언론을 신뢰한다고 답한 청년(17.9%)은 상대적으로 적었다. 우선 연구진은 응답자들이 기성 언론을 신뢰하거나, 신뢰하지 않거나, 또는 신뢰도 불신도 하지 않는 이유에 대해 개방형으로 직접 서술한 답변을 분석했다. 기성 언론을 신뢰하는 이들은 기성 언론 보도의 높은 사실성, 높은 전문성을 신뢰의 이유로 들었다. 기성 언론을 불신하는 청년들은 불편부당성 부족, 독립성 부족, 사실성 부족을 주된 이유로 들었다. 더불어 일부 청년들은 기성 언론이 공익보다는 사익을 추구하며 비윤리적으로 행동하는 집단이라는 이유로 불신하고 있었다. 한편 언론을 신뢰도 불신도 하지 않는 태도는 단순히 신뢰 또는 불신으로 설명하기 어려운 복잡하고 미묘한 반감이 복합적으로 표출된 결과임을 보여준다. 이들은 주요 저널리즘 원칙(사실확인, 불편부당성, 독립성)을 때론 지키고 때론 지키지 않는 기성 언론의 일관되지 않은 역할 수행 방식에 대해 회의적인 태도를 지니고 있거나, 기성 언론을 자신과 관계없는 기구라고 여기거나, 언론에 대해 비판적인 태도를 견지하며 의도적으로 기성 언론과 거리를 두고 있었다. 이어 기성 언론을 신뢰하거나, 신뢰하지 않거나, 신뢰도 불신도 하지 않는 태도에 따라 뉴스 이용 정도, 정치적 성향, 시민역량, 민주주의 기구에 대한 인식에 어떤 차이가 있는지 살펴봤다. 그 결과 기성 언론을 신뢰하는 청년들은 신뢰하지 않는 청년들보다 기성 언론의 뉴스를 더 많이 이용하고 있었다. 기성 언론을 신뢰하지 않는 이들은 언론을 불신도 신뢰도 하지 않은 이들보다 정치적으로 진보적인 성향을 띠고 있었으며 이념 강도도 높았다. 흥미로운 점은 언론을 신뢰하지 않는 이들은 다른 집단의 청년들보다 교육 수준, 정치 관심, 객관적 정치지식이 높다는 것이다. 즉 언론을 불신하는 이들은 전통적으로 높은 시민역량을 지녔다고 평가받는 이들이었다. 하지만 정치효능감에 있어서는 다른 경향성이 나타났는데, 언론을 신뢰하는 이들의 정치효능감이 언론을 불신도 신뢰도 하지 않는 이들보다 높았다. 또한 기성 언론을 신뢰하는 이들은 다른 집단의 청년들보다 언론, 행정, 사법, 입법 등 주요 민주주의 기구의 중요성을 더 높게 인식하고 있었다.",
+    "abstract_en": "This study focuses on young adults in South Korea and examines why they trust, distrust, or neither trust nor distrust legacy news media. It also investigates whether these three groups differ in news use, political orientation, and civic competence, including political interest, political efficacy, political knowledge, political participation, and perceptions of democratic institutions. The analysis draws on data from an online survey of South Korean young adults (aged 19–35) conducted between April 18 and April 21, 2023. Among respondents, 44.3% neither trusted nor distrusted legacy news media, 37.8% distrusted them, and only 17.9% expressed trust. First, the study analyzed respondents’ open-ended explanations for their attitudes toward legacy news media. Those who trusted legacy news media cited the high factual accuracy and professional expertise of their reporting as the primary reasons for their trust. By contrast, young adults who distrusted legacy news media pointed mainly to a lack of impartiality, independence, and factual accuracy. Some also expressed distrust because they perceived legacy news media as self-interested institutions that prioritize private interests over the public good and engage in unethical practices. Meanwhile, the findings suggest that neither trusting nor distrusting the media reflects a complex and nuanced set of reservations that cannot be adequately explained in terms of trust or distrust alone. These respondents were skeptical of legacy news media’s inconsistent adherence to key journalistic principles, including fact-checking, impartiality, and independence; regarded legacy media as institutions irrelevant to their lives; or deliberately maintained distance from the media while adopting a critical stance toward them. The study further examined differences across the three groups in news consumption, political orientation, civic competence, and perceptions of democratic institutions. Young adults who trusted legacy news media consumed more legacy news than those who distrusted them. Individuals who distrusted the media were more politically liberal and held stronger ideological views than those who neither trusted nor distrusted them. Interestingly, news media distrusters exhibited higher levels of education, political interest, and objective political knowledge than members of the other groups, characteristics traditionally associated with high civic competence. A different pattern emerged for political efficacy: those who trusted the news media reported higher levels of political efficacy than those who neither trusted nor distrusted them. They also assigned greater importance than the other groups to key democratic institutions, including the media, executive, judiciary, and legislature. These findings provide important insights into where discussions of news trust should be focused in the future. They also offer a foundation for developing more effective and practical policy and societal strategies to enhance public trust in the news media.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398599",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "연구자들은 대한민국 청년에 집중해 기성 언론을 신뢰하는 청년, 신뢰하지 않는 청년, 신뢰도 불신도 하지 않는 청년으로 구분해, 이들이 어떤 이유로 언론에 대한 각각의 태도를 형성하고 있는지 살펴봤다. 또한 이들 세 집단에 속한 청년들이 뉴스 이용 정도, 정치적 성향, 민주시민으로서 역량 측면에서 어떤 차이가 있는지도 살펴봤다. 분석을 위해 2023년 4월 18일부터 4월 21일까지 대한민국 청년(만 19세~만 35세)을 대상으로 실시한 온라인 설문조사 데이터를 이용했다. 응답자 중 기성 언론을 신뢰도 불신도 하지 않는다고 답한 청년(44.3%)과 신뢰하지 않는다고 답한 청년(37.8%)이 많았고, 언론을 신뢰한다고 답한 청년(17.9%)은 상대적으로 적었다. 우선 연구진은 응답자들이 기성 언론을 신뢰하거나, 신뢰하지 않거나, 또는 신뢰도 불신도 하지 않는 이유에 대해 개방형으로 직접 서술한 답변을 분석했다. 기성 언론을 신뢰하는 이들은 기성 언론 보도의 높은 사실성, 높은 전문성을 신뢰의 이유로 들었다. 기성 언론을 불신하는 청년들은 불편부당성 부족, 독립성 부족, 사실성 부족을 주된 이유로 들었다. 더불어 일부 청년들은 기성 언론이 공익보다는 사익을 추구하며 비윤리적으로 행동하는 집단이라는 이유로 불신하고 있었다. 한편 언론을 신뢰도 불신도 하지 않는 태도는 단순히 신뢰 또는 불신으로 설명하기 어려운 복잡하고 미묘한 반감이 복합적으로 표출된 결과임을 보여준다. 이들은 주요 저널리즘 원칙(사실확인, 불편부당성, 독립성)을 때론 지키고 때론 지키지 않는 기성 언론의 일관되지 않은 역할 수행 방식에 대해 회의적인 태도를 지니고 있거나, 기성 언론을 자신과 관계없는 기구라고 여기거나, 언론에 대해 비판적인 태도를 견지하며 의도적으로 기성 언론과 거리를 두고 있었다. 이어 기성 언론을 신뢰하거나, 신뢰하지 않거나, 신뢰도 불신도 하지 않는 태도에 따라 뉴스 이용 정도, 정치적 성향, 시민역량, 민주주의 기구에 대한 인식에 어떤 차이가 있는지 살펴봤다. 그 결과 기성 언론을 신뢰하는 청년들은 신뢰하지 않는 청년들보다 기성 언론의 뉴스를 더 많이 이용하고 있었다. 기성 언론을 신뢰하지 않는 이들은 언론을 불신도 신뢰도 하지 않은 이들보다 정치적으로 진보적인 성향을 띠고 있었으며 이념 강도도 높았다. 흥미로운 점은 언론을 신뢰하지 않는 이들은 다른 집단의 청년들보다 교육 수준, 정치 관심, 객관적 정치지식이 높다는 것이다. 즉 언론을 불신하는 이들은 전통적으로 높은 시민역량을 지녔다고 평가받는 이들이었다. 하지만 정치효능감에 있어서는 다른 경향성이 나타났는데, 언론을 신뢰하는 이들의 정치효능감이 언론을 불신도 신뢰도 하지 않는 이들보다 높았다. 또한 기성 언론을 신뢰하는 이들은 다른 집단의 청년들보다 언론, 행정, 사법, 입법 등 주요 민주주의 기구의 중요성을 더 높게 인식하고 있었다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "디지털 영상물 이용 환경에서 한국형 페어런츠 가이드(Parents’ Guide)의 필요성과 구성 방향: 학부모 심층 인터뷰와 청소년 FGI를 중심으로",
+    "authors": [
+      "원숙경",
+      "최효진",
+      "김미경"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "247-283",
+    "keywords": [
+      "페어런츠 가이드",
+      "영상물등급분류",
+      "청소년 미디어 이용",
+      "미디어 리터러시",
+      "디지털 플랫폼",
+      "parents’ guide",
+      "video rating system",
+      "adolescent media use",
+      "media literacy",
+      "digital platform"
+    ],
+    "abstract_ko": "본 연구는 디지털 영상물 이용 환경에서 현행 영상물 등급정보의 활용 한계를 검토하고, 학부모와 청소년의 경험과 요구를 토대로 한국형 페어런츠 가이드의 필요성과 구성 방향을 탐색하였다. 이를 위해 학부모 12명을 대상으로 반구조화 심층인터뷰를, 중·고등학생 8명을 대상으로 FGI를 실시하였다. 분석 결과, 청소년의 영상물 이용은 OTT, 유튜브, SNS, 숏폼 플랫폼을 중심으로 개인화·상시화되어 있었으며, 완결된 작품보다 클립, 요약 영상, 쇼츠·릴스, 추천 콘텐츠 등을 통해 파편적으로 이루어지는 경향이 나타났다. 이에 따라 부모의 시청지도 역시 보호 앱, 키즈 계정, 공동시청, 사전 검토 등 다양한 방식으로 이루어졌으나, 자녀의 성장과 플랫폼 활용 능력, 또래문화, 우회 이용 등으로 기술적 통제에는 구조적 한계가 확인되었다. 현행 등급정보는 학부모와 청소년 모두에게 일정 수준 인지되고 있었으나 실제 시청 판단에서는 제한적으로 활용되었다. 청소년은 청소년관람불가를 제외한 연령등급을 핵심적인 선택 기준으로 삼지 않았으며, 픽토그램과 ‘주제’, ‘모방위험’ 등의 내용정보를 직관적으로 이해하는 데에도 어려움을 보였다. 반면 학부모는 등급정보를 중요한 참고 자료로 인식하면서도 전체관람가의 포괄성, 내용정보의 모호성, 장면의 강도와 맥락에 대한 설명 부족을 지적하였다. 청소년 FGI에서는 참여자들이 서로의 플랫폼 이용 경험, 등급정보에 대한 낮은 주목도, 부모 통제에 대한 수용과 저항을 보충·비교하면서 또래집단의 공통 경험과 차이를 드러냈다. 이를 바탕으로 본 연구는 한국형 페어런츠 가이드를 기존 연령등급을 대체하는 규제 장치가 아니라, 등급정보를 가정과 학교, 플랫폼 이용 맥락에서 이해하고 활용하도록 돕는 설명형·실천형 정보체계로 제안한다. 구체적으로 기본 등급정보, 설명형 내용정보, 발달단계별 안내, 부모용 시청지도 체크리스트, 청소년용 자기 점검 질문, 교사용 활동 자료, 참여형 보완 정보 등을 핵심 구성 요소로 제시하였다. 특히 부모에게는 등급 사유와 장면 맥락을 구체적으로 제공하고, 청소년에게는 자극적 묘사를 줄인 핵심 안내와 자기 판단 질문을, 교사에게는 토론 및 사례 분석 자료를 제공하는 차등형 구조가 필요하다. 이는 한국형 페어런츠 가이드가 규제 강화보다 부모-자녀 대화, 청소년의 자기조절, 미디어리터러시 역량을 지원하는 생활세계 기반의 등급교육 체계로 발전해야 함을 시사한다.",
+    "abstract_en": "This study examines the limitations of existing video-rating information in the contemporary digital media environment and explores the need for and design of a Korean-style Parents’ Guide based on the experiences and expectations of parents and adolescents. Semi-structured in-depth interviews were conducted with 12 parents, while focus group interviews were conducted with eight middle- and high-school students. The study approaches adolescents not merely as subjects of protection but as active media users whose viewing practices are shaped by platform environments, peer cultures, and their own interpretive agency. The findings show that adolescents’ video use has become increasingly individualized, continuous, and platform-centered through OTT services, YouTube, social media, and short-form platforms. Rather than consuming only complete films or television programs, adolescents often encounter content in fragmented form through clips, summaries, Shorts, Reels, recommendation systems, and peer sharing. Parents responded through various mediation strategies, including children’s accounts, parental-control applications, co-viewing, advance screening, and online review searches. However, these forms of technical control became less effective as children grew older because adolescents could use multiple devices and accounts, search for circumvention methods, and rely on peer knowledge and platform affordances. Although both parents and adolescents were aware of age ratings and content information to some degree, such information played only a limited role in actual viewing decisions. Adolescents generally did not regard ratings other than adult-only classifications as decisive criteria for choosing content. They also had difficulty intuitively understanding pictograms and content descriptors such as “theme” and “imitable behavior,” indicating a gap between the institutional provision of rating information and its practical comprehensibility. Parents, by contrast, regarded ratings as useful initial references but criticized the broad scope of the general-audience category, the ambiguity of content descriptors, and the lack of information about the intensity, context, and developmental implications of potentially sensitive scenes. The adolescent FGIs further demonstrated how participants built on, compared, and sometimes qualified one another’s experiences regarding platform use, their low attention to rating information, and their acceptance of and resistance to parental control, revealing both shared experiences and differences within the peer group. Based on these findings, this study conceptualizes a Korean-style Parents’ Guide not as a replacement for the statutory rating system, but as an explanatory and practical information framework that helps users interpret and apply rating information in everyday family, educational, and platform contexts. The proposed model includes basic rating information, explanatory content descriptors, developmental guidance, parental viewing checklists, adolescent self-reflection questions, teacher-oriented learning materials, and moderated participatory information. Differentiated information should be provided according to user needs: detailed rating rationales and scene context for parents, concise and non-sensational self-assessment prompts for adolescents, and discussion- and case-based materials for educators. In this sense, the Korean-style Parents’ Guide should function not primarily as an instrument of stronger regulation, but as a rating-education system grounded in everyday life that supports parental mediation, adolescent self-regulation, parent–child dialogue, and media literacy in the platform-based media environment.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398600",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 디지털 영상물 이용 환경에서 현행 영상물 등급정보의 활용 한계를 검토하고, 학부모와 청소년의 경험과 요구를 토대로 한국형 페어런츠 가이드의 필요성과 구성 방향을 탐색하였다. 이를 위해 학부모 12명을 대상으로 반구조화 심층인터뷰를, 중·고등학생 8명을 대상으로 FGI를 실시하였다. 분석 결과, 청소년의 영상물 이용은 OTT, 유튜브, SNS, 숏폼 플랫폼을 중심으로 개인화·상시화되어 있었으며, 완결된 작품보다 클립, 요약 영상, 쇼츠·릴스, 추천 콘텐츠 등을 통해 파편적으로 이루어지는 경향이 나타났다. 이에 따라 부모의 시청지도 역시 보호 앱, 키즈 계정, 공동시청, 사전 검토 등 다양한 방식으로 이루어졌으나, 자녀의 성장과 플랫폼 활용 능력, 또래문화, 우회 이용 등으로 기술적 통제에는 구조적 한계가 확인되었다. 현행 등급정보는 학부모와 청소년 모두에게 일정 수준 인지되고 있었으나 실제 시청 판단에서는 제한적으로 활용되었다. 청소년은 청소년관람불가를 제외한 연령등급을 핵심적인 선택 기준으로 삼지 않았으며, 픽토그램과 ‘주제’, ‘모방위험’ 등의 내용정보를 직관적으로 이해하는 데에도 어려움을 보였다. 반면 학부모는 등급정보를 중요한 참고 자료로 인식하면서도 전체관람가의 포괄성, 내용정보의 모호성, 장면의 강도와 맥락에 대한 설명 부족을 지적하였다. 청소년 FGI에서는 참여자들이 서로의 플랫폼 이용 경험, 등급정보에 대한 낮은 주목도, 부모 통제에 대한 수용과 저항을 보충·비교하면서 또래집단의 공통 경험과 차이를 드러냈다. 이를 바탕으로 본 연구는 한국형 페어런츠 가이드를 기존 연령등급을 대체하는 규제 장치가 아니라, 등급정보를 가정과 학교, 플랫폼 이용 맥락에서 이해하고 활용하도록 돕는 설명형·실천형 정보체계로 제안한다. 구체적으로 기본 등급정보, 설명형 내용정보, 발달단계별 안내, 부모용 시청지도 체크리스트, 청소년용 자기 점검 질문, 교사용 활동 자료, 참여형 보완 정보 등을 핵심 구성 요소로 제시하였다. 특히 부모에게는 등급 사유와 장면 맥락을 구체적으로 제공하고, 청소년에게는 자극적 묘사를 줄인 핵심 안내와 자기 판단 질문을, 교사에게는 토론 및 사례 분석 자료를 제공하는 차등형 구조가 필요하다. 이는 한국형 페어런츠 가이드가 규제 강화보다 부모-자녀 대화, 청소년의 자기조절, 미디어리터러시 역량을 지원하는 생활세계 기반의 등급교육 체계로 발전해야 함을 시사한다."
+  },
+  {
+    "journal_name": "한국언론학보",
+    "title": "정치적 격변 상황에서 선택적 노출의 심리적 기제: 인지부조화와 숙의적 성향의 역할을 중심으로",
+    "authors": [
+      "정우진",
+      "김효정"
+    ],
+    "publication_year": 2026,
+    "publication_date": "2026",
+    "publication_date_clean": "2026",
+    "volume": "70",
+    "issue": "5",
+    "pages": "284-317",
+    "keywords": [
+      "정치적 격변기",
+      "인지부조화",
+      "선택적 노출",
+      "숙의적 성향",
+      "political upheaval",
+      "cognitive dissonance",
+      "selective exposure",
+      "deliberativeness"
+    ],
+    "abstract_ko": "본 연구는 중대 정치 사건 이후 경험한 인지부조화가 개인의 정치 정보 선택과 어떻게 관련되는지, 그리고 이러한 관계에서 기존 태도와 숙의적 성향이 어떠한 역할을 하는지 검토하였다. 이를 위해 2025년 헌법재판소의 대통령 탄핵 선고 시점을 전후로 종단 패널 자료를 수집하였다. 탄핵 선고 이전 시점에 수행된 1차 설문(T1)에서 대통령 탄핵에 대한 응답자의 태도를 측정하였으며, 헌법재판소의 탄핵 인용 결정 이후 시점(T2)에서는 탄핵 인용 결정 이후 경험한 인지부조화, 숙의적 성향 및 관련 정보에 대한 선택적 노출을 측정하였다. 최종적으로 총 715명의 응답자를 대상으로 분석을 실시하였다. 분석 결과, 탄핵 찬성 집단과 반대 집단 모두 자신의 기존 태도와 일치하는 정보를 더 많이 선택하는 경향을 보였다. 1차 설문에서 탄핵에 반대하여 실제 선고 결과가 기존 태도와 상충한 집단에서는 인지부조화 수준이 높을수록 자신의 기존 태도와 일치하는 정보를 더 많이 선택하였다. 반면 탄핵을 찬성했던 집단에서는 인지부조화가 높을수록 선택적 노출이 감소하는 양상이 나타났다. 다만 해당 집단의 인지부조화 수준과 변산은 제한적이었기 때문에 분석 결과의 의미를 해석하는 데에는 주의가 필요하다. 탄핵 반대 집단에서 숙의적 성향이 인지부조화와 선택적 노출 간 관계를 조절하는지도 검토하였으나, 조절효과는 통계적으로 유의하지 않았다. 이러한 결과는 실제 정치적 사건 이후의 정보 선택이 기존 태도뿐 아니라, 사건 이후 개인이 경험한 심리적 불편감과도 관련될 수 있음을 보여준다. 본 연구는 실제 정치적 사건을 활용한 종단 자료를 통해 인지부조화와 정치 정보 선택의 관계를 살펴보고, 선택적 노출이 나타나는 심리적 조건에 대한 이해를 확장하였다는 점에서 의의가 있다.",
+    "abstract_en": "This study examines how cognitive dissonance experienced following a major political event is associated with political information selection and whether this association varies according to individuals’ prior attitudes and deliberativeness. We conceptualize selective exposure as a context-dependent information behavior that may emerge in response to psychological reactions to the 2025 presidential impeachment ruling by the Constitutional Court of South Korea, a highly salient political event that created different psychological conditions depending on individuals’ prior attitudes toward impeachment. To test these relationships, we collected longitudinal panel data before and after the impeachment ruling. Before the ruling (T1), participants reported their attitudes toward the impeachment. After the Constitutional Court upheld the impeachment (T2), participants reported the cognitive dissonance they experienced as a result of the ruling and their dispositional deliberativeness, and they completed a news selection task. The final sample consisted of 715 participants who completed both waves. Selective exposure was operationalized as the relative preference for news headlines consistent rather than inconsistent with participants’ pre-existing attitudes. The results showed that both pro- and anti-impeachment participants selected more pro-attitudinal than counter-attitudinal information following the ruling, indicating selective exposure in both groups. However, the association between cognitive dissonance and information selection differed between groups. Participants in the anti-impeachment group, whose impeachment attitudes were incongruent with the ruling outcome, reported significantly higher dissonance than those who had supported impeachment. Within the anti-impeachment group, greater cognitive dissonance was associated with stronger selective exposure even after controlling for the strength of impeachment attitudes. This pattern is consistent with the possibility that selecting pro-attitudinal information may serve as a means of reaffirming prior beliefs when a consequential political outcome conflicts with those beliefs. In contrast, among participants who had supported impeachment, cognitive dissonance was generally low, and greater dissonance was associated with weaker selective exposure. This finding should be interpreted cautiously because of the limited variability of cognitive dissonance within this group and uncertainty regarding whether the measure captured an equivalent psychological experience across the two groups. Finally, deliberativeness did not significantly moderate the association between cognitive dissonance and selective exposure among participants who opposed impeachment. An additional analysis using the full sample likewise provided no evidence that deliberativeness moderated differences in the dissonance–selective exposure association across attitude groups. These findings suggest that information selection following a real-world political event may be associated not only with individuals’ pre-existing political attitudes but also with their psychological responses to the event. By linking attitudes measured before the political outcome to cognitive dissonance and information selection measured afterward, this study extends selective exposure research beyond relatively stable attitude-based preferences and highlights the importance of considering the psychological conditions under which selective exposure occurs. At the same time, the nonsignificant role of deliberativeness suggests the need for further research using more reliable measures and in different political contexts.",
+    "doi": "",
+    "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003398601",
+    "collection_date": "2026-11-02",
+    "grade": "A",
+    "keyword_matches": [],
+    "source_type": "kci",
+    "crossref_enriched": false,
+    "abstract": "본 연구는 중대 정치 사건 이후 경험한 인지부조화가 개인의 정치 정보 선택과 어떻게 관련되는지, 그리고 이러한 관계에서 기존 태도와 숙의적 성향이 어떠한 역할을 하는지 검토하였다. 이를 위해 2025년 헌법재판소의 대통령 탄핵 선고 시점을 전후로 종단 패널 자료를 수집하였다. 탄핵 선고 이전 시점에 수행된 1차 설문(T1)에서 대통령 탄핵에 대한 응답자의 태도를 측정하였으며, 헌법재판소의 탄핵 인용 결정 이후 시점(T2)에서는 탄핵 인용 결정 이후 경험한 인지부조화, 숙의적 성향 및 관련 정보에 대한 선택적 노출을 측정하였다. 최종적으로 총 715명의 응답자를 대상으로 분석을 실시하였다. 분석 결과, 탄핵 찬성 집단과 반대 집단 모두 자신의 기존 태도와 일치하는 정보를 더 많이 선택하는 경향을 보였다. 1차 설문에서 탄핵에 반대하여 실제 선고 결과가 기존 태도와 상충한 집단에서는 인지부조화 수준이 높을수록 자신의 기존 태도와 일치하는 정보를 더 많이 선택하였다. 반면 탄핵을 찬성했던 집단에서는 인지부조화가 높을수록 선택적 노출이 감소하는 양상이 나타났다. 다만 해당 집단의 인지부조화 수준과 변산은 제한적이었기 때문에 분석 결과의 의미를 해석하는 데에는 주의가 필요하다. 탄핵 반대 집단에서 숙의적 성향이 인지부조화와 선택적 노출 간 관계를 조절하는지도 검토하였으나, 조절효과는 통계적으로 유의하지 않았다. 이러한 결과는 실제 정치적 사건 이후의 정보 선택이 기존 태도뿐 아니라, 사건 이후 개인이 경험한 심리적 불편감과도 관련될 수 있음을 보여준다. 본 연구는 실제 정치적 사건을 활용한 종단 자료를 통해 인지부조화와 정치 정보 선택의 관계를 살펴보고, 선택적 노출이 나타나는 심리적 조건에 대한 이해를 확장하였다는 점에서 의의가 있다."
+  },
+  {
     "journal_name": "Science as Culture",
     "title": "Manufacturing the Leviathan: Palantir’s ‘Technological republic’ and the nationalist faction of the tech oligarchy",
     "authors": [
@@ -41671,72 +43191,6 @@
     "grade": "A",
     "keyword_matches": [],
     "source_type": "rss",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science, Technology, & Human Values",
-    "title": "Geological (Dis)orientations: Training Sites, Storytelling, and Fieldwork in the Chilean Andes",
-    "authors": [
-      "Martín Fonck"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-10-29T11:40:32Z",
-    "publication_date_clean": "2024-10-29",
-    "volume": "",
-    "issue": "",
-    "abstract": "This article explores place-based geological storytelling by examining the role of training sites in the geoscientific learning process. Based on ethnographic work conducted with geoscientists in the Liquiñe-Ofqui Geological Fault, I illustrate how sites located in the Chilean Andes have historically been used to practice geoscientific storytelling and to learn the language and theory of plate tectonics. Building on scholarship in STS and the history of science which has documented how plate tectonics and the associated paradigm shift changed the authority of field geology, I show how, rather than replacing fieldwork, place-based observations still play a central role in helping students gain a professional vision in geology. Reflecting on fieldwork training sites and geoscientists’ negotiated attempts to tell geological stories, this article speaks to the question: from where are the stories of the earth told?",
-    "doi": "10.1177/01622439241292092?ai=2b4&mi=ehikzz&af=R",
-    "url": "https://journals.sagepub.com/doi/abs/10.1177/01622439241292092?ai=2b4&mi=ehikzz&af=R",
-    "collection_date": "2026-07-06",
-    "grade": "A",
-    "keyword_matches": [
-      "STS"
-    ],
-    "source_type": "rss",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "Toxicity as process: tracing a new epigenetic regime of im/perceptibility in environmental toxicology",
-    "authors": [
-      "Sophia Rossmann",
-      "Ruth Müller"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-10-29",
-    "publication_date_clean": "2024-10-29",
-    "volume": "34",
-    "issue": "3",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2416667",
-    "url": "https://doi.org/10.1080/09505431.2024.2416667",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "crossref",
-    "crossref_enriched": true
-  },
-  {
-    "journal_name": "Science as Culture",
-    "title": "Patient engagement in drug development: dialogically problematizing participation",
-    "authors": [
-      "Claudia Egher",
-      "Tamás Bereczky",
-      "Lisbeth Snede",
-      "Olga Zvonareva"
-    ],
-    "publication_year": 2024,
-    "publication_date": "2024-10-28",
-    "publication_date_clean": "2024-10-28",
-    "volume": "34",
-    "issue": "1",
-    "abstract": "",
-    "doi": "10.1080/09505431.2024.2410719",
-    "url": "https://doi.org/10.1080/09505431.2024.2410719",
-    "collection_date": "2026-07-07",
-    "grade": "B",
-    "keyword_matches": [],
-    "source_type": "crossref",
     "crossref_enriched": true
   },
   {
